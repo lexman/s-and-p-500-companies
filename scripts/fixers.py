@@ -1,39 +1,3 @@
-import csv
-import os
-import urllib
-import dataconverters.xls
-
-# first run the extract
-# os.system('. scripts/constituents.sh')
-source = "http://www.spindices.com/documents/additional-material/sp-500-eps-est.xlsx?force_download=true"
-xlspath = 'cache/constituents.xls'
-path = 'data/constituents.csv'
-
-def execute():
-    urllib.urlretrieve(source, xlspath)
-
-    existingr = csv.reader(open(path))
-    header = existingr.next()
-    # { symbol: row } dict
-    existing = dict([ [row[0], row] for row in existingr ])
-
-    import datautil.tabular.xls as xlstab
-    reader = xlstab.XlsReader()
-    tabdata = reader.read(open(xlspath), sheet_index=3)
-    records = tabdata.data
-
-    header = ['Symbol', 'Name', 'Sector']
-    # data beings on row 7
-    records = records[6:]
-
-    # sheet has: TICKER, COMPANY, ... SECTOR
-    records = [ [ fixsymbol(x[1]), fixname(x[2]), x[9] ] for x in records ]
-    records.sort(key=lambda s: s[1].lower())
-
-    writer = csv.writer(open(path, 'w'), lineterminator='\n')
-    writer.writerow(header)
-    writer.writerows(records)
-
 # BRK/B or BRK.B => BRK-B (this is what yahoo needs)
 def fixsymbol(symbol):
     symbol = symbol.replace('/', '-')
@@ -88,5 +52,10 @@ def fixname(name):
     # unfinished ...
     return name
 
-execute()
-
+def correctToBillions(item):
+   if item.endswith('M'):
+       return float(item[:-1]) / 1000
+   elif item.endswith('B'):
+       return item[:-1]
+   else:
+       return item
