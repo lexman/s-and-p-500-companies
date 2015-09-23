@@ -74,3 +74,11 @@ file://../data/constituents-financials.csv <- file://../data/constituents.csv, f
     writer.writerows(outrows)
     fo.close()
     
+http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/constituents-financials.csv, http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/constituents.csv <- file://../data/constituents-financials.csv, file://../data/constituents.csv
+    git add ../data/constituents-financials.csv ../data/constituents.csv
+    TODAY=`date +%Y%m%d`
+    git commit -m "[data] automatic update $TODAY"
+    # In case someone has pushed some changes during the processing
+    git pull --rebase
+    git push
+
