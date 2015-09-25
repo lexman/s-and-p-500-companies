@@ -7,7 +7,7 @@ In order to run the scripts, you'll need a valid on github with write access on 
 Because you don't have write access to mine.
 
 ## Allow ssh access to your repository
-If you don't have a public/private ssh key pair, follow this (github tutorial)[https://help.github.com/articles/generating-ssh-keys/]
+If you don't have a public/private ssh key pair, follow this  [github tutorial](https://help.github.com/articles/generating-ssh-keys/)
 
 Then you must configure your local ssh access to github with a ``~/.ssh/config`` file. Mine looks like :
 
@@ -28,7 +28,7 @@ Install all dependencies :
     pip install jinja2
     pip install -r requirements.txt
 
-You can also work on a (virtualenv)[http://docs.python-guide.org/en/latest/dev/virtualenvs/] .
+You can also work on a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/) .
 
 NB : under debian-based distributions you might need to be able to compile and install the messytables dependencies : ``sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev``
 

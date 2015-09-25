@@ -41,7 +41,7 @@ the same terms as all the other data.
 
 ### Preparation
 
-You can run the script yourself to update the data and publish them to github : see (scripts README)[scripts/README.md]
+You can run the script yourself to update the data and publish them to github : see [scripts README](scripts/README.md)
 
 ## General Financial Notes
 
