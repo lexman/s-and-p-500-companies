@@ -1,13 +1,13 @@
-file://../cache/constituents.xls <- http://www.spindices.com/documents/additional-material/sp-500-eps-est.xlsx?force_download=true ! download
+file://constituents.xls <- http://www.spindices.com/documents/additional-material/sp-500-eps-est.xlsx?force_download=true ! download
 
-file://../data/constituents.csv <- file://../cache/constituents.xls, file://fixers.py ! python
+file://../data/constituents.csv <- file://constituents.xls, file://fixers.py ! python
     import csv
     #import dataconverters.xls
     import datautil.tabular.xls as xlstab
     from fixers import fixsymbol, fixname 
 
     reader = xlstab.XlsReader()
-    tabdata = reader.read(open("../cache/constituents.xls"), sheet_index=3)
+    tabdata = reader.read(open("constituents.xls"), sheet_index=3)
     records = tabdata.data
 
     header = ['Symbol', 'Name', 'Sector']
