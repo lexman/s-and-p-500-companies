@@ -80,5 +80,5 @@ http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/consti
     git commit -m "[data] automatic update $TODAY"
     # In case someone has pushed some changes during the processing
     git pull --rebase
-    git push
+    git push 
 
