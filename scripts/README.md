@@ -1,5 +1,5 @@
 # Run the scripts
-The scripts retrieve data from Standard and Poor's website, computes a datapackage augmented with yahoo webservices and ***published back the datapackage to github***.
+The scripts retrieve data from Standard and Poor's website, computes a datapackage augmented with yahoo webservices and **publish back the datapackage to github**.
 
 In order to run the scripts, you'll need a valid on github with write access on the repository.
 
@@ -7,9 +7,10 @@ In order to run the scripts, you'll need a valid on github with write access on 
 Because you don't have write access to mine.
 
 ## Allow ssh access to your repository
-If you don't have a public/private ssh key pair, follow this  [github tutorial](https://help.github.com/articles/generating-ssh-keys/)
+If you don't have a public/private ssh key pair, follow this  [github tutorial](https://help.github.com/articles/generating-ssh-keys/) 
+and be sure you add your ssh key to your account.
 
-Then you must configure your local ssh access to github with a ``~/.ssh/config`` file. Mine looks like :
+Then you must configure your local ssh access to github in your ``~/.ssh/config`` file. Mine looks like :
 
     Host github.com
         HostName github.com
@@ -22,7 +23,8 @@ Then you must configure your local ssh access to github with a ``~/.ssh/config``
     git checkout tuttle	
 
 ## Install the dependencies
-The scripts work with some python code and are glued together with the **make for data** tool (tuttle)[github.com/lexman/tuttle].
+The scripts work with some python code and are glued together with [tuttle](github.com/lexman/tuttle), a *make for data*.
+
 Install all dependencies :
 
     pip install jinja2
