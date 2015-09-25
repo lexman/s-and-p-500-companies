@@ -1,10 +1,10 @@
 # Run the scripts
-The scripts retrieve data from Standard and Poor's website, computes a datapackage augmented with yahoo webservices and **publish back the datapackage to github**.
+These Linux scripts retrieve data from Standard and Poor's website, computes a datapackage augmented with yahoo webservices and **publish back the datapackage to github**.
 
 In order to run the scripts, you'll need a valid on github with write access on the repository.
 
 ## Fork the repository into your github account...
-Because you don't have write access to mine.
+Because you won't have write access to mine.
 
 ## Allow ssh access to your repository
 If you don't have a public/private ssh key pair, follow this  [github tutorial](https://help.github.com/articles/generating-ssh-keys/) 
@@ -17,7 +17,7 @@ Then you must configure your local ssh access to github in your ``~/.ssh/config`
         User git
         IdentityFile ~/.ssh/lexman_github_rsa
 
-## Checkout the project... With ssh !
+## Clone the project... With ssh !
 
     git clone git@github.com:lexman/s-and-p-500-companies.git
     git checkout tuttle	
