@@ -22,7 +22,10 @@ file://../data/constituents.csv <- file://constituents.xls, file://fixers.py ! p
     writer.writerow(header)
     writer.writerows(records)
 
-file://../data/constituents-financials.csv <- file://../data/constituents.csv, file://fixers.py ! python
+file://../data/constituents-financials.csv <- file:///dev/random, file://../data/constituents.csv, file://fixers.py ! python
+    # NB : adding file:///dev/random to the input resources is a brutal way to force re-computing 
+    # of constituents-financials.csv, because the yahoo API results change often
+	
     import urllib
     import csv
     from fixers import correctToBillions
