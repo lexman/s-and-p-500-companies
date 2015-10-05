@@ -195,7 +195,7 @@ BEN,Franklin Resources,Financials,37.76,1.50,10.15,3.72,19.66,36.10,59.43,23.18,
 FCX,Freeport-McMoRan,Materials,10.62,1.88,,-6.38,13.27,7.76,32.91,11.05,6.95,0.53,0.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FCX
 FTR,Frontier Communications,Telecommunication Services,4.88,0.00,,-0.03,5.18,4.19,8.46,5.70,2.19,1.06,0.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTR
 GME,GameStop Corp,Consumer Discretionary,41.50,3.47,11.37,3.65,18.58,31.69,47.83,4.38,0.82,0.46,2.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GME
-GPS,Gap,Consumer Discretionary,27.96,3.29,10.55,2.65,6.51,27.33,43.90,11.37,2.40,0.70,4.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPS
+GPS,Gap,Consumer Discretionary,27.73,3.29,10.46,2.65,6.51,27.33,43.90,11.28,2.40,0.70,4.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPS
 GRMN,Garmin Ltd,Consumer Discretionary,35.85,5.69,25.64,1.40,16.80,34.90,60.19,6.85,0.7075499999999999,2.35,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRMN
 GM,General Motors,Consumer Discretionary,31.73,4.54,11.72,2.71,21.97,24.62,38.99,50.26,12.94,0.32,1.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GM
 GD,Genl Dynamics,Industrials,139.13,1.98,16.28,8.55,34.57,114.73,153.76,45.38,4.63,1.42,4.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GD
@@ -379,7 +379,7 @@ PWR,Quanta Services,Industrials,24.75,,20.68,1.20,20.37,21.35,35.78,5.05,0.65043
 DGX,Quest Diagnostics,Health Care,62.81,2.42,18.40,3.41,29.96,56.27,89.00,9.02,1.47,1.16,2.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DGX
 RL,Ralph Lauren Corp,Consumer Discretionary,117.36,1.74,17.19,6.83,44.42,103.29,187.49,10.05,1.24,1.33,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RL
 RRC,Range Resources,Energy,32.76,0.50,16.42,2.00,20.36,30.33,74.64,5.44,1.34,3.38,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RRC
-RTN,Raytheon Co,Industrials,107.77,2.49,15.45,6.97,33.12,92.96,113.36,32.71,3.34,1.45,3.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTN
+RTN,Raytheon Co,Industrials,107.10,2.49,15.36,6.97,33.12,92.96,113.36,32.51,3.34,1.45,3.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTN
 O,Realtyome,Financials,46.00,4.97,42.01,1.10,23.69,40.76,55.54,10.80,0.8773500000000001,11.30,2.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=O
 RHT,Red Hat,Information Technology,73.62,,70.72,1.04,7.47,52.53,81.49,13.49,0.36108999999999997,7.04,9.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RHT
 REGN,Regeneron Pharmaceuticals,Health Care,479.07,,120.86,3.96,32.45,320.06,605.93,49.29,1.11,14.33,14.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=REGN
