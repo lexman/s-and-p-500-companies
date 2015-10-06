@@ -52,7 +52,7 @@ ADP,Automatic Data Processing,Information Technology,82.70,2.41,27.11,3.05,10.31
 AN,AutoNation,Consumer Discretionary,60.81,,15.68,3.88,20.15,46.16,67.50,6.90,0.981,0.34,2.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AN
 AZO,AutoZone,Consumer Discretionary,747.28,,20.74,36.03,-55.49,491.93,758.14,22.91,2.20,2.23,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
 AVGO,Avago Technologies,Information Technology,121.22,1.36,31.80,3.81,15.57,68.75,150.50,33.38,2.80,5.17,7.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
-AVB,AvalonBay Communities,Financials,177.04,2.84,30.77,5.75,69.31,141.55,181.69,23.53,1.24,12.29,2.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
+AVB,AvalonBay Communities,Financials,177.04,2.84,30.77,5.75,69.31,142.16,181.69,23.53,1.24,12.29,2.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
 AVY,Avery Dennison Corp,Materials,59.34,2.49,20.58,2.88,11.98,40.58,64.81,5.43,0.6896,0.88,4.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVY
 BHI,Baker Hughes,Energy,54.63,1.27,91.51,0.60,40.60,44.11,70.45,23.81,3.43,1.08,1.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BHI
 BLL,Ball Corp,Materials,64.70,0.81,22.63,2.86,8.24,57.95,77.20,8.94,1.11,1.06,7.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLL
@@ -185,7 +185,7 @@ FSLR,First Solar,Information Technology,46.66,,15.10,3.09,49.97,39.18,65.50,4.71
 FE,FirstEnergy Corp,Utilities,31.60,4.65,30.62,1.03,29.66,30.28,41.68,13.35,3.01,0.91,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FE
 FISV,Fiserv,Information Technology,89.36,,30.17,2.96,13.36,60.55,90.54,20.96,1.57,4.02,6.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV
 FLIR,FLIR Systems,Information Technology,28.62,1.56,18.21,1.57,11.69,26.34,34.46,4.01,0.35066,2.56,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLIR
-FLS,Flowserve Corp,Industrials,44.08,1.73,15.41,2.86,13.34,39.47,70.37,5.88,0.83993,1.16,3.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLS
+FLS,Flowserve Corp,Industrials,44.08,1.73,15.41,2.86,13.34,39.47,68.65,5.88,0.83993,1.16,3.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLS
 FLR,Fluor Corp,Industrials,44.54,1.98,11.86,3.76,21.44,40.61,69.69,6.46,1.35,0.30,1.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLR
 FMC,FMC Corp,Materials,35.82,1.88,5.78,6.20,16.24,32.58,64.72,4.79,0.8074,1.16,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FMC
 FTI,FMC Technologies,Energy,32.78,,12.95,2.53,11.30,27.94,57.87,7.52,1.23,0.94,2.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTI
@@ -353,7 +353,7 @@ PFE,Pfizer,Health Care,33.48,3.39,23.76,1.41,10.84,27.51,36.46,206.48,19.61,4.23
 PCG,PG&E Corp,Utilities,53.46,3.43,18.56,2.88,33.26,44.17,60.21,25.77,4.67,1.47,1.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCG
 PM,Philip Morris International,Consumer Staples,81.71,5.10,17.09,4.78,-8.49,75.27,90.25,126.58,12.50,4.34,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PM
 PSX,Phillips 66,Energy,81.82,2.82,10.53,7.77,41.64,57.33,84.85,43.99,5.15,0.38,1.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSX
-PNW,Pinnacle West Capital,Utilities,64.08,3.72,18.37,3.49,39.64,54.63,73.31,7.10,1.31,2.05,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNW
+PNW,Pinnacle West Capital,Utilities,64.08,3.72,18.37,3.49,39.64,55.07,73.31,7.10,1.31,2.05,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNW
 PXD,Pioneer Natural Resources,Energy,133.51,0.06,39.28,3.40,55.71,105.83,195.79,19.93,2.48,5.50,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PXD
 PBI,Pitney Bowes,Industrials,20.38,3.80,9.70,2.10,0.95,18.59,25.68,4.12,0.84529,1.08,20.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PBI
 PCL,Plum Creek Timber,Financials,40.72,4.40,37.32,1.09,8.77,36.95,45.26,7.11,0.485,4.44,4.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCL
@@ -372,7 +372,7 @@ PSA,Public Storage,Financials,220.11,3.15,38.42,5.73,29.53,165.48,220.36,38.07,1
 PEG,Public Svc Enterprises,Utilities,42.73,3.68,11.74,3.64,25.12,36.37,44.45,21.62,4.50,1.97,1.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEG
 PHM,PulteGroup,Consumer Discretionary,19.98,1.67,14.31,1.40,12.98,16.56,23.36,7.05,0.78716,1.16,1.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PHM
 PVH,PVH Corp,Consumer Discretionary,103.18,0.15,17.43,5.92,53.36,93.80,129.17,8.52,0.9532999999999999,1.04,1.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PVH
-QEP,QEP Resources,Energy,14.83,0.57,3.75,3.96,22.34,11.20,30.56,2.62,1.56,0.88,0.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QEP
+QEP,QEP Resources,Energy,14.83,0.57,3.75,3.96,22.34,11.20,29.80,2.62,1.56,0.88,0.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QEP
 QRVO,Qorvo,Information Technology,44.77,,31.75,1.41,41.35,42.24,88.35,6.69,0.57951,3.25,1.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QRVO
 QCOM,QUALCOMM,Information Technology,56.23,3.49,15.38,3.65,21.04,52.17,78.53,88.35,9.10,3.26,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM
 PWR,Quanta Services,Industrials,25.56,,21.35,1.20,20.37,21.35,35.33,5.22,0.65043,0.63,1.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PWR
@@ -491,5 +491,5 @@ XL,XL Group Plc,Financials,36.33,2.20,8.54,4.26,40.30,25.56,40.41,10.98,1.48,1.4
 XYL,Xylem,Industrials,33.56,1.68,18.02,1.86,11.46,29.90,39.23,6.09,0.609,1.62,2.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
 YHOO,Yahoo,Information Technology,30.85,,4.29,7.20,35.68,27.20,52.62,29.04,0.54175,5.94,0.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YHOO
 YUM,Yum Brands,Consumer Discretionary,83.05,2.01,40.69,2.04,3.63,65.81,95.90,35.81,2.70,2.69,22.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
-ZBH,Zimmer Biomet Holdings,Health Care,95.50,0.94,48.48,1.97,49.80,88.77,121.84,19.42,1.81,4.18,1.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
+ZBH,Zimmer Biomet Holdings,Health Care,95.50,0.92,48.48,1.97,49.80,88.77,121.84,19.42,1.81,4.18,1.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
 ZTS,Zoetis,Health Care,42.85,0.77,51.63,0.83,2.36,34.16,55.38,21.38,1.39,4.47,18.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
