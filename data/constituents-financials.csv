@@ -18,7 +18,7 @@ AKAM,Akamai Technologies,Information Technology,74.08,,40.26,1.84,17.03,54.37,78
 AA,Alcoa,Materials,9.14,1.26,24.24,0.38,9.57,7.97,17.75,11.97,3.69,0.50,0.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AA
 ALXN,Alexion Pharmaceuticals,Health Care,171.16,,58.46,2.93,37.84,142.02,208.88,38.71,0.88,15.77,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALXN
 ATI,Allegheny Technologies,Materials,14.56,4.13,109.47,0.13,23.66,13.56,37.76,1.59,0.31439999999999996,0.36,0.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ATI
-ALLE,Allegion Plc,Industrials,63.73,,,,0.00,48.07,66.05,,0.00,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALLE
+ALLE,Allegion Plc,Industrials,63.73,,,,0.00,48.55,66.05,,0.00,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALLE
 AGN,Allergan plc,Health Care,268.55,0.10,,-8.65,170.79,235.80,340.34,105.71,7.21,5.62,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AGN
 ADS,Alliance Data Systems,Information Technology,295.87,,36.86,8.03,31.74,241.91,312.00,18.18,1.61,3.06,9.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADS
 ALL,Allstate Corp,Financials,61.68,1.96,10.37,5.95,48.64,54.12,72.87,24.70,4.75,0.69,1.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALL
@@ -130,7 +130,7 @@ DHR,Danaher Corp,Industrials,92.82,0.61,25.54,3.63,35.26,77.38,94.61,63.44,4.60,
 DRI,Darden Restaurants,Consumer Discretionary,63.91,3.38,28.24,2.26,18.92,48.91,75.60,8.19,0.8342999999999999,1.20,3.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DRI
 DVA,DaVita HealthCare Partner,Health Care,75.94,,36.72,2.07,23.89,70.12,85.17,16.37,2.42,1.22,3.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVA
 DE,Deere & Co,Industrials,80.26,3.16,12.34,6.50,23.53,71.85,98.23,26.34,4.50,0.84,3.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DE
-DLPH,Delphi Automotive Plc,Consumer Discretionary,85.06,1.23,16.65,5.11,8.71,65.14,90.57,24.19,2.56,1.44,9.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLPH
+DLPH,Delphi Automotive Plc,Consumer Discretionary,85.06,1.23,16.65,5.11,8.71,65.97,90.57,24.19,2.56,1.44,9.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLPH
 DAL,Delta Air Lines,Industrials,51.00,1.10,14.68,3.47,13.13,34.61,51.66,40.19,7.81,0.98,3.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DAL
 XRAY,DENTSPLY International,Health Care,58.76,0.51,31.39,1.87,16.56,46.00,59.15,8.22,0.57269,2.95,3.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRAY
 DVN,Devon Energy,Energy,44.96,2.07,,-14.33,37.28,36.01,70.48,18.48,7.43,1.20,1.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVN
@@ -492,4 +492,4 @@ XYL,Xylem,Industrials,36.19,1.62,19.44,1.86,11.46,29.90,39.23,6.57,0.609,1.72,3.
 YHOO,Yahoo,Information Technology,33.17,,128.57,0.26,29.83,27.20,52.62,31.41,0.47708,6.06,1.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YHOO
 YUM,Yum Brands,Consumer Discretionary,72.89,2.55,34.83,2.09,4.23,66.35,95.90,31.43,2.79,2.38,17.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
 ZBH,Zimmer Biomet Holdings,Health Care,94.56,0.89,48.00,1.97,49.80,88.77,121.84,19.23,1.81,4.15,1.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
-ZTS,Zoetis,Health Care,42.54,0.76,51.25,0.83,2.36,36.10,55.38,21.23,1.39,4.23,17.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
+ZTS,Zoetis,Health Care,42.54,0.76,51.25,0.83,2.36,36.31,55.38,21.23,1.39,4.23,17.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
