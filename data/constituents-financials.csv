@@ -5,7 +5,7 @@ ABBV,AbbVie,Health Care,50.34,4.05,39.14,1.29,3.33,45.45,71.60,83.33,7.83,3.81,1
 ACN,Accenture Plc,Information Technology,107.99,2.04,22.68,4.76,9.82,77.94,108.23,67.46,5.15,2.14,10.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN
 ACE,ACE Limited,Financials,114.83,2.33,14.03,8.19,89.88,96.00,117.89,37.21,3.65,1.96,1.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACE
 ADBE,Adobe Systems,Information Technology,87.86,0.00,89.65,0.98,13.72,66.31,89.44,43.82,1.10,9.67,6.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE
-ADT,ADT Corp (The),Industrials,33.69,2.49,19.78,1.70,17.95,29.34,42.88,5.73,1.80,1.60,1.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADT
+ADT,ADT Corp (The),Industrials,33.48,2.49,19.66,1.70,17.95,29.34,42.88,5.69,1.80,1.60,1.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADT
 AES,AES Corp,Utilities,11.05,3.62,8.68,1.27,5.66,9.42,14.49,7.55,3.98,0.46,1.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AES
 AET,Aetna,Health Care,105.89,0.94,16.07,6.59,44.20,76.17,134.40,36.91,5.16,0.60,2.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AET
 AMG,Affiliated Managers Group,Financials,181.71,,19.40,9.37,48.84,163.50,230.63,9.86,0.9901,3.75,3.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMG
@@ -103,7 +103,7 @@ CTAS,Cintas Corp,Industrials,93.50,1.12,26.10,3.58,16.80,70.00,93.67,10.09,0.873
 CSCO,Cisco Systems,Information Technology,29.35,2.86,16.77,1.75,11.74,23.03,30.31,148.55,13.39,2.99,2.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSCO
 C,Citigroup,Financials,53.64,0.37,12.10,4.43,69.03,46.60,60.95,159.79,0.00,2.28,0.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C
 CTXS,Citrix Systems,Information Technology,81.14,,46.50,1.75,12.89,56.47,81.17,13.13,0.8546900000000001,4.05,6.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTXS
-CLX,Clorox Co,Consumer Staples,123.25,2.50,28.18,4.37,0.92,97.01,124.61,15.86,1.16,2.81,134.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX
+CLX,Clorox Co,Consumer Staples,122.48,2.50,28.00,4.37,0.92,97.01,124.61,15.76,1.16,2.81,134.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX
 CME,CME Group,Financials,93.95,2.13,26.61,3.53,63.24,80.61,100.87,31.73,2.16,9.56,1.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CME
 CMS,CMS Energy,Utilities,36.74,3.16,21.99,1.67,13.80,31.22,38.66,10.16,1.79,1.55,2.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMS
 COH,Coach,Consumer Discretionary,30.13,4.48,20.78,1.45,9.00,27.22,43.87,8.33,0.9728,1.99,3.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COH
