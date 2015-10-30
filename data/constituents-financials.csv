@@ -36,13 +36,13 @@ ABC,AmerisourceBergen Corp,Health Care,96.82,1.19,,-1.95,7.28,81.68,120.68,20.93
 AME,AMETEK,Industrials,54.68,0.67,21.96,2.49,13.82,46.92,57.67,13.12,1.07,3.24,3.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AME
 AMGN,Amgen,Health Care,160.58,1.95,21.27,7.55,36.21,130.09,181.81,121.76,9.77,5.94,4.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMGN
 APH,Amphenol Corp A,Information Technology,54.40,1.04,22.75,2.39,10.18,47.44,60.54,16.80,1.29,3.02,5.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APH
-APC,Anadarko Petroleum,Energy,67.58,1.65,,-4.97,26.67,58.10,95.94,35.67,1.93,3.44,2.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APC
+APC,Anadarko Petroleum,Energy,67.58,1.65,,-11.49,26.67,58.10,95.94,35.67,1.93,3.44,2.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APC
 ADI,Analog Devices,Information Technology,59.98,2.61,26.91,2.23,16.15,46.38,68.97,18.81,1.22,5.93,3.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
 ANTM,Anthem,Health Care,141.34,1.73,13.82,10.23,88.17,121.02,173.59,36.97,6.59,0.48,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
 AON,Aon Plc,Financials,94.83,1.29,21.72,4.37,22.87,83.53,107.08,26.56,2.53,2.24,4.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
 APA,Apache Corp,Energy,46.58,2.27,,-43.43,41.12,35.79,78.65,17.61,7.54,1.69,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
 AIV,Apartment Investment & Mgmt,Financials,39.96,2.98,19.29,2.07,9.40,34.06,41.55,6.24,0.5479400000000001,6.55,4.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIV
-AAPL,Apple,Information Technology,120.53,1.82,13.07,8.65,21.40,92.00,134.54,672.41,82.49,2.85,5.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
+AAPL,Apple,Information Technology,120.53,1.82,13.07,9.22,21.40,92.00,134.54,672.41,82.49,2.85,5.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
 AMAT,Applied Materials,Information Technology,16.74,2.46,15.94,1.05,6.64,14.25,25.71,20.10,1.95,2.08,2.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT
 ADM,Archer-Daniels-Midland,Consumer Staples,45.53,2.42,12.54,3.63,30.20,40.66,53.91,27.72,3.79,0.39,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADM
 AIZ,Assurant,Financials,82.44,2.47,46.16,1.79,69.25,59.73,82.58,5.58,0.37417,0.53,1.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIZ
@@ -172,7 +172,7 @@ ES,Eversource Energy,Utilities,50.76,3.22,17.62,2.88,32.11,44.64,56.83,16.10,2.4
 EXC,Exelon Corp,Utilities,28.59,4.34,10.55,2.71,27.28,27.91,38.93,24.63,8.47,0.83,1.05,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXC
 EXPE,Expedia,Consumer Discretionary,127.06,0.76,20.53,6.19,16.35,76.34,131.51,16.41,0.70584,2.66,7.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPE
 EXPD,"Expeditors International,Wash",Industrials,50.11,1.43,22.65,2.21,9.98,41.31,51.80,9.48,0.71604,1.37,4.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPD
-ESRX,Express Scripts Holding,Health Care,87.15,,27.12,3.03,24.45,68.06,94.61,58.94,7.22,0.57,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESRX
+ESRX,Express Scripts Holding,Health Care,87.15,,27.12,3.21,24.45,68.06,94.61,58.94,7.22,0.57,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESRX
 XOM,Exxon Mobil,Energy,82.23,3.60,14.63,5.62,41.41,66.55,97.20,342.85,43.51,1.14,1.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XOM
 FFIV,F5 Networks,Information Technology,110.08,,22.34,4.93,18.69,108.00,136.11,7.82,0.5964700000000001,4.57,6.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FFIV
 FB,Facebook Cl,Information Technology,104.88,,106.59,0.98,14.09,72.00,105.12,295.50,6.38,20.05,7.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FB
@@ -180,7 +180,7 @@ FDO,Family Dollar Stores,Consumer Discretionary,79.39,1.60,,2.04,0.00,59.81,80.9
 FAST,Fastenal Co,Industrials,39.04,2.92,21.94,1.78,6.16,34.45,48.43,11.31,0.91743,2.92,6.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FAST
 FDX,FedEx Corp,Industrials,156.39,0.64,41.20,3.80,54.12,130.13,185.19,44.16,7.22,0.91,2.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FDX
 FIS,Fidelity National Information Services,Information Technology,72.74,1.46,29.90,2.43,22.87,56.20,72.87,20.48,1.61,3.18,3.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FIS
-FITB,Fifth Third Bancorp,Financials,19.47,2.74,11.79,1.65,18.22,17.14,21.93,15.49,0.00,2.74,1.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
+FITB,Fifth Third Bancorp,Financials,19.47,2.77,11.79,1.65,18.22,17.14,21.93,15.49,0.00,2.74,1.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
 FSLR,First Solar,Information Technology,50.99,,16.50,3.09,49.97,39.18,65.50,5.14,0.52118,1.57,1.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FSLR
 FE,FirstEnergy Corp,Utilities,30.82,4.62,29.86,1.03,29.66,30.14,41.68,13.02,3.01,0.91,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FE
 FISV,Fiserv,Information Technology,96.71,,33.12,2.92,12.10,67.60,97.42,22.92,1.60,4.40,7.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV
