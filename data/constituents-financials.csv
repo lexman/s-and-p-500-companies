@@ -77,7 +77,7 @@ BF-B,Brown-Forman,Consumer Staples,106.18,1.60,32.55,3.26,8.27,85.43,111.06,21.9
 CHRW,C.H. Robinson Worldwide,Industrials,69.38,2.19,20.41,3.40,7.82,61.46,77.49,10.03,0.88562,0.74,8.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHRW
 CA,CA,Information Technology,27.71,3.61,16.12,1.72,13.13,25.16,33.42,12.16,1.29,2.97,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CA
 CVC,Cablevision Systems,Consumer Discretionary,32.59,1.84,35.73,0.91,-17.94,17.66,33.28,9.01,1.79,1.38,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVC
-COG,Cabot Oil & Gas,Energy,21.71,0.37,,-0.55,5.13,20.00,35.64,8.99,0.1946,5.94,4.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COG
+COG,Cabot Oil & Gas,Energy,21.69,0.37,,-0.55,5.13,20.00,35.64,8.98,0.1946,5.94,4.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COG
 CAM,Cameron International,Energy,68.01,,20.86,3.26,23.21,39.52,69.11,12.98,1.64,1.37,2.93,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAM
 CPB,Campbell Soup,Consumer Staples,50.79,2.46,22.98,2.21,4.45,42.70,52.37,15.73,1.53,1.96,11.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CPB
 COF,Capital One Financial,Financials,78.90,2.03,10.96,7.20,88.21,67.73,92.10,42.65,0.00,2.31,0.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COF
@@ -223,7 +223,7 @@ HCN,Health Care REIT,Financials,64.87,5.09,25.36,2.56,38.77,61.00,84.88,22.82,1.
 HP,Helmerich & Payne,Energy,56.27,4.89,10.06,5.59,46.64,46.16,89.35,6.06,1.52,1.66,1.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HP
 HSY,Hershey Co,Consumer Staples,88.69,2.63,39.19,2.26,4.28,82.41,111.35,19.40,1.70,2.60,20.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSY
 HES,Hess Corp,Energy,56.21,1.78,,-4.41,75.24,47.84,86.25,15.94,3.17,2.07,0.75,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HES
-HPQ,Hewlett-Packard,Information Technology,26.96,2.61,11.04,2.44,15.01,24.30,41.10,48.48,12.76,0.46,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HPQ
+HPQ,Hewlett-Packard,Information Technology,12.24,2.61,5.01,2.44,15.01,24.30,41.10,22.01,12.76,0.46,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HPQ
 HD,Home Depot,Consumer Discretionary,123.64,1.91,24.12,5.13,6.73,92.17,125.75,158.77,12.69,1.86,18.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HD
 HON,Honeywell International,Industrials,103.28,2.00,18.09,5.71,23.04,87.00,107.41,79.60,7.22,2.04,4.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON
 HRL,Hormel Foods,Consumer Staples,67.55,1.48,27.24,2.48,14.88,50.06,68.97,17.87,1.18,1.91,4.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRL
@@ -488,7 +488,7 @@ XEL,Xcel Energy,Utilities,35.63,3.59,18.60,1.92,20.26,31.76,38.35,18.07,3.14,1.5
 XRX,Xerox Corp,Information Technology,9.39,2.98,30.59,0.31,9.00,9.17,14.36,9.51,1.68,0.51,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRX
 XLNX,Xilinx,Information Technology,47.62,2.60,22.25,2.14,10.13,37.20,49.40,12.24,0.77639,5.51,4.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XLNX
 XL,XL Group Plc,Financials,38.08,2.10,9.59,3.97,39.55,25.56,40.41,11.50,1.21,1.42,0.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XL
-XYL,Xylem,Industrials,36.41,1.55,20.68,1.76,11.39,29.90,39.23,6.53,0.598,1.76,3.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
+XYL,Xylem,Industrials,36.2692,1.5500,20.5958,1.7610,11.3880,29.9000,39.2300,6.51,0.598,1.7612,3.1911,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
 YHOO,Yahoo,Information Technology,35.62,,138.06,0.26,29.83,27.20,52.62,33.73,0.47708,6.71,1.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YHOO
 YUM,Yum Brands,Consumer Discretionary,70.91,2.59,33.88,2.09,4.23,66.35,95.90,30.58,2.79,2.38,17.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
 ZBH,Zimmer Biomet Holdings,Health Care,104.57,0.84,109.27,0.96,49.11,88.77,121.84,21.28,1.95,4.04,2.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
