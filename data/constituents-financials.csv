@@ -40,7 +40,7 @@ APC,Anadarko Petroleum,Energy,68.60,1.51,,-11.51,27.71,58.10,95.94,34.86,4.15,3.
 ADI,Analog Devices,Information Technology,61.70,2.86,27.68,2.23,16.15,49.81,68.97,19.35,1.22,5.79,3.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
 ANTM,Anthem,Health Care,133.98,1.77,12.83,10.44,89.02,121.22,173.59,34.98,6.32,0.46,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
 AON,Aon Plc,Financials,93.57,1.28,21.41,4.37,21.48,86.38,107.08,25.63,2.51,2.23,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
-APA,Apache Corp,Energy,47.67,2.21,,-54.96,25.95,35.79,77.57,18.02,-11.63,2.18,1.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
+APA,Apache Corp,Energy,47.67,2.21,,-43.43,25.95,35.79,77.57,18.02,-11.63,2.18,1.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
 AIV,Apartment Investment & Mgmt,Financials,37.09,3.33,27.56,1.35,9.27,34.71,41.55,5.77,0.5495099999999999,6.27,4.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIV
 AAPL,Apple,Information Technology,121.06,1.84,13.13,9.22,21.40,92.00,134.54,674.95,82.49,2.88,5.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
 AMAT,Applied Materials,Information Technology,17.05,2.49,16.24,1.05,6.64,14.25,25.71,20.47,1.95,2.11,2.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT
@@ -302,7 +302,7 @@ MCHP,Microchip Technology,Information Technology,47.85,3.37,27.67,1.73,10.42,37.
 MU,Micron Technology,Information Technology,16.45,0.00,6.65,2.47,11.84,13.50,36.59,17.09,5.65,1.06,1.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU
 MSFT,Microsoft Corp,Information Technology,54.92,2.85,36.52,1.50,9.70,39.72,54.98,438.70,32.44,4.79,5.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT
 MHK,Mohawk Industries,Consumer Discretionary,187.14,,,49.90,64.34,141.47,212.16,13.83,1.19,1.82,3.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHK
-TAP,Molson Coors Brewing,Consumer Staples,87.57,2.41,38.75,2.26,39.17,63.91,89.00,16.21,0.6805,4.40,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TAP
+TAP,Molson Coors Brewing,Consumer Staples,87.57,2.41,38.75,1.98,39.17,63.91,89.00,16.21,0.6805,4.40,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TAP
 MDLZ,Mondelez International,Consumer Staples,44.88,1.61,8.75,5.13,18.77,33.97,48.58,71.32,4.83,2.34,2.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
 MON,Monsanto Co,Materials,93.49,2.21,19.44,4.81,14.94,81.22,126.00,41.12,4.73,2.75,6.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MON
 MNST,Monster Beverage,Consumer Staples,150.24,,52.15,2.88,22.96,103.18,155.83,30.46,0.50052,9.99,5.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNST
