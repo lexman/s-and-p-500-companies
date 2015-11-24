@@ -321,7 +321,7 @@ NWL,Newell Rubbermaid,Consumer Discretionary,44.75,1.71,31.36,1.43,6.68,34.44,44
 NFX,Newfield Exploration,Energy,38.47,,,-15.39,12.56,22.31,41.34,6.22,1.67,3.61,3.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFX
 NEM,Newmont Mining,Materials,17.56,0.57,18.23,0.96,21.82,15.39,27.90,9.29,3.49,1.18,0.81,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEM
 NWSA,News Corporation,Consumer Discretionary,14.32,1.40,,-0.07,19.98,12.16,17.55,8.32,0.757,0.97,0.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NWSA
-NEE,NextEra Energy,Utilities,100.49,3.05,14.43,6.96,48.46,93.74,112.64,46.28,8.46,2.57,2.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEE
+NEE,NextEra Energy,Utilities,99.72,3.05,14.32,6.96,48.46,93.74,112.64,45.92,8.46,2.57,2.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEE
 NKE,NIKE,Consumer Discretionary,132.46,0.84,33.56,3.95,15.10,90.69,133.52,112.88,5.01,3.64,8.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE
 NI,NiSource,Utilities,19.75,3.13,16.65,1.19,11.93,15.26,20.13,6.29,1.80,1.03,1.66,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NI
 NE,Noble Corp,Energy,13.46,9.69,67.30,0.20,28.39,10.34,21.31,3.26,1.58,0.99,0.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NE
@@ -348,7 +348,7 @@ PBCT,People's United Financial,Financials,16.58,4.04,19.64,0.84,15.65,13.97,16.9
 POM,Pepco Holdings,Utilities,25.89,4.16,28.17,0.92,17.15,21.61,27.53,6.57,1.26,1.32,1.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=POM
 PEP,PepsiCo,Consumer Staples,100.85,2.81,29.93,3.37,9.31,76.48,103.44,146.92,12.10,2.26,10.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEP
 PKI,PerkinElmer,Health Care,52.83,0.53,34.19,1.54,18.36,40.84,54.45,5.91,0.3552,2.61,2.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PKI
-PRGO,Perrigo,Health Care,148.40,0.32,146.50,1.01,73.31,140.40,215.73,21.73,1.45,4.54,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRGO
+PRGO,Perrigo,Health Care,148.275,0.320,146.372,1.013,73.306,140.400,215.730,21.71,1.45,4.539,2.113,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRGO
 PFE,Pfizer,Health Care,31.33,3.48,23.52,1.33,10.82,28.47,36.46,193.40,19.48,4.15,2.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE
 PCG,PG&E Corp,Utilities,52.73,3.40,29.12,1.81,33.80,47.33,60.21,25.86,4.13,1.55,1.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCG
 PM,Philip Morris International,Consumer Staples,86.59,4.74,18.63,4.65,-8.77,75.27,90.08,134.15,12.08,4.83,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PM
@@ -426,7 +426,7 @@ SYMC,Symantec Corp,Information Technology,19.89,3.01,20.48,0.97,8.66,19.07,27.32
 SYY,Sysco Corp,Consumer Staples,41.40,3.03,37.91,1.09,8.90,35.45,42.03,23.37,2.34,0.47,4.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYY
 TROW,T.Rowe Price Group,Financials,76.15,2.72,16.44,4.63,18.57,65.88,88.64,19.12,2.05,4.60,4.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
 TGT,Target Corp,Consumer Discretionary,72.28,3.16,,-1.11,21.43,68.15,85.81,44.71,7.21,0.59,3.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
-TEL,TE Connectivity,Information Technology,67.51,1.95,11.47,5.89,24.33,54.32,73.73,26.08,2.61,2.14,2.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
+TEL,TE Connectivity,Information Technology,67.18,1.95,11.41,5.89,24.33,54.32,73.73,25.95,2.61,2.14,2.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
 TE,TECO Energy,Utilities,26.28,3.42,46.19,0.57,10.89,17.60,27.23,6.18,0.8959,2.24,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE
 TGNA,TEGNA,Consumer Discretionary,28.19,1.99,6.56,4.29,9.62,21.30,38.48,6.25,1.57,0.97,2.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGNA
 THC,Tenet Healthcare,Health Care,32.20,0.00,182.95,0.18,8.05,26.62,60.93,3.21,2.27,0.17,3.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=THC
