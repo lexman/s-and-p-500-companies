@@ -1,491 +1,491 @@
 Symbol,Name,Sector,Price,Dividend Yield,Price/Earnings,Earnings/Share,Book Value,52 week low,52 week high,Market Cap,EBITDA,Price/Sales,Price/Book,SEC Filings
-MMM,3M Co,Industrials,154.89,2.62,20.02,7.74,19.79,134.00,170.50,95.37,8.50,3.12,7.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMM
-ABT,Abbott Laboratories,Health Care,44.37,2.14,14.78,3.00,14.15,39.00,51.74,66.19,4.72,3.28,3.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABT
-ABBV,AbbVie,Health Care,56.05,3.92,32.51,1.72,2.97,45.45,71.60,91.63,8.56,4.31,19.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV
-ACN,Accenture Plc,Information Technology,106.12,2.05,22.28,4.76,9.79,81.66,109.86,66.30,5.15,2.17,10.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN
-ACE,ACE Limited,Financials,114.255,2.330,13.957,8.186,89.881,96.000,117.890,37.04,3.61,1.968,1.284,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACE
-ATVI,Activision Blizzard,Information Technology,38.01,0.62,25.89,1.47,10.93,18.43,39.00,27.79,1.60,5.74,3.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ATVI
-ADBE,Adobe Systems,Information Technology,90.36,0.00,92.20,0.98,13.72,68.98,92.85,45.07,1.10,10.06,6.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE
-ADT,ADT Corp (The),Industrials,35.53,2.43,20.66,1.72,17.60,29.34,42.88,5.86,1.38,1.65,2.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADT
-AAP,Advance Auto Parts,Consumer Discretionary,155.49,0.15,22.83,6.81,32.96,142.63,201.24,11.38,1.29,1.16,4.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAP
-AES,AES Corp,Utilities,9.55,4.00,11.34,0.84,5.29,9.42,14.49,6.43,3.86,0.41,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AES
-AET,Aetna,Health Care,103.09,0.96,15.81,6.52,45.51,85.62,134.40,35.95,5.22,0.62,2.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AET
-AMG,Affiliated Managers Group,Financials,171.50,,18.02,9.52,49.24,163.50,230.63,9.27,0.9829,3.74,3.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMG
-AFL,AFLAC,Financials,63.155,2.510,11.053,5.714,40.356,51.410,66.530,26.95,4.34,1.333,1.625,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AFL
-A,Agilent Technologies,Health Care,40.33,1.10,33.89,1.19,12.52,33.12,43.59,13.39,0.775,3.32,3.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=A
-GAS,AGL Resources,Utilities,62.26,3.26,18.94,3.29,32.17,46.36,63.37,7.49,1.26,1.70,1.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GAS
-APD,Air Products & Chemicals,Materials,136.35,2.35,23.19,5.88,33.66,123.66,158.20,29.37,2.83,3.02,4.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APD
-ARG,Airgas,Materials,137.76,1.74,28.46,4.84,26.64,86.09,139.22,9.93,0.97741,1.85,5.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARG
-AKAM,Akamai Technologies,Information Technology,55.01,,30.23,1.82,17.31,55.01,78.44,9.79,0.6948799999999999,4.63,3.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AKAM
-AA,Alcoa,Materials,9.055,1.280,24.019,0.377,9.569,7.810,17.450,11.86,3.67,0.518,0.977,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AA
-ALXN,Alexion Pharmaceuticals,Health Care,169.50,,152.98,1.11,36.52,142.02,208.88,38.19,0.90283,15.90,4.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALXN
-ALLE,Allegion Plc,Industrials,66.175,0.600,54.600,1.212,0.151,52.330,68.080,6.35,0.4532,3.080,445.762,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALLE
-AGN,Allergan plc,Health Care,313.62,0.10,28.83,10.88,184.12,237.50,340.34,123.61,7.64,6.38,1.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AGN
-ADS,Alliance Data Systems,Information Technology,282.07,,38.16,7.39,31.87,241.91,312.00,17.25,1.61,2.82,8.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADS
-ALL,Allstate Corp,Financials,63.03,1.91,10.97,5.74,48.10,54.12,72.87,24.41,4.49,0.68,1.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALL
-ALTR,Altera Corp,Information Technology,52.81,1.36,47.58,1.11,11.07,32.67,52.99,15.99,0.48328,9.26,4.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALTR
-MO,Altria Group,Consumer Staples,57.09,3.91,21.48,2.66,1.47,47.31,61.74,111.78,8.74,6.04,39.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MO
-AMZN,Amazon.com,Consumer Discretionary,667.01,,955.60,0.70,26.50,285.25,684.82,312.67,7.01,3.15,25.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN
-AEE,Ameren Corp,Utilities,42.32,3.88,15.87,2.67,28.91,37.26,48.14,10.27,2.16,1.75,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEE
-AAL,American Airlines Group,Industrials,43.34,0.97,6.22,6.96,5.88,34.10,56.20,27.32,8.67,0.67,7.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAL
-AEP,American Electric Power,Utilities,54.96,4.00,15.24,3.61,36.06,52.29,65.38,26.98,5.28,1.57,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEP
-AXP,American Express,Financials,70.77,1.62,12.77,5.54,21.66,70.12,94.89,69.66,0.00,2.22,3.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP
-AIG,American International Group,Financials,62.75,1.76,18.33,3.42,79.40,48.68,64.93,77.62,14.05,1.32,0.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIG
-AMT,American Tower,Financials,97.93,1.85,73.30,1.34,15.63,86.83,104.12,41.48,2.82,9.28,6.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMT
-AMP,Ameriprise Financial,Financials,112.00,2.36,12.87,8.70,43.59,95.52,138.26,19.50,3.58,1.61,2.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMP
-ABC,AmerisourceBergen Corp,Health Care,98.31,1.37,,-0.62,3.06,89.26,120.68,20.22,1.55,0.15,32.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABC
-AME,AMETEK,Industrials,54.98,0.64,22.08,2.49,13.94,47.85,57.67,13.08,1.07,3.31,4.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AME
-AMGN,Amgen,Health Care,154.855,1.960,18.486,8.377,37.047,130.090,181.810,116.81,10.36,5.643,4.333,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMGN
-APH,Amphenol Corp A,Information Technology,53.74,1.02,22.48,2.39,10.20,47.44,60.54,16.57,1.29,3.02,5.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APH
-APC,Anadarko Petroleum,Energy,58.8214,1.7800,,-11.5070,27.7090,57.8600,95.9400,29.89,4.15,2.7463,2.1210,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APC
-ADI,Analog Devices,Information Technology,59.68,2.65,27.13,2.20,16.26,50.56,68.97,18.62,1.29,5.52,3.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
-ANTM,Anthem,Health Care,130.46,1.91,12.49,10.44,89.02,121.22,173.59,34.06,6.32,0.45,1.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
-AON,Aon Plc,Financials,94.04,1.27,21.52,4.37,21.48,86.38,107.08,25.76,2.51,2.22,4.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
-APA,Apache Corp,Energy,46.42,2.03,,-54.96,25.95,35.79,71.87,17.55,5.78,2.07,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
-AIV,Apartment Investment & Mgmt,Financials,37.61,3.15,27.94,1.35,9.22,34.71,41.55,5.88,0.55088,6.28,4.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIV
-AAPL,Apple,Information Technology,115.02,1.76,12.48,9.22,21.40,92.00,134.54,641.27,82.49,2.77,5.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
-AMAT,Applied Materials,Information Technology,18.84,2.13,16.82,1.12,6.44,14.25,25.71,22.27,2.01,2.34,2.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT
-ADM,Archer-Daniels-Midland,Consumer Staples,35.67,3.07,12.32,2.90,29.72,35.60,53.91,21.29,3.35,0.30,1.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADM
-AIZ,Assurant,Financials,83.605,2.340,46.811,1.786,70.170,59.730,86.990,5.50,0.37417,0.536,1.206,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIZ
-T,AT&T,Telecommunication Services,33.19,5.58,34.90,0.95,19.80,30.97,36.45,204.18,33.94,1.48,1.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=T
-ADSK,Autodesk,Information Technology,64.83,0.00,,-1.24,7.70,42.06,65.00,14.59,0.1707,5.77,8.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADSK
-ADP,Automatic Data Processing,Information Technology,85.46,2.45,27.10,3.15,9.99,64.29,90.67,39.41,2.31,3.62,8.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADP
-AN,AutoNation,Consumer Discretionary,63.15,,15.68,4.03,20.41,53.73,67.50,6.99,1.01,0.35,3.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AN
-AZO,AutoZone,Consumer Discretionary,760.51,,21.11,36.03,-55.49,569.54,803.25,23.18,2.22,2.30,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
-AVB,AvalonBay Communities,Financials,176.53,2.75,32.30,5.47,71.81,158.72,186.89,24.16,1.19,13.26,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
-AVY,Avery Dennison Corp,Materials,63.79,2.24,20.33,3.14,11.56,48.90,66.65,5.81,0.6918,0.97,5.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVY
-BHI,Baker Hughes,Energy,53.07,1.26,,-0.62,39.93,44.11,70.45,23.14,2.84,1.24,1.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BHI
-BLL,Ball Corp,Materials,67.95,0.75,31.83,2.13,7.59,57.95,77.20,9.26,1.10,1.12,8.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLL
-BAC,Bank of America,Financials,17.4744,1.1500,12.8867,1.3560,22.4060,14.6000,18.4800,183.77,0.00,2.3117,0.7864,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAC
-BK,Bank of New York Mellon,Financials,43.30,1.55,18.80,2.30,32.59,35.63,45.45,47.32,0.00,3.14,1.33,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BK
-BCR,Bard (C.R.),Health Care,183.87,0.51,104.53,1.76,20.01,163.08,202.47,13.59,1.04,4.08,9.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BCR
-BXLT,Baxalta,Health Care,35.29,0.81,14.83,2.38,5.87,29.83,40.90,23.94,2.17,3.98,6.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BXLT
-BAX,Baxter International,Health Care,37.26,1.22,11.87,3.14,14.31,32.18,43.44,20.38,4.14,1.27,2.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAX
-BBT,BB&T Corp,Financials,38.19,2.80,14.16,2.70,31.56,34.24,41.90,29.79,0.00,3.34,1.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBT
-BDX,Becton Dickinson,Health Care,149.79,1.74,44.71,3.35,34.50,128.87,154.98,31.49,2.27,3.10,4.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BDX
-BBBY,Bed Bath & Beyond,Consumer Discretionary,53.06,,10.24,5.18,15.69,52.28,79.64,8.68,1.76,0.73,3.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBBY
-BRK-B,Berkshire Hathaway,Financials,133.12,,14.42,9.23,151044.77,125.50,152.94,0.21872,44.27,0.00,0.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B
-BBY,Best Buy,Consumer Discretionary,31.05,2.89,11.69,2.65,13.49,28.32,42.00,10.70,2.31,0.27,2.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBY
-BIIB,Biogen,Health Care,276.26,,18.05,15.30,47.43,254.00,480.18,61.58,5.49,6.01,6.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BIIB
-BLK,BlackRock,Financials,353.0891,2.4000,18.1546,19.4490,169.4360,275.0000,382.8400,58.63,4.93,5.2642,2.1183,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK
-BA,Boeing Co,Industrials,145.40,2.50,18.30,7.95,10.05,115.14,158.83,97.42,9.91,1.01,14.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA
-BWA,Borg Warner,Consumer Discretionary,42.24,1.22,15.37,2.75,16.58,37.33,63.30,9.47,1.34,1.22,2.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BWA
-BXP,Boston Properties,Financials,121.91,2.08,30.79,3.96,36.80,94.91,146.07,18.72,1.51,7.58,3.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BXP
-BSX,Boston Scientific,Health Care,18.1301,,,-0.2960,4.7660,12.5600,19.0600,24.39,1.80,3.3860,3.8628,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BSX
-BMY,Bristol-Myers Squibb,Health Care,66.41,2.21,62.53,1.06,9.04,51.82,70.54,110.79,4.46,6.84,7.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BMY
-BRCM,Broadcom Corp,Information Technology,57.30,1.03,25.00,2.29,16.40,40.21,57.70,34.90,1.99,3.93,3.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRCM
-CHRW,C.H. Robinson Worldwide,Industrials,62.605,2.250,18.419,3.399,7.851,61.460,77.490,8.99,0.88562,0.670,8.098,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHRW
-CA,CA,Information Technology,28.325,3.560,16.478,1.719,13.129,25.160,33.420,12.43,1.29,3.003,2.136,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CA
-CVC,Cablevision Systems,Consumer Discretionary,29.86,1.98,41.41,0.72,-17.92,17.66,33.28,8.26,1.75,1.29,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVC
-COG,Cabot Oil & Gas,Energy,17.31,0.42,,-0.55,5.13,16.96,35.64,7.16,0.1946,4.95,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COG
-CAM,Cameron International,Energy,66.62,,20.44,3.26,23.21,39.52,71.22,12.72,1.64,1.35,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAM
-CPB,Campbell Soup,Consumer Staples,52.93,2.35,25.86,2.05,4.55,42.70,53.90,16.41,1.49,2.03,11.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CPB
-COF,Capital One Financial,Financials,78.28,2.04,10.87,7.20,88.21,67.73,92.10,42.32,0.00,2.27,0.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COF
-CAH,Cardinal Health,Health Care,85.77,1.77,21.50,3.99,19.77,74.76,91.91,28.22,2.84,0.27,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAH
-KMX,CarMax,Consumer Discretionary,58.56,,19.90,2.94,15.67,53.46,75.40,11.87,1.17,0.79,3.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMX
-CCL,Carnival Corp,Consumer Discretionary,49.92,2.36,27.70,1.80,31.30,42.51,54.59,38.84,3.36,2.53,1.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCL
-CAT,Caterpillar,Industrials,70.17,4.24,14.45,4.86,27.30,62.99,100.87,40.86,7.84,0.82,2.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAT
-CBG,CBRE Group,Financials,36.20,,21.31,1.70,7.65,30.85,39.77,12.04,1.17,1.23,4.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBG
-CBS,CBS Corp,Consumer Discretionary,49.28,1.19,15.82,3.12,12.40,38.51,63.95,23.24,3.07,1.73,4.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBS
-CELG,Celgene Corp,Health Care,106.86,,53.64,1.99,6.83,92.98,140.72,83.95,2.87,9.97,16.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CELG
-CNP,CenterPoint Energy,Utilities,16.56,5.84,,-0.02,9.43,16.35,24.38,7.13,1.88,0.90,1.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CNP
-CTL,CenturyLink,Telecommunication Services,26.535,7.980,20.412,1.300,25.718,24.110,40.850,14.57,6.66,0.814,1.029,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTL
-CERN,Cerner Corp,Health Care,59.42,,40.15,1.48,11.22,55.82,75.72,20.33,1.13,5.03,5.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CERN
-CF,CF Industries Holdings,Materials,46.02,2.66,12.09,3.81,17.64,43.57,70.32,10.73,1.90,2.38,2.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CF
-CHK,Chesapeake Energy,Energy,4.9505,0.0000,,-33.8786,1.8390,4.9400,21.4900,3.28,3.63,0.2666,3.0016,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHK
-CVX,Chevron Corp,Energy,89.59,4.69,19.45,4.61,82.31,69.58,114.45,168.61,21.64,1.25,1.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVX
-CMG,Chipotle Mexican Grill,Consumer Discretionary,561.00,,33.47,16.76,76.99,532.03,758.61,17.50,0.98378,3.92,7.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMG
-CB,Chubb Corp,Financials,130.19,1.75,15.00,8.68,72.10,94.35,131.72,29.56,3.03,2.13,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CB
-CI,Cigna Corp,Health Care,137.68,0.03,16.85,8.17,45.73,99.88,170.68,35.47,3.99,0.97,3.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CI
-XEC,Cimarex Energy,Energy,115.76,0.54,,-18.72,36.31,91.74,132.18,10.95,0.9786,6.52,3.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEC
-CINF,Cincinnati Financial,Financials,60.31,3.01,15.47,3.90,38.77,49.68,61.59,9.88,1.01,1.94,1.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CINF
-CTAS,Cintas Corp,Industrials,90.66,1.15,25.30,3.58,16.80,70.61,94.35,9.79,0.87362,2.17,5.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTAS
-CSCO,Cisco Systems,Information Technology,27.0375,3.0800,14.3816,1.8800,11.8020,23.0300,30.3100,137.24,13.67,2.8083,2.3250,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSCO
-C,Citigroup,Financials,53.96,0.37,12.18,4.43,69.03,46.60,60.95,160.75,0.00,2.35,0.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C
-CTXS,Citrix Systems,Information Technology,75.60,,43.32,1.75,13.27,56.47,84.17,11.63,0.79584,3.68,5.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTXS
-CLX,Clorox Co,Consumer Staples,126.07,2.48,25.22,5.00,0.92,98.29,127.64,16.27,1.20,2.87,136.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX
-CME,CME Group,Financials,95.52,2.05,25.54,3.74,63.48,83.43,100.87,32.31,2.24,9.91,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CME
-CMS,CMS Energy,Utilities,34.58,3.31,18.58,1.86,14.08,31.22,38.66,9.58,1.89,1.44,2.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMS
-COH,Coach,Consumer Discretionary,29.83,4.25,21.77,1.37,8.91,27.22,43.87,8.28,0.921,2.05,3.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COH
-KO,Coca-Cola Co,Consumer Staples,42.585,3.100,27.159,1.568,5.999,36.560,43.850,185.20,12.37,4.118,7.130,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KO
-CCE,Coca-Cola Enterprises,Consumer Staples,49.44,2.23,21.33,2.32,4.44,41.03,53.79,11.22,1.23,1.55,11.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCE
-CTSH,Cognizant Technology Solutions,Information Technology,62.10,,24.35,2.55,14.52,50.17,69.80,37.76,2.37,3.27,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTSH
-CL,Colgate-Palmolive,Consumer Staples,65.27,2.31,24.17,2.70,0.28,50.84,71.56,58.54,4.47,3.60,231.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CL
-CPGX,Columbia Pipeline Group,Energy,19.14,2.61,22.89,0.84,8.17,17.51,33.00,6.08,0.5502,4.77,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CPGX
-CMCSA,Comcast Corp,Consumer Discretionary,59.62,1.64,18.70,3.19,21.05,50.00,64.99,146.50,24.54,2.04,2.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMCSA
-CMA,Comerica,Financials,45.56,1.81,15.14,3.01,43.01,39.52,53.45,8.05,0.00,3.13,1.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMA
-CSC,Computer Sciences,Information Technology,30.175,2.940,198.520,0.152,21.788,24.766,31.960,4.19,0.964,0.378,1.417,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSC
-CAG,ConAgra Foods,Consumer Staples,40.22,2.44,,-4.42,7.77,33.45,45.49,17.41,2.21,1.11,5.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAG
-COP,ConocoPhillips,Energy,52.4674,5.4800,,-0.8340,35.8080,41.1000,71.3700,64.78,8.80,1.8155,1.4675,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COP
-CNX,CONSOL Energy,Energy,8.7201,0.5100,,-1.4450,20.6630,6.3800,37.7200,2.00,0.9874400000000001,0.6779,0.4196,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CNX
-ED,Consolidated Edison,Utilities,60.99,4.18,16.35,3.73,44.49,56.86,72.25,17.88,3.39,1.42,1.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ED
-STZ,Constellation Brands,Consumer Staples,140.61,0.86,29.11,4.83,30.90,140.57,142.66,27.63,1.95,4.45,4.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STZ
-GLW,Corning,Information Technology,18.2137,2.5600,11.9044,1.5300,14.9470,15.4200,25.1600,21.55,2.90,2.3879,1.2538,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLW
-COST,Costco Wholesale,Consumer Staples,163.85,0.98,30.51,5.37,24.24,117.03,166.10,71.67,4.75,0.61,6.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COST
-CCI,Crown Castle International,Financials,84.72,4.11,19.04,4.45,21.74,74.45,89.44,28.22,2.10,7.53,3.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCI
-CSX,CSX Corp,Industrials,27.205,2.480,13.535,2.010,11.944,24.470,37.670,26.52,4.89,2.196,2.305,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSX
-CMI,Cummins,Industrials,92.272,3.890,9.876,9.343,43.879,91.800,150.920,16.30,2.66,0.862,2.162,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMI
-CVS,CVS Health Corp,Consumer Staples,93.91,1.49,21.19,4.43,33.49,81.37,113.65,104.24,11.19,0.70,2.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVS
-DHI,D.R.Horton,Consumer Discretionary,31.7788,0.9800,15.6546,2.0300,15.9890,22.1200,33.1000,11.72,1.23,1.1006,2.0208,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DHI
-DHR,Danaher Corp,Industrials,94.76,0.56,20.29,4.67,33.73,81.25,97.62,64.94,4.67,3.18,2.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DHR
-DRI,Darden Restaurants,Consumer Discretionary,55.40,3.92,24.48,2.26,18.92,53.38,75.60,7.10,0.8342999999999999,1.05,2.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DRI
-DVA,DaVita HealthCare Partner,Health Care,71.85,,32.36,2.22,23.65,70.12,85.17,15.16,2.49,1.13,3.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVA
-DLPH,Delphi Automotive Plc,Consumer Discretionary,86.045,1.140,15.605,5.514,8.253,66.100,90.570,24.10,2.61,1.463,10.498,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLPH
-DAL,Delta Air Lines,Industrials,48.04,1.15,13.83,3.47,13.13,34.61,52.00,37.86,7.81,0.93,3.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DAL
-XRAY,DENTSPLY International,Health Care,62.63,0.47,32.27,1.94,16.31,49.42,62.73,8.76,0.56698,3.21,3.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRAY
-DVN,Devon Energy,Energy,41.59,2.09,,-25.41,28.10,36.01,70.48,17.09,-8.71,1.29,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVN
-DO,Diamond Offshore Drilling,Energy,22.30,2.23,43.73,0.51,31.91,16.51,40.00,3.06,1.09,1.21,0.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
-DFS,Discover Financial Services,Financials,55.57,1.97,11.48,4.84,25.01,50.20,66.72,23.76,0.00,3.38,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DFS
-DISCA,Discovery Communications,Consumer Discretionary,30.0275,,18.8142,1.5960,8.7290,25.0200,35.7800,13.46,2.48,2.1060,3.4574,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DISCA
-DLTR,Dollar Tree,Consumer Discretionary,74.645,,62.204,1.200,17.641,60.310,84.220,17.53,1.50,1.416,4.310,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLTR
-D,Dominion Resources,Utilities,65.51,3.84,21.74,3.01,21.15,65.12,80.89,39.00,5.30,3.26,3.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=D
-DOV,Dover Corp,Industrials,65.50,2.58,11.79,5.56,23.01,55.50,78.21,10.15,1.38,1.39,2.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOV
-DOW,Dow Chemical,Materials,52.09,3.54,13.38,3.89,17.55,35.11,53.77,60.35,8.64,1.17,2.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOW
-DPS,Dr. Pepper Snapple Group,Consumer Staples,89.895,2.120,23.870,3.766,11.617,69.390,91.800,16.98,1.44,2.748,7.820,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DPS
-DTE,DTE Energy,Utilities,78.84,3.64,14.91,5.29,49.10,73.23,92.27,14.15,2.55,1.29,1.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DTE
-DD,Du Pont (E.I.),Materials,66.76,2.27,21.09,3.16,12.29,47.11,76.59,58.51,5.53,1.83,5.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DD
-DUK,Duke Energy,Utilities,66.55,4.89,19.16,3.47,57.90,65.50,89.97,45.81,8.99,1.95,1.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DUK
-DNB,Dun & Bradstreet,Industrials,104.96,1.72,20.73,5.06,-32.02,100.02,137.25,3.79,0.426,2.26,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DNB
-ETFC,E Trade Financial,Financials,30.20,,40.27,0.75,20.01,21.01,31.48,8.77,0.00,4.87,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETFC
-EMN,Eastman Chemical,Materials,71.51,2.25,14.48,4.94,26.09,62.84,84.19,10.63,2.28,1.09,2.75,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EMN
-ETN,Eaton Corp Plc,Industrials,55.68,3.78,12.87,4.32,33.20,49.21,73.82,25.77,3.40,1.24,1.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETN
-EBAY,eBay,Information Technology,28.535,,15.517,1.839,5.397,22.113,29.830,34.26,4.89,1.965,5.368,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EBAY
-ECL,Ecolab,Materials,118.27,1.11,31.69,3.73,22.97,97.78,122.48,34.93,2.92,2.54,5.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ECL
-EIX,Edison International,Utilities,58.58,2.81,12.70,4.61,35.60,55.18,69.59,19.09,4.05,1.55,1.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EIX
-EW,Edwards Lifesciences,Health Care,158.14,,37.45,4.22,22.48,122.75,166.87,17.06,0.6892999999999999,7.20,7.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EW
-EA,Electronic Arts,Information Technology,67.955,,26.881,2.528,10.116,44.540,76.920,21.12,1.14,4.978,6.854,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EA
-EMC,EMC Corp,Information Technology,25.665,1.810,21.567,1.190,10.544,22.660,30.920,49.76,5.21,2.024,2.449,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EMC
-EMR,Emerson Electric,Industrials,48.40,3.78,12.13,3.99,12.35,42.21,65.16,31.68,4.26,1.44,3.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EMR
-ENDP,Endo International plc,Health Care,60.39,,,-7.97,28.25,46.66,96.58,13.68,0.78218,4.16,2.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ENDP
-ESV,ENSCO Plc,Energy,16.635,3.880,,-11.152,38.256,13.260,33.240,3.92,2.31,0.868,0.423,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESV
-ETR,Entergy Corp,Utilities,64.68,5.14,,-0.87,51.33,61.27,92.02,11.54,3.81,0.98,1.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETR
-EOG,EOG Resources,Energy,81.585,0.820,,-6.962,24.168,68.150,101.360,44.85,4.98,4.285,3.346,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EOG
-EQT,EQT Corp,Energy,53.97,0.21,40.04,1.35,33.90,53.83,92.79,8.23,1.66,3.78,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQT
-EFX,Equifax,Industrials,109.91,1.04,32.13,3.42,18.83,78.34,112.84,13.02,0.9122,5.06,5.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EFX
-EQIX,Equinix,Financials,295.79,2.27,,-3.15,25.99,213.89,304.73,16.94,1.10,6.52,11.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX
-EQR,Equity Residential,Financials,77.94,2.77,32.43,2.40,28.67,61.90,82.53,28.39,1.75,10.76,2.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQR
-ESS,Essex Property Trust,Financials,227.705,2.460,78.438,2.903,94.234,199.820,243.170,15.04,0.7810900000000001,12.753,2.429,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESS
-EL,Estee Lauder Co,Consumer Staples,83.58,1.43,27.40,3.05,9.42,70.38,91.68,30.86,2.10,2.82,8.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EL
-ES,Eversource Energy,Utilities,49.565,3.300,17.210,2.880,32.455,44.640,56.830,15.72,2.48,1.937,1.532,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ES
-EXC,Exelon Corp,Utilities,27.311,4.490,12.127,2.252,28.024,27.120,38.930,25.11,8.26,0.838,0.976,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXC
-EXPE,Expedia,Consumer Discretionary,122.17,0.78,19.17,6.37,18.81,76.34,140.51,15.86,0.70266,2.53,6.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPE
-EXPD,"Expeditors International,Wash",Industrials,46.82,1.48,20.27,2.31,9.88,41.97,51.80,8.73,0.74754,1.30,4.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPD
-ESRX,Express Scripts Holding,Health Care,84.80,,26.38,3.21,24.45,68.06,94.61,57.35,6.93,0.58,3.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESRX
-XOM,Exxon Mobil,Energy,78.70,3.58,16.63,4.73,41.01,66.55,95.18,327.62,37.45,1.26,1.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XOM
-FFIV,F5 Networks,Information Technology,100.91,,20.06,5.03,18.77,99.81,136.11,7.10,0.59488,3.84,5.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FFIV
-FB,Facebook Cl,Information Technology,104.15,,104.57,1.00,14.72,72.00,110.65,294.54,6.66,18.82,7.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FB
-FAST,Fastenal Co,Industrials,39.585,2.780,22.251,1.779,6.157,34.450,48.430,11.47,0.91743,3.003,6.519,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FAST
-FDX,FedEx Corp,Industrials,155.18,0.63,40.88,3.80,54.12,130.13,185.19,43.82,7.22,0.93,2.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FDX
-FIS,Fidelity National Information Services,Information Technology,64.06,1.61,25.40,2.52,23.14,59.71,73.60,18.07,1.66,2.86,2.81,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FIS
-FITB,Fifth Third Bancorp,Financials,20.60,2.52,12.48,1.65,18.22,17.14,21.93,16.36,0.00,2.86,1.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
-FSLR,First Solar,Information Technology,59.28,,10.46,5.67,53.40,39.18,65.50,5.98,0.84235,1.65,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FSLR
-FE,FirstEnergy Corp,Utilities,32.22,4.59,27.40,1.18,29.85,28.89,41.68,13.63,3.23,0.93,1.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FE
-FISV,Fiserv,Information Technology,93.84,,32.14,2.92,12.50,68.05,97.76,21.45,1.60,4.21,7.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV
-FLIR,FLIR Systems,Information Technology,30.05,1.45,17.55,1.71,11.76,25.12,34.46,4.15,0.35118,2.70,2.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLIR
-FLS,Flowserve Corp,Industrials,44.99,1.56,17.10,2.63,12.96,39.47,64.41,5.89,0.82068,1.28,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLS
-FLR,Fluor Corp,Industrials,48.46,1.73,10.72,4.52,21.53,40.61,62.71,6.86,1.22,0.36,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLR
-FMC,FMC Corp,Materials,41.77,1.56,7.26,5.76,15.82,32.58,64.72,5.58,0.7664,1.36,2.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FMC
-FTI,FMC Technologies,Energy,33.40,,15.45,2.16,10.98,27.94,48.75,7.61,1.13,1.08,3.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTI
-F,Ford Motor,Consumer Discretionary,14.09,4.13,11.79,1.20,6.92,10.44,16.74,55.92,13.26,0.39,2.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=F
-FOSL,Fossil Group,Consumer Discretionary,37.85,,6.18,6.13,18.08,30.65,112.74,1.82,0.54798,0.56,2.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FOSL
-BEN,Franklin Resources,Financials,40.655,1.430,12.357,3.290,19.620,36.100,59.430,24.45,3.10,3.105,2.091,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BEN
-FCX,Freeport-McMoRan,Materials,7.81,2.44,,-10.51,9.62,7.76,26.84,9.03,5.40,0.52,0.81,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FCX
-FTR,Frontier Communications,Telecommunication Services,4.99,8.42,,-0.14,5.01,4.19,8.46,5.83,2.28,1.06,1.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTR
-GME,GameStop Corp,Consumer Discretionary,32.65,4.00,8.81,3.71,18.42,31.69,47.83,3.44,0.8226,0.38,1.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GME
-GPS,Gap,Consumer Discretionary,26.265,3.440,10.742,2.445,6.458,24.700,43.900,10.61,2.26,0.657,4.062,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPS
-GRMN,Garmin Ltd,Consumer Discretionary,36.97,5.44,13.26,2.79,16.99,31.32,57.16,7.04,0.65965,2.51,2.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRMN
-GM,General Motors,Consumer Discretionary,35.78,3.98,13.13,2.73,21.65,24.62,38.99,55.68,13.45,0.36,1.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GM
-GD,Genl Dynamics,Industrials,142.53,1.90,16.26,8.77,33.90,130.91,153.76,45.14,4.66,1.44,4.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GD
-GE,Genl Electric,Industrials,30.011,3.030,,-0.728,11.000,19.370,30.990,303.39,28.42,2.067,2.725,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GE
-GGP,Genl Growth Properties,Financials,25.31,2.93,16.62,1.52,9.05,24.22,31.70,22.39,1.80,8.78,2.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GGP
-GIS,Genl Mills,Consumer Staples,57.42,3.01,27.23,2.11,8.26,47.50,59.87,34.32,3.45,1.97,7.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GIS
-GPC,Genuine Parts,Consumer Discretionary,87.96,2.71,18.96,4.64,20.95,78.76,109.00,13.26,1.28,0.87,4.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPC
-GNW,Genworth Financial,Financials,4.835,0.000,,-2.188,27.322,4.230,9.190,2.41,0.55,0.248,0.172,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GNW
-GILD,Gilead Sciences,Health Care,101.08,1.59,9.28,10.89,12.02,85.95,123.37,145.67,22.44,4.79,8.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GILD
-GS,Goldman Sachs Group,Financials,187.68,1.37,12.33,15.22,171.45,167.49,218.77,83.74,0.00,2.48,1.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GS
-GT,Goodyear Tire & Rub,Consumer Discretionary,34.695,0.900,3.381,10.261,15.407,23.740,35.300,9.33,2.38,0.560,2.262,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GT
-GOOGL,Google,Information Technology,768.61,,32.40,23.72,169.03,490.91,793.05,528.59,23.30,7.45,4.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL
-GWW,Grainger (W.W.),Industrials,198.53,2.33,17.47,11.36,37.61,192.50,261.57,12.47,1.59,1.25,5.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GWW
-HAL,Halliburton Co,Energy,37.995,1.810,125.811,0.302,18.068,30.930,50.200,32.52,4.88,1.220,2.156,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAL
-HBI,Hanesbrands,Consumer Discretionary,30.43,1.30,30.99,0.98,3.19,25.92,34.80,11.92,0.96001,2.07,9.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBI
-HOG,Harley-Davidson,Consumer Discretionary,46.80,2.54,12.51,3.74,12.57,46.47,70.41,9.53,1.38,1.61,3.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOG
-HAR,Harman International,Consumer Discretionary,100.88,1.36,20.76,4.86,33.11,84.41,149.12,7.17,0.73842,1.14,3.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAR
-HRS,Harris Corp,Information Technology,82.97,2.41,26.11,3.18,27.88,66.15,84.78,10.32,1.23,1.82,3.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRS
-HIG,Hartford Finl Services Gp,Financials,45.65,1.84,12.00,3.80,44.26,38.65,50.95,18.70,2.62,1.02,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HIG
-HAS,Hasbro,Consumer Discretionary,70.335,2.520,19.999,3.517,12.372,51.420,84.420,8.77,0.8219299999999999,2.111,5.861,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAS
-HCA,HCA Holdings,Health Care,67.50,0.00,14.12,4.78,-17.68,43.91,95.49,27.52,7.69,0.73,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCA
-HCP,HCP,Financials,35.23,6.36,70.60,0.50,21.89,32.71,49.61,16.38,1.79,6.66,1.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCP
-HP,Helmerich & Payne,Energy,55.505,4.720,14.342,3.870,45.456,46.160,79.900,5.98,1.31,1.875,1.212,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HP
-HSY,Hershey Co,Consumer Staples,84.675,2.700,37.417,2.263,4.100,82.410,111.350,18.36,1.70,2.467,20.783,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSY
-HES,Hess Corp,Energy,56.415,1.690,,-4.364,75.242,47.840,79.000,15.99,3.13,2.091,0.754,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HES
-HPQ,Hewlett-Packard,Information Technology,12.27,3.93,4.95,2.48,15.41,11.04,18.66,22.11,12.20,0.21,0.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HPQ
-HD,Home Depot,Consumer Discretionary,132.05,1.75,24.77,5.33,6.01,92.17,135.47,167.42,13.14,1.96,22.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HD
-HON,Honeywell International,Industrials,102.52,2.29,17.96,5.71,23.04,87.00,107.41,79.01,7.22,2.04,4.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON
-HRL,Hormel Foods,Consumer Staples,75.78,1.55,29.83,2.54,15.14,50.06,77.00,20.03,1.20,2.15,4.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRL
-HST,Host Hotels & Resorts,Financials,16.23,4.82,18.83,0.86,9.43,15.36,24.50,12.20,1.39,2.29,1.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HST
-HUM,Humana,Health Care,169.3125,0.6900,19.4523,8.7040,69.8470,137.4500,219.7900,25.10,2.70,0.4819,2.4787,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUM
-JBHT,Hunt(J.B.)Transport,Industrials,77.29,1.06,21.58,3.58,10.90,70.58,93.50,8.86,1.04,1.45,7.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
-HBAN,Huntington Bancshares,Financials,11.53,2.40,14.59,0.79,7.78,9.63,11.90,9.19,0.00,3.23,1.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBAN
-ITW,Illinois Tool Works,Industrials,92.59,2.34,18.35,5.05,13.99,78.79,100.14,33.66,3.35,2.49,6.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ITW
-IR,Ingersoll-Rand Plc,Industrials,57.36,1.98,22.46,2.55,21.96,49.74,70.93,14.97,1.77,1.15,2.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IR
-INTC,Intel Corp,Information Technology,34.37,2.79,14.78,2.33,12.07,24.87,37.90,162.19,23.32,2.98,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
-ICE,Intercontinental Exchange,Financials,255.235,1.150,24.018,10.627,112.182,202.240,266.740,29.36,2.12,9.134,2.309,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ICE
-IBM,International Bus. Machines,Information Technology,139.08,3.76,9.68,14.37,13.70,131.65,176.30,134.92,21.41,1.62,10.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM
-IFF,International Flavors/Fragr,Materials,119.35,1.87,22.57,5.29,19.81,97.59,123.08,9.58,0.6742100000000001,3.15,6.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IFF
-IP,International Paper,Materials,39.80,4.21,18.90,2.11,10.49,37.11,57.90,16.50,3.78,0.73,3.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IP
-IPG,Interpublic GroupCompanies,Consumer Discretionary,22.975,2.070,18.972,1.211,4.587,18.160,23.630,9.34,1.01,1.228,5.025,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IPG
-INTU,Intuit,Information Technology,96.67,1.20,65.05,1.49,3.98,79.63,109.21,25.52,1.17,6.12,25.03,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTU
-ISRG,Intuitive Surgical,Health Care,510.75,,35.23,14.50,110.33,447.00,564.86,19.08,0.7846000000000001,8.42,4.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ISRG
-IVZ,INVESCO Ltd,Financials,33.285,3.210,13.886,2.397,19.093,30.210,42.050,14.11,1.48,2.761,1.760,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IVZ
-IRM,Iron Mountain,Financials,27.385,6.910,44.601,0.614,2.877,26.490,41.530,5.78,0.90255,1.913,9.555,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IRM
-JEC,Jacobs Engineering Group,Industrials,44.83,,18.68,2.40,34.85,36.05,48.25,5.49,0.59329,0.45,1.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JEC
-JNJ,Johnson & Johnson,Health Care,100.77,2.96,19.34,5.21,25.86,81.79,108.88,278.82,22.55,4.00,3.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JNJ
-JCI,Johnson Controls,Consumer Discretionary,42.6511,2.5200,18.0191,2.3670,16.0280,38.4800,54.5200,27.62,3.09,0.7479,2.6784,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JCI
-JPM,JPMorgan Chase & Co,Financials,66.3593,2.6200,11.2914,5.8770,59.6800,50.0700,70.6100,244.25,0.00,2.7541,1.1170,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM
-JNPR,Juniper Networks,Information Technology,29.35,1.32,,-0.83,11.51,21.03,32.39,11.32,0.974,2.52,2.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JNPR
-KSU,Kansas City Southern,Industrials,82.08,1.43,18.65,4.40,35.45,81.54,123.96,8.96,1.09,3.77,2.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KSU
-K,Kellogg Co,Consumer Staples,68.53,2.91,67.65,1.01,7.52,61.13,72.34,24.29,1.62,1.76,9.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=K
-GMCR,Keurig Green Mountain,Consumer Staples,53.33,2.56,16.98,3.14,17.68,39.80,141.69,7.94,1.07,1.73,2.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GMCR
-KEY,KeyCorp,Financials,13.035,2.280,12.194,1.069,12.469,12.040,15.700,10.89,0.00,2.680,1.053,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KEY
-KMB,Kimberly-Clark,Consumer Staples,118.28,2.91,73.37,1.61,0.15,103.04,122.97,42.93,4.22,2.30,803.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMB
-KIM,Kimco Realty,Financials,25.445,3.870,20.637,1.233,11.925,22.070,28.540,10.52,0.72184,9.473,2.179,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KIM
-KMI,Kinder Morgan,Energy,19.805,8.550,37.581,0.527,15.941,19.760,44.710,44.20,6.43,3.132,1.296,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMI
-KLAC,KLA-Tencor Corp,Information Technology,67.23,3.13,27.20,2.47,1.89,44.95,73.12,10.48,0.83499,3.75,35.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC
-KSS,Kohl's Corp,Consumer Discretionary,46.345,3.820,12.316,3.763,28.660,41.860,79.600,8.85,2.58,0.463,1.620,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KSS
-KHC,Kraft Heinz,Consumer Staples,71.72,3.08,,-0.55,48.48,61.42,81.20,87.03,3.15,6.32,1.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KHC
-LB,L Brands,Consumer Discretionary,95.50,2.07,23.99,3.98,-2.23,75.11,101.11,27.73,2.52,2.36,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LB
-LLL,L-3 Communications Holdings,Industrials,121.08,2.09,77.52,1.56,58.02,101.11,132.92,9.49,1.22,0.83,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLL
-LH,Laboratory Corp American Holdings,Health Care,121.39,0.00,26.46,4.59,48.55,99.89,131.19,12.28,1.57,1.62,2.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LH
-LRCX,Lam Research,Information Technology,77.065,1.530,16.930,4.552,33.891,61.200,85.700,12.21,1.32,2.183,2.321,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX
-LM,Legg Mason,Financials,43.58,1.80,15.52,2.81,41.19,40.21,59.19,4.69,0.58554,1.69,1.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LM
-LEG,Leggett & Platt,Consumer Discretionary,45.95,2.75,24.74,1.86,8.01,39.38,51.28,6.25,0.546,1.60,5.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEG
-LEN,Lennar Corp,Consumer Discretionary,50.36,0.31,15.18,3.32,25.51,41.25,56.04,10.59,1.14,1.18,2.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEN
-LUK,Leucadia National,Financials,17.995,1.400,31.906,0.564,28.611,17.650,25.390,6.52,1.40,0.549,0.629,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LUK
-LVLT,Level 3 Communications,Telecommunication Services,51.42,,101.42,0.51,19.05,40.86,57.08,18.32,2.50,2.29,2.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LVLT
-LLY,Lilly (Eli),Health Care,83.02,2.39,37.43,2.22,14.34,68.31,92.85,88.12,5.31,4.55,5.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY
-LNC,Lincoln National,Financials,54.91,1.82,11.67,4.70,58.19,45.56,62.08,13.59,1.71,0.97,0.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LNC
-LLTC,Linear Technology Corp,Information Technology,44.68,2.62,21.80,2.05,6.63,36.41,49.57,10.68,0.71238,7.51,6.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLTC
-LMT,Lockheed Martin,Industrials,216.50,2.92,19.21,11.27,9.15,181.91,227.91,66.53,5.95,1.47,23.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LMT
-L,Loews Corp,Financials,37.98,0.66,21.03,1.81,52.52,34.40,42.89,13.46,3.19,1.00,0.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=L
-LOW,Lowe'sCompanies,Consumer Discretionary,75.497,1.450,23.952,3.152,9.136,63.880,78.130,69.23,6.97,1.198,8.352,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LOW
-LYB,LyondellBasell Industries,Materials,95.42,3.26,10.24,9.32,16.18,70.06,107.32,42.89,7.13,1.19,5.88,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LYB
-MTB,M&T Bank,Financials,123.68,2.23,16.54,7.48,87.69,111.50,134.00,16.49,0.00,3.79,1.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MTB
-MAC,Macerich Co,Financials,76.41,3.48,7.97,9.58,34.24,71.98,95.93,12.10,0.80068,9.19,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAC
-M,Macy's,Consumer Discretionary,38.90,3.68,10.07,3.86,12.63,37.75,73.61,12.23,3.71,0.44,3.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=M
-MNK,Mallinckrodt plc,Health Care,72.10,,26.21,2.75,45.67,52.01,134.26,8.36,1.32,2.51,1.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNK
-MRO,Marathon Oil,Energy,16.645,3.880,,-0.718,28.560,14.030,31.530,11.27,2.18,1.656,0.584,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRO
-MPC,Marathon Petroleum,Energy,55.155,2.190,8.731,6.317,22.991,37.620,60.380,29.40,7.10,0.435,2.523,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MPC
-MAR,Marriott International,Consumer Discretionary,69.71,1.40,22.80,3.06,-13.94,63.95,85.00,17.92,1.45,6.47,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAR
-MMC,Marsh & McLennan,Financials,55.505,2.240,19.760,2.809,11.969,50.900,59.990,28.95,2.77,2.275,4.665,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMC
-MLM,Martin Marietta Materials,Materials,155.00,0.99,39.02,3.97,64.27,103.09,178.67,10.25,0.76551,3.20,2.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MLM
-MAS,Masco Corp,Industrials,29.5501,1.2700,27.3612,1.0800,-0.4790,20.4130,30.6100,9.81,1.09,1.1633,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAS
-MA,MasterCard,Information Technology,96.42,0.65,29.60,3.26,5.57,74.61,101.76,108.26,5.49,11.36,17.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MA
-MAT,Mattel,Consumer Discretionary,24.6775,6.2100,27.8842,0.8850,7.5820,19.4500,31.5300,8.37,0.83413,1.4666,3.2472,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAT
-MKC,McCormick & Co,Consumer Staples,84.86,2.00,27.51,3.09,13.63,70.70,87.15,10.87,0.6871,2.57,6.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MKC
-MCD,McDonald's Corp,Consumer Discretionary,113.47,3.12,24.57,4.62,9.05,87.50,114.99,104.19,8.91,4.07,12.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCD
-MHFI,McGraw Hill Financial,Financials,96.02,1.36,415.67,0.23,2.43,84.64,109.13,25.95,2.17,5.04,40.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHFI
-MCK,McKesson Corp,Health Care,189.79,0.59,24.83,7.64,38.19,160.10,243.61,43.67,4.21,0.23,4.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCK
-MJN,Mead Johnson Nutrition,Consumer Staples,79.40,2.05,23.63,3.36,1.78,69.20,105.45,15.65,1.07,3.76,44.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MJN
-MRK,Merck & Co,Health Care,52.5599,3.4100,13.9453,3.7690,16.2680,45.6900,63.6200,146.83,14.57,3.7809,3.3083,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK
-MET,MetLife,Financials,50.05,2.94,9.70,5.16,63.24,44.49,58.23,55.64,10.07,0.79,0.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MET
-KORS,Michael Kors Holdings,Consumer Discretionary,42.44,,9.93,4.27,10.27,36.63,78.55,7.79,1.36,1.75,4.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KORS
-MCHP,Microchip Technology,Information Technology,46.40,2.97,26.84,1.73,10.49,37.77,52.44,9.42,0.73476,4.41,4.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCHP
-MU,Micron Technology,Information Technology,15.70,0.00,6.34,2.47,11.84,13.50,36.59,16.31,5.65,1.02,1.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU
-MSFT,Microsoft Corp,Information Technology,54.12,2.65,35.98,1.50,9.70,39.72,55.96,432.31,32.44,4.86,5.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT
-MHK,Mohawk Industries,Consumer Discretionary,185.53,,,49.90,64.25,143.22,212.16,13.72,1.33,1.75,2.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHK
-TAP,Molson Coors Brewing,Consumer Staples,91.93,1.78,40.68,2.26,39.17,63.91,95.74,16.96,0.6727000000000001,4.63,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TAP
-MDLZ,Mondelez International,Consumer Staples,42.745,1.530,8.334,5.129,18.771,33.970,48.580,67.93,4.83,2.241,2.337,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
-MON,Monsanto Co,Materials,96.33,2.26,20.04,4.81,14.94,81.22,126.00,42.37,4.73,2.85,6.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MON
-MNST,Monster Beverage,Consumer Staples,153.36,,53.23,2.88,22.96,103.18,158.35,31.09,0.9583200000000001,11.70,6.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNST
-MCO,Moody's Corp,Financials,102.42,1.31,21.94,4.67,-2.38,85.50,113.87,20.25,1.60,5.82,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCO
-MS,Morgan Stanley,Financials,34.67,1.75,21.36,1.62,34.97,30.15,41.04,67.13,0.00,1.91,1.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MS
-MOS,Mosaic Co,Materials,30.875,2.900,9.362,3.298,27.275,29.610,53.830,10.88,2.27,1.188,1.126,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MOS
-MSI,Motorola Solutions,Information Technology,71.04,2.28,28.40,2.50,-1.74,56.40,72.97,12.54,1.26,2.17,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSI
-MUR,Murphy Oil,Energy,26.45,5.10,,-7.45,35.04,23.20,52.00,4.55,1.67,1.39,0.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MUR
-MYL,Mylan NV,Health Care,50.54,0.00,28.16,1.79,19.96,37.59,76.69,24.85,2.64,2.84,2.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MYL
-NDAQ,Nasdaq,Financials,56.65,1.71,26.60,2.13,33.80,44.82,60.05,9.30,1.05,2.78,1.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDAQ
-NOV,Natl Oilwell Varco,Energy,37.20,4.76,11.06,3.36,48.24,34.54,67.92,13.98,3.08,0.79,0.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOV
-NAVI,Navient Corp,Financials,11.78,5.44,4.76,2.47,10.72,10.62,22.71,4.27,0.00,1.82,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NAVI
-NTAP,NetApp,Information Technology,30.76,2.35,23.86,1.29,10.16,28.75,43.58,9.04,0.6625,1.55,3.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTAP
-NFLX,NetFlix,Consumer Discretionary,128.0587,,340.5817,0.3760,5.0710,45.0771,132.2000,54.73,0.37209,8.5552,25.4250,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX
-NWL,Newell Rubbermaid,Consumer Discretionary,43.79,1.70,30.69,1.43,6.68,34.44,45.58,11.70,0.9914,2.03,6.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NWL
-NFX,Newfield Exploration,Energy,37.31,,,-15.39,12.56,22.31,41.34,6.03,1.67,3.56,2.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFX
-NEM,Newmont Mining,Materials,18.845,0.540,19.569,0.963,21.817,15.390,27.900,9.97,3.49,1.191,0.818,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEM
-NWSA,News Corporation,Consumer Discretionary,13.695,1.390,,-0.074,19.979,12.160,17.550,7.96,0.757,0.981,0.721,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NWSA
-NEE,NextEra Energy,Utilities,96.76,3.10,13.90,6.96,48.46,93.74,112.64,44.56,8.46,2.50,2.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEE
-NLSN,Nielsen Holdings plc,Industrials,45.80,2.38,35.67,1.28,12.16,41.92,49.37,16.67,1.54,2.75,3.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NLSN
-NKE,NIKE,Consumer Discretionary,130.68,0.95,33.11,3.95,15.10,90.69,135.30,111.36,5.01,3.64,8.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE
+MMM,3M Co,Industrials,154.10,2.62,19.92,7.74,19.79,134.00,170.50,94.88,8.50,3.12,7.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMM
+ABT,Abbott Laboratories,Health Care,44.08,2.14,14.68,3.00,14.15,39.00,51.74,65.75,4.72,3.28,3.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABT
+ABBV,AbbVie,Health Care,55.656,3.920,32.283,1.724,2.975,45.450,71.600,90.98,8.56,4.306,19.402,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV
+ACN,Accenture Plc,Information Technology,105.51,2.05,22.16,4.76,9.79,81.66,109.86,65.92,5.15,2.17,10.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN
+ACE,ACE Limited,Financials,113.715,2.330,13.891,8.186,89.881,96.000,117.890,36.86,3.61,1.968,1.284,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACE
+ATVI,Activision Blizzard,Information Technology,37.55,0.62,25.58,1.47,10.93,18.43,39.00,27.46,1.60,5.74,3.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ATVI
+ADBE,Adobe Systems,Information Technology,89.98,0.00,91.82,0.98,13.72,68.98,92.85,44.88,1.10,10.06,6.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE
+ADT,ADT Corp (The),Industrials,35.23,2.43,20.48,1.72,17.60,29.34,42.88,5.81,1.38,1.65,2.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADT
+AAP,Advance Auto Parts,Consumer Discretionary,153.5475,0.1500,22.5407,6.8120,32.9590,142.6300,201.2400,11.24,1.29,1.1632,4.7917,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAP
+AES,AES Corp,Utilities,9.54,4.00,11.33,0.84,5.29,9.42,14.49,6.42,3.86,0.41,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AES
+AET,Aetna,Health Care,101.975,0.960,15.638,6.521,45.508,85.620,134.400,35.56,5.22,0.622,2.350,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AET
+AMG,Affiliated Managers Group,Financials,169.84,,17.84,9.52,49.24,163.50,230.63,9.18,0.9829,3.74,3.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMG
+AFL,AFLAC,Financials,62.66,2.51,10.97,5.71,40.36,51.41,66.53,26.74,4.34,1.33,1.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AFL
+A,Agilent Technologies,Health Care,40.01,1.10,33.62,1.19,12.52,33.12,43.59,13.28,0.775,3.32,3.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=A
+GAS,AGL Resources,Utilities,62.235,3.260,18.928,3.288,32.175,46.360,63.370,7.48,1.26,1.698,1.942,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GAS
+APD,Air Products & Chemicals,Materials,135.57,2.35,23.06,5.88,33.66,123.66,158.20,29.21,2.83,3.02,4.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APD
+ARG,Airgas,Materials,137.75,1.74,28.46,4.84,26.64,86.09,139.22,9.93,0.97741,1.85,5.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARG
+AKAM,Akamai Technologies,Information Technology,54.81,,30.12,1.82,17.31,54.68,78.44,9.75,0.6948799999999999,4.63,3.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AKAM
+AA,Alcoa,Materials,8.955,1.280,23.753,0.377,9.569,7.810,17.450,11.73,3.67,0.518,0.977,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AA
+ALXN,Alexion Pharmaceuticals,Health Care,167.80,,151.44,1.11,36.52,142.02,208.88,37.81,0.90283,15.90,4.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALXN
+ALLE,Allegion Plc,Industrials,65.59,0.60,54.12,1.21,0.15,52.33,68.08,6.29,0.4532,3.08,445.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALLE
+AGN,Allergan plc,Health Care,313.31,0.10,28.80,10.88,184.12,237.50,340.34,123.48,7.64,6.38,1.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AGN
+ADS,Alliance Data Systems,Information Technology,280.21,,37.91,7.39,31.87,241.91,312.00,17.13,1.61,2.82,8.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADS
+ALL,Allstate Corp,Financials,62.62,1.91,10.90,5.74,48.10,54.12,72.87,24.25,4.49,0.68,1.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALL
+ALTR,Altera Corp,Information Technology,52.80,1.36,47.57,1.11,11.07,32.67,52.99,15.99,0.48328,9.26,4.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALTR
+MO,Altria Group,Consumer Staples,57.08,3.92,21.47,2.66,1.47,47.31,61.74,111.76,8.74,6.04,39.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MO
+AMZN,Amazon.com,Consumer Discretionary,665.26,,953.09,0.70,26.50,285.25,684.82,311.85,7.01,3.15,25.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN
+AEE,Ameren Corp,Utilities,42.26,3.88,15.85,2.67,28.91,37.26,48.14,10.25,2.16,1.75,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEE
+AAL,American Airlines Group,Industrials,43.12,0.97,6.19,6.96,5.88,34.10,56.20,27.18,8.67,0.67,7.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAL
+AEP,American Electric Power,Utilities,54.82,4.00,15.20,3.61,36.06,52.29,65.38,26.91,5.28,1.57,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEP
+AXP,American Express,Financials,70.265,1.620,12.683,5.540,21.660,70.120,94.890,69.16,0.00,2.217,3.287,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP
+AIG,American International Group,Financials,62.225,1.760,18.178,3.423,79.403,48.680,64.930,76.97,14.05,1.324,0.796,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIG
+AMT,American Tower,Financials,97.73,1.85,73.15,1.34,15.63,86.83,104.12,41.40,2.82,9.28,6.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMT
+AMP,Ameriprise Financial,Financials,111.03,2.37,12.76,8.70,43.59,95.52,138.26,19.33,3.58,1.61,2.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMP
+ABC,AmerisourceBergen Corp,Health Care,98.26,1.38,,-0.62,3.06,89.26,120.68,20.21,1.55,0.15,32.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABC
+AME,AMETEK,Industrials,54.31,0.64,21.81,2.49,13.94,47.85,57.67,12.92,1.07,3.31,4.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AME
+AMGN,Amgen,Health Care,154.06,1.96,18.39,8.38,37.05,130.09,181.81,116.21,10.36,5.64,4.33,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMGN
+APH,Amphenol Corp A,Information Technology,53.50,1.02,22.38,2.39,10.20,47.44,60.54,16.49,1.29,3.02,5.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APH
+APC,Anadarko Petroleum,Energy,58.43,1.80,,-11.51,27.71,57.86,95.94,29.69,4.15,2.75,2.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APC
+ADI,Analog Devices,Information Technology,59.285,2.600,26.948,2.200,16.256,50.560,68.970,18.50,1.29,5.518,3.736,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
+ANTM,Anthem,Health Care,130.07,1.91,12.46,10.44,89.02,121.22,173.59,33.96,6.32,0.45,1.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
+AON,Aon Plc,Financials,93.34,1.27,21.36,4.37,21.48,86.38,107.08,25.57,2.51,2.22,4.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
+APA,Apache Corp,Energy,45.89,2.03,,-54.96,25.95,35.79,71.87,17.35,5.78,2.07,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
+AIV,Apartment Investment & Mgmt,Financials,37.49,3.15,27.85,1.35,9.22,34.71,41.55,5.86,0.55088,6.28,4.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIV
+AAPL,Apple,Information Technology,114.535,1.770,12.422,9.220,21.395,92.000,134.540,638.57,82.49,2.774,5.435,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
+AMAT,Applied Materials,Information Technology,18.7042,2.1500,16.7002,1.1200,6.4410,14.2500,25.7100,22.11,2.01,2.3410,2.9700,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT
+ADM,Archer-Daniels-Midland,Consumer Staples,35.52,3.07,12.27,2.90,29.72,35.41,53.91,21.20,3.35,0.30,1.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADM
+AIZ,Assurant,Financials,83.265,2.350,46.621,1.786,70.170,59.730,86.990,5.48,0.37417,0.536,1.206,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIZ
+T,AT&T,Telecommunication Services,33.105,5.600,34.811,0.951,19.802,30.970,36.450,203.66,33.94,1.484,1.695,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=T
+ADSK,Autodesk,Information Technology,64.34,0.00,,-1.24,7.70,42.06,65.00,14.48,0.1707,5.77,8.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADSK
+ADP,Automatic Data Processing,Information Technology,85.0872,2.4500,26.9776,3.1540,9.9920,64.2900,90.6700,39.24,2.31,3.6155,8.6980,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADP
+AN,AutoNation,Consumer Discretionary,62.58,,15.54,4.03,20.41,53.73,67.50,6.92,1.01,0.35,3.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AN
+AZO,AutoZone,Consumer Discretionary,754.91,,20.95,36.03,-55.49,569.54,803.25,23.01,2.22,2.30,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
+AVB,AvalonBay Communities,Financials,175.83,2.75,32.17,5.47,71.81,158.72,186.89,24.07,1.19,13.26,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
+AVY,Avery Dennison Corp,Materials,63.66,2.24,20.29,3.14,11.56,48.90,66.65,5.80,0.6918,0.97,5.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVY
+BHI,Baker Hughes,Energy,52.829,1.260,,-0.624,39.932,44.110,70.450,23.04,2.84,1.237,1.349,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BHI
+BLL,Ball Corp,Materials,67.73,0.75,31.72,2.13,7.59,57.95,77.20,9.23,1.10,1.12,8.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLL
+BAC,Bank of America,Financials,17.34,1.15,12.79,1.36,22.41,14.60,18.48,182.36,0.00,2.31,0.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAC
+BK,Bank of New York Mellon,Financials,42.935,1.550,18.643,2.303,32.589,35.630,45.450,46.93,0.00,3.136,1.334,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BK
+BCR,Bard (C.R.),Health Care,183.16,0.51,104.13,1.76,20.01,163.08,202.47,13.53,1.04,4.08,9.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BCR
+BXLT,Baxalta,Health Care,35.38,0.79,14.87,2.38,5.87,29.83,40.90,24.00,2.17,3.98,6.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BXLT
+BAX,Baxter International,Health Care,36.99,1.22,11.79,3.14,14.31,32.18,43.44,20.23,4.14,1.27,2.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAX
+BBT,BB&T Corp,Financials,37.91,2.79,14.06,2.70,31.56,34.24,41.90,29.58,0.00,3.34,1.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBT
+BDX,Becton Dickinson,Health Care,149.66,1.74,44.67,3.35,34.50,128.87,154.98,31.47,2.27,3.10,4.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BDX
+BBBY,Bed Bath & Beyond,Consumer Discretionary,52.89,,10.21,5.18,15.69,52.28,79.64,8.65,1.76,0.73,3.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBBY
+BRK-B,Berkshire Hathaway,Financials,132.67,,14.37,9.23,151044.77,125.50,152.94,0.21797999999999998,44.27,0.00,0.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B
+BBY,Best Buy,Consumer Discretionary,30.855,2.920,11.621,2.655,13.490,28.320,42.000,10.64,2.31,0.266,2.291,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBY
+BIIB,Biogen,Health Care,274.89,,17.96,15.30,47.43,254.00,480.18,61.27,5.49,6.01,6.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BIIB
+BLK,BlackRock,Financials,350.68,2.40,18.03,19.45,169.44,275.00,382.84,58.23,4.93,5.26,2.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK
+BA,Boeing Co,Industrials,144.625,2.500,18.203,7.945,10.045,115.140,158.830,96.90,9.91,1.015,14.630,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA
+BWA,Borg Warner,Consumer Discretionary,42.0639,1.2200,15.3015,2.7490,16.5830,37.3300,63.3000,9.43,1.34,1.2150,2.5798,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BWA
+BXP,Boston Properties,Financials,121.95,2.08,30.80,3.96,36.80,94.91,146.07,18.73,1.51,7.58,3.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BXP
+BSX,Boston Scientific,Health Care,18.028,,,-0.296,4.766,12.560,19.060,24.25,1.80,3.386,3.863,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BSX
+BMY,Bristol-Myers Squibb,Health Care,66.30,2.18,62.43,1.06,9.04,51.82,70.54,110.61,4.46,6.84,7.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BMY
+BRCM,Broadcom Corp,Information Technology,56.90,1.03,24.83,2.29,16.40,40.21,57.70,34.65,1.99,3.93,3.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRCM
+CHRW,C.H. Robinson Worldwide,Industrials,62.18,2.21,18.29,3.40,7.85,61.46,77.49,8.93,0.88562,0.67,8.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHRW
+CA,CA,Information Technology,28.20,3.55,16.40,1.72,13.13,25.16,33.42,12.37,1.29,3.00,2.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CA
+CVC,Cablevision Systems,Consumer Discretionary,29.705,1.980,41.200,0.721,-17.918,17.660,33.280,8.22,1.75,1.286,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVC
+COG,Cabot Oil & Gas,Energy,17.095,0.420,,-0.547,5.127,16.960,35.640,7.08,0.1946,4.947,3.497,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COG
+CAM,Cameron International,Energy,66.045,,20.259,3.260,23.211,39.520,71.220,12.61,1.64,1.348,2.892,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAM
+CPB,Campbell Soup,Consumer Staples,52.515,2.350,25.655,2.047,4.548,42.700,53.900,16.28,1.49,2.034,11.585,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CPB
+COF,Capital One Financial,Financials,77.3599,2.0400,10.7414,7.2020,88.2080,67.7300,92.1000,41.82,0.00,2.2690,0.8930,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COF
+CAH,Cardinal Health,Health Care,85.91,1.77,21.53,3.99,19.77,74.76,91.91,28.26,2.84,0.27,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAH
+KMX,CarMax,Consumer Discretionary,57.76,,19.63,2.94,15.67,53.46,75.40,11.70,1.17,0.79,3.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMX
+CCL,Carnival Corp,Consumer Discretionary,49.29,2.36,27.35,1.80,31.30,42.51,54.59,38.35,3.36,2.53,1.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCL
+CAT,Caterpillar,Industrials,69.63,4.24,14.34,4.86,27.30,62.99,100.87,40.54,7.84,0.82,2.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAT
+CBG,CBRE Group,Financials,35.94,,21.15,1.70,7.65,30.85,39.77,11.96,1.17,1.23,4.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBG
+CBS,CBS Corp,Consumer Discretionary,48.94,1.19,15.71,3.12,12.40,38.51,63.95,23.08,3.07,1.73,4.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBS
+CELG,Celgene Corp,Health Care,106.29,,53.36,1.99,6.83,92.98,140.72,83.51,2.87,9.97,16.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CELG
+CNP,CenterPoint Energy,Utilities,16.41,5.84,,-0.02,9.43,16.35,24.38,7.06,1.88,0.90,1.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CNP
+CTL,CenturyLink,Telecommunication Services,26.325,7.980,20.250,1.300,25.718,24.110,40.850,14.45,6.66,0.814,1.029,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTL
+CERN,Cerner Corp,Health Care,59.15,,39.97,1.48,11.22,55.82,75.72,20.24,1.13,5.03,5.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CERN
+CF,CF Industries Holdings,Materials,45.77,2.66,12.03,3.81,17.64,43.57,70.32,10.67,1.90,2.38,2.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CF
+CHK,Chesapeake Energy,Energy,4.8062,0.0000,,-33.8786,1.8390,4.6900,21.4900,3.19,3.63,0.2666,3.0016,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHK
+CVX,Chevron Corp,Energy,88.87,4.69,19.29,4.61,82.31,69.58,114.45,167.26,21.64,1.25,1.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVX
+CMG,Chipotle Mexican Grill,Consumer Discretionary,562.954,,33.589,16.760,76.988,532.030,758.610,17.56,0.98378,3.919,7.464,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMG
+CB,Chubb Corp,Financials,129.83,1.75,14.96,8.68,72.10,94.35,131.72,29.48,3.03,2.13,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CB
+CI,Cigna Corp,Health Care,137.16,0.03,16.78,8.17,45.73,99.88,170.68,35.33,3.99,0.97,3.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CI
+XEC,Cimarex Energy,Energy,115.17,0.54,,-18.72,36.31,91.74,132.18,10.89,0.9786,6.52,3.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEC
+CINF,Cincinnati Financial,Financials,59.91,3.01,15.37,3.90,38.77,49.68,61.59,9.82,1.01,1.94,1.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CINF
+CTAS,Cintas Corp,Industrials,89.88,1.15,25.09,3.58,16.80,70.61,94.35,9.70,0.87362,2.17,5.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTAS
+CSCO,Cisco Systems,Information Technology,26.8739,3.0800,14.2946,1.8800,11.8020,23.0300,30.3100,136.41,13.67,2.8083,2.3250,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSCO
+C,Citigroup,Financials,53.58,0.37,12.09,4.43,69.03,46.60,60.95,159.61,0.00,2.35,0.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C
+CTXS,Citrix Systems,Information Technology,75.10,,43.04,1.75,13.27,56.47,84.17,11.55,0.79584,3.68,5.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTXS
+CLX,Clorox Co,Consumer Staples,125.495,2.450,25.109,4.998,0.924,98.290,127.640,16.20,1.20,2.865,136.742,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX
+CME,CME Group,Financials,95.075,2.070,25.421,3.740,63.482,83.430,100.870,32.16,2.24,9.906,1.547,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CME
+CMS,CMS Energy,Utilities,34.415,3.300,18.493,1.861,14.082,31.220,38.660,9.54,1.89,1.438,2.471,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMS
+COH,Coach,Consumer Discretionary,29.73,4.24,21.70,1.37,8.91,27.22,43.87,8.25,0.921,2.05,3.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COH
+KO,Coca-Cola Co,Consumer Staples,42.46,3.10,27.08,1.57,6.00,36.56,43.85,184.66,12.37,4.12,7.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KO
+CCE,Coca-Cola Enterprises,Consumer Staples,49.3101,2.1700,21.2727,2.3180,4.4370,41.0300,53.7900,11.19,1.23,1.5460,11.2170,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCE
+CTSH,Cognizant Technology Solutions,Information Technology,61.47,,24.11,2.55,14.52,50.17,69.80,37.38,2.37,3.27,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTSH
+CL,Colgate-Palmolive,Consumer Staples,65.11,2.28,24.11,2.70,0.28,50.84,71.56,58.40,4.47,3.60,231.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CL
+CPGX,Columbia Pipeline Group,Energy,18.995,2.590,22.721,0.836,8.174,17.510,33.000,6.03,0.5502,4.770,2.421,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CPGX
+CMCSA,Comcast Corp,Consumer Discretionary,59.42,1.62,18.64,3.19,21.05,50.00,64.99,146.01,24.54,2.04,2.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMCSA
+CMA,Comerica,Financials,45.27,1.81,15.04,3.01,43.01,39.52,53.45,8.00,0.00,3.13,1.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMA
+CSC,Computer Sciences,Information Technology,29.99,1.34,197.30,0.15,21.79,24.77,31.96,4.16,0.964,0.38,1.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSC
+CAG,ConAgra Foods,Consumer Staples,39.95,2.44,,-4.42,7.77,33.45,45.49,17.29,2.21,1.11,5.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAG
+COP,ConocoPhillips,Energy,51.99,5.53,,-0.83,35.81,41.10,71.37,64.19,8.80,1.82,1.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COP
+CNX,CONSOL Energy,Energy,8.68,0.53,,-1.45,20.66,6.38,37.72,1.99,0.9874400000000001,0.68,0.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CNX
+ED,Consolidated Edison,Utilities,60.83,4.18,16.31,3.73,44.49,56.86,72.25,17.83,3.39,1.42,1.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ED
+STZ,Constellation Brands,Consumer Staples,140.13,0.86,29.01,4.83,30.90,140.00,142.66,27.54,1.95,4.45,4.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STZ
+GLW,Corning,Information Technology,17.875,2.560,11.683,1.530,14.947,15.420,25.160,21.15,2.90,2.388,1.254,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLW
+COST,Costco Wholesale,Consumer Staples,163.82,0.98,30.51,5.37,24.24,117.03,166.10,71.66,4.75,0.61,6.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COST
+CCI,Crown Castle International,Financials,84.64,4.11,19.02,4.45,21.74,74.45,89.44,28.19,2.10,7.53,3.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCI
+CSX,CSX Corp,Industrials,26.85,2.48,13.36,2.01,11.94,24.47,37.67,26.18,4.89,2.20,2.30,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSX
+CMI,Cummins,Industrials,91.9404,3.8900,9.8406,9.3430,43.8790,91.8000,150.9200,16.24,2.66,0.8619,2.1616,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMI
+CVS,CVS Health Corp,Consumer Staples,93.17,1.49,21.02,4.43,33.49,81.37,113.65,103.42,11.19,0.70,2.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVS
+DHI,D.R.Horton,Consumer Discretionary,31.57,0.98,15.55,2.03,15.99,22.12,33.10,11.64,1.23,1.10,2.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DHI
+DHR,Danaher Corp,Industrials,94.42,0.56,20.22,4.67,33.73,81.25,97.62,64.70,4.67,3.18,2.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DHR
+DRI,Darden Restaurants,Consumer Discretionary,55.14,3.92,24.37,2.26,18.92,53.38,75.60,7.07,0.8342999999999999,1.05,2.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DRI
+DVA,DaVita HealthCare Partner,Health Care,71.40,,32.16,2.22,23.65,70.12,85.17,15.07,2.49,1.13,3.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVA
+DLPH,Delphi Automotive Plc,Consumer Discretionary,85.32,1.14,15.47,5.51,8.25,66.10,90.57,23.90,2.61,1.46,10.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLPH
+DAL,Delta Air Lines,Industrials,48.1999,1.1500,13.8745,3.4740,13.1280,34.6100,52.0000,37.98,7.81,0.9323,3.6814,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DAL
+XRAY,DENTSPLY International,Health Care,62.57,0.47,32.24,1.94,16.31,49.42,62.76,8.75,0.56698,3.21,3.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRAY
+DVN,Devon Energy,Energy,40.9299,2.0900,,-25.4120,28.0970,36.0100,70.4800,16.82,-8.71,1.2901,1.5493,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVN
+DO,Diamond Offshore Drilling,Energy,22.165,2.230,43.461,0.510,31.906,16.510,40.000,3.04,1.09,1.205,0.686,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
+DFS,Discover Financial Services,Financials,55.17,1.97,11.40,4.84,25.01,50.20,66.72,23.58,0.00,3.38,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DFS
+DISCA,Discovery Communications,Consumer Discretionary,29.76,,18.65,1.60,8.73,25.02,35.78,13.34,2.48,2.11,3.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DISCA
+DLTR,Dollar Tree,Consumer Discretionary,73.88,,61.57,1.20,17.64,60.31,84.22,17.35,1.50,1.42,4.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLTR
+D,Dominion Resources,Utilities,65.30,3.84,21.67,3.01,21.15,65.12,80.89,38.88,5.30,3.26,3.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=D
+DOV,Dover Corp,Industrials,64.84,2.58,11.67,5.56,23.01,55.50,78.21,10.05,1.38,1.39,2.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOV
+DOW,Dow Chemical,Materials,51.68,3.54,13.28,3.89,17.55,35.11,53.77,59.88,8.64,1.17,2.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOW
+DPS,Dr. Pepper Snapple Group,Consumer Staples,89.60,2.12,23.79,3.77,11.62,69.39,91.80,16.92,1.44,2.75,7.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DPS
+DTE,DTE Energy,Utilities,78.42,3.64,14.84,5.29,49.10,73.23,92.27,14.07,2.55,1.29,1.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DTE
+DD,Du Pont (E.I.),Materials,66.37,2.27,20.97,3.16,12.29,47.11,76.59,58.17,5.53,1.83,5.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DD
+DUK,Duke Energy,Utilities,66.35,4.89,19.10,3.47,57.90,65.50,89.97,45.67,8.99,1.95,1.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DUK
+DNB,Dun & Bradstreet,Industrials,103.97,1.72,20.54,5.06,-32.02,100.02,137.25,3.76,0.426,2.26,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DNB
+ETFC,E Trade Financial,Financials,29.85,,39.80,0.75,20.01,21.01,31.48,8.67,0.00,4.87,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETFC
+EMN,Eastman Chemical,Materials,71.109,2.250,14.403,4.937,26.089,62.840,84.190,10.57,2.28,1.092,2.751,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EMN
+ETN,Eaton Corp Plc,Industrials,55.2272,3.7800,12.7693,4.3250,33.2020,49.2100,73.8200,25.56,3.40,1.2376,1.7207,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETN
+EBAY,eBay,Information Technology,28.16,,15.31,1.84,5.40,22.11,29.83,33.81,4.89,1.96,5.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EBAY
+ECL,Ecolab,Materials,117.94,1.11,31.60,3.73,22.97,97.78,122.48,34.83,2.92,2.54,5.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ECL
+EIX,Edison International,Utilities,58.59,2.81,12.70,4.61,35.60,55.18,69.59,19.09,4.05,1.55,1.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EIX
+EW,Edwards Lifesciences,Health Care,157.01,,37.18,4.22,22.48,122.75,166.87,16.93,0.6892999999999999,7.20,7.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EW
+EA,Electronic Arts,Information Technology,67.3503,,26.6417,2.5280,10.1160,44.5400,76.9200,20.93,1.14,4.9784,6.8545,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EA
+EMC,EMC Corp,Information Technology,25.61,1.81,21.52,1.19,10.54,22.66,30.92,49.65,5.21,2.02,2.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EMC
+EMR,Emerson Electric,Industrials,48.26,3.78,12.10,3.99,12.35,42.21,65.16,31.59,4.26,1.44,3.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EMR
+ENDP,Endo International plc,Health Care,59.35,,,-7.97,28.25,46.66,96.58,13.44,0.78218,4.16,2.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ENDP
+ESV,ENSCO Plc,Energy,16.535,3.880,,-11.152,38.256,13.260,33.240,3.89,2.31,0.868,0.423,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESV
+ETR,Entergy Corp,Utilities,64.41,5.14,,-0.87,51.33,61.27,92.02,11.49,3.81,0.98,1.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETR
+EOG,EOG Resources,Energy,81.03,0.82,,-6.96,24.17,68.15,101.36,44.54,4.98,4.29,3.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EOG
+EQT,EQT Corp,Energy,53.56,0.21,39.73,1.35,33.90,53.35,92.79,8.17,1.66,3.78,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQT
+EFX,Equifax,Industrials,109.17,1.04,31.91,3.42,18.83,78.34,112.84,12.93,0.9122,5.06,5.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EFX
+EQIX,Equinix,Financials,294.61,2.27,,-3.15,25.99,213.89,304.73,16.88,1.10,6.52,11.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX
+EQR,Equity Residential,Financials,77.58,2.77,32.28,2.40,28.67,61.90,82.53,28.26,1.75,10.76,2.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQR
+ESS,Essex Property Trust,Financials,227.60,2.46,78.40,2.90,94.23,199.82,243.17,15.03,0.7810900000000001,12.75,2.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESS
+EL,Estee Lauder Co,Consumer Staples,83.14,1.43,27.26,3.05,9.42,70.38,91.68,30.70,2.10,2.82,8.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EL
+ES,Eversource Energy,Utilities,49.36,3.30,17.14,2.88,32.46,44.64,56.83,15.66,2.48,1.94,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ES
+EXC,Exelon Corp,Utilities,27.155,4.490,12.058,2.252,28.024,27.110,38.930,24.97,8.26,0.838,0.976,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXC
+EXPE,Expedia,Consumer Discretionary,122.026,0.780,19.144,6.374,18.805,76.340,140.510,15.84,0.70266,2.525,6.547,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPE
+EXPD,"Expeditors International,Wash",Industrials,46.61,1.48,20.18,2.31,9.88,41.97,51.80,8.69,0.74754,1.30,4.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPD
+ESRX,Express Scripts Holding,Health Care,84.28,,26.22,3.21,24.45,68.06,94.61,57.00,6.93,0.58,3.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESRX
+XOM,Exxon Mobil,Energy,78.39,3.58,16.56,4.73,41.01,66.55,95.18,326.33,37.45,1.26,1.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XOM
+FFIV,F5 Networks,Information Technology,101.51,,20.18,5.03,18.77,99.81,136.11,7.14,0.59488,3.84,5.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FFIV
+FB,Facebook Cl,Information Technology,103.76,,104.18,1.00,14.72,72.00,110.65,293.43,6.66,18.82,7.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FB
+FAST,Fastenal Co,Industrials,39.26,2.78,22.07,1.78,6.16,34.45,48.43,11.37,0.91743,3.00,6.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FAST
+FDX,FedEx Corp,Industrials,154.22,0.63,40.63,3.80,54.12,130.13,185.19,43.55,7.22,0.93,2.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FDX
+FIS,Fidelity National Information Services,Information Technology,63.73,1.61,25.27,2.52,23.14,59.71,73.60,17.98,1.66,2.86,2.81,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FIS
+FITB,Fifth Third Bancorp,Financials,20.50,2.52,12.42,1.65,18.22,17.14,21.93,16.28,0.00,2.86,1.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
+FSLR,First Solar,Information Technology,58.86,,10.38,5.67,53.40,39.18,65.50,5.94,0.84235,1.65,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FSLR
+FE,FirstEnergy Corp,Utilities,32.07,4.59,27.27,1.18,29.85,28.89,41.68,13.57,3.23,0.93,1.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FE
+FISV,Fiserv,Information Technology,93.25,,31.93,2.92,12.50,68.05,97.76,21.31,1.60,4.21,7.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV
+FLIR,FLIR Systems,Information Technology,29.792,1.450,17.402,1.712,11.763,25.120,34.460,4.12,0.35118,2.703,2.584,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLIR
+FLS,Flowserve Corp,Industrials,44.65,1.56,16.97,2.63,12.96,39.47,64.41,5.84,0.82068,1.28,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLS
+FLR,Fluor Corp,Industrials,48.10,1.73,10.64,4.52,21.53,40.61,62.71,6.81,1.22,0.36,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLR
+FMC,FMC Corp,Materials,41.76,1.56,7.25,5.76,15.82,32.58,64.72,5.58,0.7664,1.36,2.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FMC
+FTI,FMC Technologies,Energy,33.10,,15.31,2.16,10.98,27.94,48.75,7.55,1.13,1.08,3.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTI
+F,Ford Motor,Consumer Discretionary,13.9499,4.1300,11.6736,1.1950,6.9210,10.4400,16.7400,55.36,13.26,0.3898,2.0604,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=F
+FOSL,Fossil Group,Consumer Discretionary,38.00,,6.20,6.13,18.08,30.65,112.74,1.83,0.54798,0.56,2.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FOSL
+BEN,Franklin Resources,Financials,40.33,1.43,12.26,3.29,19.62,36.10,59.43,24.26,3.10,3.10,2.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BEN
+FCX,Freeport-McMoRan,Materials,7.7101,2.4400,,-10.5120,9.6190,7.6800,26.8400,8.91,5.40,0.5226,0.8140,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FCX
+FTR,Frontier Communications,Telecommunication Services,4.95,8.42,,-0.14,5.01,4.19,8.46,5.78,2.28,1.06,1.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTR
+GME,GameStop Corp,Consumer Discretionary,32.21,4.00,8.69,3.71,18.42,31.69,47.83,3.39,0.8226,0.38,1.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GME
+GPS,Gap,Consumer Discretionary,25.9274,3.4400,10.6043,2.4450,6.4580,24.7000,43.9000,10.47,2.26,0.6574,4.0616,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPS
+GRMN,Garmin Ltd,Consumer Discretionary,36.865,5.440,13.218,2.789,16.994,31.320,57.160,7.02,0.65965,2.510,2.205,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRMN
+GM,General Motors,Consumer Discretionary,35.27,3.98,12.94,2.73,21.65,24.62,38.99,54.89,13.45,0.36,1.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GM
+GD,Genl Dynamics,Industrials,141.88,1.90,16.19,8.77,33.90,130.91,153.76,44.93,4.66,1.44,4.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GD
+GE,Genl Electric,Industrials,30.00,3.03,,-0.73,11.00,19.37,30.99,303.28,28.42,2.07,2.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GE
+GGP,Genl Growth Properties,Financials,25.19,2.93,16.54,1.52,9.05,24.22,31.70,22.28,1.80,8.78,2.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GGP
+GIS,Genl Mills,Consumer Staples,57.2501,3.0100,27.1456,2.1090,8.2600,47.5000,59.8700,34.22,3.45,1.9659,6.9964,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GIS
+GPC,Genuine Parts,Consumer Discretionary,87.66,2.71,18.90,4.64,20.95,78.76,109.00,13.22,1.28,0.87,4.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPC
+GNW,Genworth Financial,Financials,4.745,0.000,,-2.188,27.322,4.230,9.190,2.36,0.55,0.248,0.172,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GNW
+GILD,Gilead Sciences,Health Care,100.9067,1.5900,9.2660,10.8900,12.0210,85.9500,123.3700,145.42,22.44,4.7864,8.6881,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GILD
+GS,Goldman Sachs Group,Financials,185.265,1.370,12.169,15.224,171.454,167.490,218.770,82.67,0.00,2.480,1.110,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GS
+GT,Goodyear Tire & Rub,Consumer Discretionary,34.3889,0.9000,3.3514,10.2610,15.4070,23.7400,35.3000,9.25,2.38,0.5600,2.2620,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GT
+GOOGL,Google,Information Technology,764.83,,32.24,23.72,169.03,490.91,793.05,525.99,23.30,7.45,4.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL
+GWW,Grainger (W.W.),Industrials,197.59,2.34,17.39,11.36,37.61,192.50,261.57,12.41,1.59,1.25,5.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GWW
+HAL,Halliburton Co,Energy,37.69,1.81,124.80,0.30,18.07,30.93,50.20,32.26,4.88,1.22,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAL
+HBI,Hanesbrands,Consumer Discretionary,30.085,1.300,30.636,0.982,3.187,25.920,34.800,11.79,0.96001,2.068,9.680,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBI
+HOG,Harley-Davidson,Consumer Discretionary,46.86,2.54,12.53,3.74,12.57,46.47,70.41,9.54,1.38,1.61,3.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOG
+HAR,Harman International,Consumer Discretionary,100.28,1.36,20.64,4.86,33.11,84.41,149.12,7.13,0.73842,1.14,3.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAR
+HRS,Harris Corp,Information Technology,82.635,2.410,26.002,3.178,27.881,66.150,84.780,10.28,1.23,1.815,3.003,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRS
+HIG,Hartford Finl Services Gp,Financials,45.34,1.84,11.92,3.80,44.26,38.65,50.95,18.57,2.62,1.02,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HIG
+HAS,Hasbro,Consumer Discretionary,69.8975,2.4400,19.8742,3.5170,12.3720,51.4200,84.4200,8.71,0.8219299999999999,2.1109,5.8608,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAS
+HCA,HCA Holdings,Health Care,66.92,0.00,13.99,4.78,-17.68,43.91,95.49,27.28,7.69,0.73,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCA
+HCP,HCP,Financials,35.135,6.320,70.411,0.499,21.892,32.710,49.610,16.34,1.79,6.663,1.623,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCP
+HP,Helmerich & Payne,Energy,55.17,4.79,14.26,3.87,45.46,46.16,79.90,5.94,1.31,1.88,1.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HP
+HSY,Hershey Co,Consumer Staples,84.62,2.70,37.39,2.26,4.10,82.41,111.35,18.35,1.70,2.47,20.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSY
+HES,Hess Corp,Energy,55.66,1.69,,-4.36,75.24,47.84,79.00,15.78,3.13,2.09,0.75,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HES
+HPQ,Hewlett-Packard,Information Technology,12.10,3.93,4.88,2.48,15.41,11.04,18.66,21.80,12.20,0.21,0.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HPQ
+HD,Home Depot,Consumer Discretionary,131.395,1.750,24.652,5.330,6.009,92.170,135.470,166.59,13.14,1.957,22.268,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HD
+HON,Honeywell International,Industrials,102.11,2.29,17.89,5.71,23.04,87.00,107.41,78.70,7.22,2.04,4.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON
+HRL,Hormel Foods,Consumer Staples,75.63,1.55,29.78,2.54,15.14,50.06,77.00,19.99,1.20,2.15,4.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRL
+HST,Host Hotels & Resorts,Financials,16.105,4.820,18.683,0.862,9.425,15.360,24.500,12.10,1.39,2.287,1.740,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HST
+HUM,Humana,Health Care,168.445,0.690,19.353,8.704,69.847,137.450,219.790,24.97,2.70,0.482,2.479,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUM
+JBHT,Hunt(J.B.)Transport,Industrials,76.58,1.06,21.39,3.58,10.90,70.58,93.50,8.78,1.04,1.45,7.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
+HBAN,Huntington Bancshares,Financials,11.45,2.40,14.49,0.79,7.78,9.63,11.90,9.12,0.00,3.23,1.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBAN
+ITW,Illinois Tool Works,Industrials,92.00,2.34,18.23,5.05,13.99,78.79,100.14,33.44,3.35,2.49,6.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ITW
+IR,Ingersoll-Rand Plc,Industrials,57.26,1.98,22.42,2.55,21.96,49.74,70.93,14.95,1.77,1.15,2.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IR
+INTC,Intel Corp,Information Technology,34.09,2.79,14.66,2.33,12.07,24.87,37.90,160.87,23.32,2.98,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
+ICE,Intercontinental Exchange,Financials,253.54,1.15,23.86,10.63,112.18,202.24,266.74,29.17,2.12,9.13,2.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ICE
+IBM,International Bus. Machines,Information Technology,138.38,3.76,9.63,14.37,13.70,131.65,176.30,134.24,21.41,1.62,10.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM
+IFF,International Flavors/Fragr,Materials,118.64,1.87,22.43,5.29,19.81,97.59,123.08,9.52,0.6742100000000001,3.15,6.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IFF
+IP,International Paper,Materials,39.48,4.21,18.75,2.11,10.49,37.11,57.90,16.37,3.78,0.73,3.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IP
+IPG,Interpublic GroupCompanies,Consumer Discretionary,22.84,2.07,18.86,1.21,4.59,18.16,23.63,9.28,1.01,1.23,5.03,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IPG
+INTU,Intuit,Information Technology,96.175,1.200,64.721,1.486,3.976,79.630,109.210,25.39,1.17,6.119,25.025,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTU
+ISRG,Intuitive Surgical,Health Care,505.73,,34.88,14.50,110.33,447.00,564.86,18.90,0.7846000000000001,8.42,4.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ISRG
+IVZ,INVESCO Ltd,Financials,33.0999,3.2100,13.8089,2.3970,19.0930,30.2100,42.0500,14.03,1.48,2.7609,1.7603,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IVZ
+IRM,Iron Mountain,Financials,27.405,6.910,44.634,0.614,2.877,26.490,41.530,5.79,0.90255,1.913,9.555,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IRM
+JEC,Jacobs Engineering Group,Industrials,44.47,,18.53,2.40,34.85,36.05,48.25,5.45,0.59329,0.45,1.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JEC
+JNJ,Johnson & Johnson,Health Care,100.57,2.96,19.30,5.21,25.86,81.79,108.88,278.27,22.55,4.00,3.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JNJ
+JCI,Johnson Controls,Consumer Discretionary,42.30,2.52,17.87,2.37,16.03,38.48,54.52,27.40,3.09,0.75,2.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JCI
+JPM,JPMorgan Chase & Co,Financials,65.75,2.62,11.19,5.88,59.68,50.07,70.61,242.00,0.00,2.75,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM
+JNPR,Juniper Networks,Information Technology,29.22,1.32,,-0.83,11.51,21.03,32.39,11.27,0.974,2.52,2.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JNPR
+KSU,Kansas City Southern,Industrials,82.49,1.43,18.75,4.40,35.45,81.54,123.96,9.00,1.09,3.77,2.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KSU
+K,Kellogg Co,Consumer Staples,68.42,2.91,67.54,1.01,7.52,61.13,72.34,24.25,1.62,1.76,9.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=K
+GMCR,Keurig Green Mountain,Consumer Staples,53.44,2.56,17.02,3.14,17.68,39.80,141.69,7.96,1.07,1.73,2.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GMCR
+KEY,KeyCorp,Financials,12.985,2.280,12.147,1.069,12.469,12.040,15.700,10.85,0.00,2.680,1.053,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KEY
+KMB,Kimberly-Clark,Consumer Staples,117.68,2.91,73.00,1.61,0.15,103.04,122.97,42.72,4.22,2.30,803.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMB
+KIM,Kimco Realty,Financials,25.29,3.87,20.51,1.23,11.93,22.07,28.54,10.45,0.72184,9.47,2.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KIM
+KMI,Kinder Morgan,Energy,19.415,8.550,36.841,0.527,15.941,19.215,44.710,43.32,6.43,3.132,1.296,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMI
+KLAC,KLA-Tencor Corp,Information Technology,66.78,3.13,27.01,2.47,1.89,44.95,73.12,10.41,0.83499,3.75,35.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC
+KSS,Kohl's Corp,Consumer Discretionary,46.28,3.82,12.30,3.76,28.66,41.86,79.60,8.84,2.58,0.46,1.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KSS
+KHC,Kraft Heinz,Consumer Staples,71.35,3.08,,-0.55,48.48,61.42,81.20,86.58,3.15,6.32,1.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KHC
+LB,L Brands,Consumer Discretionary,95.33,2.07,23.95,3.98,-2.23,75.11,101.11,27.68,2.52,2.36,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LB
+LLL,L-3 Communications Holdings,Industrials,120.28,2.09,77.00,1.56,58.02,101.11,132.92,9.43,1.22,0.83,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLL
+LH,Laboratory Corp American Holdings,Health Care,120.25,0.00,26.21,4.59,48.55,99.89,131.19,12.17,1.57,1.62,2.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LH
+LRCX,Lam Research,Information Technology,76.52,1.53,16.81,4.55,33.89,61.20,85.70,12.12,1.32,2.18,2.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX
+LM,Legg Mason,Financials,43.43,1.80,15.47,2.81,41.19,40.21,59.19,4.68,0.58554,1.69,1.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LM
+LEG,Leggett & Platt,Consumer Discretionary,45.37,2.75,24.43,1.86,8.01,39.38,51.28,6.17,0.546,1.60,5.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEG
+LEN,Lennar Corp,Consumer Discretionary,49.86,0.31,15.03,3.32,25.51,41.25,56.04,10.49,1.14,1.18,2.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEN
+LUK,Leucadia National,Financials,17.94,1.40,31.81,0.56,28.61,17.65,25.39,6.50,1.40,0.55,0.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LUK
+LVLT,Level 3 Communications,Telecommunication Services,51.21,,101.01,0.51,19.05,40.86,57.08,18.24,2.50,2.29,2.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LVLT
+LLY,Lilly (Eli),Health Care,82.76,2.39,37.31,2.22,14.34,68.31,92.85,87.84,5.31,4.55,5.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY
+LNC,Lincoln National,Financials,54.39,1.82,11.56,4.70,58.19,45.56,62.08,13.46,1.71,0.97,0.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LNC
+LLTC,Linear Technology Corp,Information Technology,44.43,2.62,21.67,2.05,6.63,36.41,49.57,10.63,0.71238,7.51,6.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLTC
+LMT,Lockheed Martin,Industrials,215.55,2.92,19.13,11.27,9.15,181.91,227.91,66.24,5.95,1.47,23.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LMT
+L,Loews Corp,Financials,37.55,0.66,20.79,1.81,52.52,34.40,42.89,13.31,3.19,1.00,0.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=L
+LOW,Lowe'sCompanies,Consumer Discretionary,74.97,1.45,23.78,3.15,9.14,63.88,78.13,68.75,6.97,1.20,8.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LOW
+LYB,LyondellBasell Industries,Materials,94.59,3.26,10.15,9.32,16.18,70.06,107.32,42.51,7.13,1.19,5.88,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LYB
+MTB,M&T Bank,Financials,122.76,2.23,16.41,7.48,87.69,111.50,134.00,16.36,0.00,3.79,1.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MTB
+MAC,Macerich Co,Financials,76.16,3.48,7.95,9.58,34.24,71.98,95.93,12.06,0.80068,9.19,2.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAC
+M,Macy's,Consumer Discretionary,38.73,3.68,10.03,3.86,12.63,37.75,73.61,12.18,3.71,0.44,3.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=M
+MNK,Mallinckrodt plc,Health Care,71.80,,26.10,2.75,45.67,52.01,134.26,8.32,1.32,2.51,1.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNK
+MRO,Marathon Oil,Energy,16.52,3.88,,-0.72,28.56,14.03,31.53,11.19,2.18,1.66,0.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRO
+MPC,Marathon Petroleum,Energy,54.67,2.19,8.65,6.32,22.99,37.62,60.38,29.14,7.10,0.43,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MPC
+MAR,Marriott International,Consumer Discretionary,69.03,1.40,22.57,3.06,-13.94,63.95,85.00,17.75,1.45,6.47,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAR
+MMC,Marsh & McLennan,Financials,55.13,2.24,19.63,2.81,11.97,50.90,59.99,28.76,2.77,2.28,4.66,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMC
+MLM,Martin Marietta Materials,Materials,152.46,0.99,38.38,3.97,64.27,103.09,178.67,10.08,0.76551,3.20,2.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MLM
+MAS,Masco Corp,Industrials,29.37,1.27,27.19,1.08,-0.48,20.41,30.61,9.75,1.09,1.16,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAS
+MA,MasterCard,Information Technology,95.91,0.65,29.45,3.26,5.57,74.61,101.76,107.68,5.49,11.36,17.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MA
+MAT,Mattel,Consumer Discretionary,24.44,6.21,27.62,0.88,7.58,19.45,31.53,8.29,0.83413,1.47,3.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAT
+MKC,McCormick & Co,Consumer Staples,84.25,2.00,27.31,3.09,13.63,70.70,87.15,10.79,0.6871,2.57,6.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MKC
+MCD,McDonald's Corp,Consumer Discretionary,113.12,3.12,24.50,4.62,9.05,87.50,114.99,103.87,8.91,4.07,12.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCD
+MHFI,McGraw Hill Financial,Financials,95.38,1.36,412.90,0.23,2.43,84.64,109.13,25.78,2.17,5.04,40.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHFI
+MCK,McKesson Corp,Health Care,188.96,0.59,24.72,7.64,38.19,160.10,243.61,43.48,4.21,0.23,4.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCK
+MJN,Mead Johnson Nutrition,Consumer Staples,78.88,2.05,23.48,3.36,1.78,69.20,105.45,15.55,1.07,3.76,44.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MJN
+MRK,Merck & Co,Health Care,52.35,3.41,13.89,3.77,16.27,45.69,63.62,146.24,14.57,3.78,3.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK
+MET,MetLife,Financials,49.89,2.94,9.67,5.16,63.24,44.49,58.23,55.46,10.07,0.79,0.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MET
+KORS,Michael Kors Holdings,Consumer Discretionary,42.16,,9.86,4.27,10.27,36.63,78.55,7.73,1.36,1.75,4.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KORS
+MCHP,Microchip Technology,Information Technology,46.18,2.97,26.71,1.73,10.49,37.77,52.44,9.38,0.73476,4.41,4.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCHP
+MU,Micron Technology,Information Technology,15.54,0.00,6.28,2.47,11.84,13.50,36.59,16.15,5.65,1.02,1.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU
+MSFT,Microsoft Corp,Information Technology,54.215,2.650,36.047,1.504,9.698,39.720,55.960,433.06,32.44,4.859,5.693,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT
+MHK,Mohawk Industries,Consumer Discretionary,183.495,,,49.895,64.250,143.220,212.160,13.57,1.33,1.751,2.958,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHK
+TAP,Molson Coors Brewing,Consumer Staples,91.47,1.78,40.47,2.26,39.17,63.91,95.74,16.88,0.6727000000000001,4.63,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TAP
+MDLZ,Mondelez International,Consumer Staples,42.535,1.530,8.293,5.129,18.771,33.970,48.580,67.60,4.83,2.241,2.337,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
+MON,Monsanto Co,Materials,95.89,2.26,19.94,4.81,14.94,81.22,126.00,42.18,4.73,2.85,6.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MON
+MNST,Monster Beverage,Consumer Staples,152.85,,53.05,2.88,22.96,103.18,158.35,30.99,0.9583200000000001,11.70,6.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNST
+MCO,Moody's Corp,Financials,101.265,1.310,21.693,4.668,-2.377,85.500,113.870,20.02,1.60,5.819,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCO
+MS,Morgan Stanley,Financials,34.385,1.750,21.186,1.623,34.966,30.150,41.040,66.58,0.00,1.909,0.998,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MS
+MOS,Mosaic Co,Materials,30.65,2.90,9.29,3.30,27.27,29.61,53.83,10.80,2.27,1.19,1.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MOS
+MSI,Motorola Solutions,Information Technology,70.94,2.28,28.36,2.50,-1.74,56.40,72.97,12.53,1.26,2.17,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSI
+MUR,Murphy Oil,Energy,26.32,5.10,,-7.45,35.04,23.20,52.00,4.53,1.67,1.39,0.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MUR
+MYL,Mylan NV,Health Care,50.46,0.00,28.11,1.79,19.96,37.59,76.69,24.81,2.64,2.84,2.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MYL
+NDAQ,Nasdaq,Financials,56.48,1.71,26.52,2.13,33.80,44.82,60.05,9.28,1.05,2.78,1.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDAQ
+NOV,Natl Oilwell Varco,Energy,37.03,4.76,11.01,3.36,48.24,34.54,67.92,13.91,3.08,0.79,0.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOV
+NAVI,Navient Corp,Financials,11.68,5.44,4.72,2.47,10.72,10.62,22.71,4.23,0.00,1.82,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NAVI
+NTAP,NetApp,Information Technology,30.615,2.350,23.751,1.289,10.160,28.750,43.580,9.00,0.6625,1.549,3.044,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTAP
+NFLX,NetFlix,Consumer Discretionary,126.8216,,337.2915,0.3760,5.0710,45.0771,132.2000,54.20,0.37209,8.5552,25.4250,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX
+NWL,Newell Rubbermaid,Consumer Discretionary,43.62,1.70,30.57,1.43,6.68,34.44,45.58,11.65,0.9914,2.03,6.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NWL
+NFX,Newfield Exploration,Energy,36.87,,,-15.39,12.56,22.31,41.34,5.96,1.67,3.56,2.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFX
+NEM,Newmont Mining,Materials,18.66,0.54,19.38,0.96,21.82,15.39,27.90,9.87,3.49,1.19,0.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEM
+NWSA,News Corporation,Consumer Discretionary,13.63,1.39,,-0.07,19.98,12.16,17.55,7.92,0.757,0.98,0.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NWSA
+NEE,NextEra Energy,Utilities,96.57,3.08,13.87,6.96,48.46,93.74,112.64,44.47,8.46,2.50,2.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEE
+NLSN,Nielsen Holdings plc,Industrials,45.46,2.40,35.40,1.28,12.16,41.92,49.37,16.55,1.54,2.75,3.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NLSN
+NKE,NIKE,Consumer Discretionary,129.92,0.97,32.92,3.95,15.10,90.69,135.30,110.72,5.01,3.64,8.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE
 NI,NiSource,Utilities,18.97,3.23,15.99,1.19,11.93,15.26,20.13,6.05,1.80,1.00,1.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NI
-NBL,Noble Energy,Energy,35.56,1.97,,-0.07,29.64,29.13,53.68,14.94,2.58,4.56,1.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NBL
-JWN,Nordstrom,Consumer Discretionary,56.68,2.57,16.24,3.49,7.59,50.43,83.16,10.51,1.78,0.73,7.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JWN
-NSC,Norfolk Southern,Industrials,93.41,2.47,16.87,5.54,40.62,72.10,112.22,27.89,4.16,2.53,2.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NSC
-NTRS,Northern Trust,Financials,73.18,1.91,18.40,3.98,36.31,61.10,79.25,16.92,0.00,3.65,2.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTRS
-NOC,Northrop Grumman,Industrials,183.47,1.72,17.72,10.36,31.16,139.10,193.99,33.46,3.62,1.41,5.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOC
-NRG,NRG Energy,Utilities,10.995,4.990,,-0.039,28.855,10.520,29.670,3.45,3.18,0.214,0.374,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NRG
-NUE,Nucor Corp,Materials,40.95,3.59,20.96,1.95,24.12,36.76,55.29,13.09,1.94,0.73,1.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NUE
-NVDA,NVIDIA Corp,Information Technology,32.51,1.45,30.38,1.07,8.30,18.94,33.14,17.49,1.08,3.60,3.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA
-ORLY,O'Reilly Automotive,Consumer Discretionary,256.45,,29.37,8.73,20.28,179.00,277.96,25.30,1.69,3.32,12.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORLY
-OXY,Occidental Petroleum,Energy,73.17,3.99,,-7.88,39.13,63.60,83.74,55.88,5.95,4.11,1.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OXY
-OMC,Omnicom Group,Consumer Discretionary,74.17,2.71,17.01,4.36,10.23,64.12,80.98,17.97,2.23,1.18,7.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OMC
-OKE,ONEOK,Energy,27.17,8.35,18.19,1.49,1.98,26.75,53.55,5.69,1.40,0.65,13.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OKE
-ORCL,Oracle Corp,Information Technology,38.15,1.53,17.89,2.13,11.00,35.14,46.71,162.85,15.79,4.34,3.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL
-OI,Owens-Illinois,Materials,18.955,,,-0.445,4.775,18.480,27.380,3.05,0.874,0.496,3.960,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OI
-PCAR,PACCAR,Industrials,48.56,1.85,10.47,4.64,20.77,48.37,71.15,17.16,2.86,0.91,2.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCAR
-PH,Parker-Hannifin,Industrials,101.24,2.43,15.50,6.53,35.68,93.47,132.08,13.77,1.77,1.13,2.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PH
-PDCO,PattersonCompanies,Health Care,44.48,1.93,24.00,1.85,13.84,42.62,53.07,4.38,0.45429,0.90,3.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PDCO
-PAYX,Paychex,Information Technology,52.82,3.10,26.95,1.96,4.97,41.59,54.78,19.04,1.19,6.95,10.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PAYX
-PYPL,PayPal Holdings,Information Technology,34.355,,36.704,0.936,10.822,30.000,42.550,41.97,1.90,4.833,3.248,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PYPL
-PNR,Pentair plc,Industrials,55.70,2.26,20.48,2.72,25.16,48.44,69.65,10.04,1.08,1.56,2.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNR
-PBCT,People's United Financial,Financials,16.605,4.010,19.674,0.844,15.645,13.970,16.950,5.02,0.00,4.081,1.064,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PBCT
-POM,Pepco Holdings,Utilities,26.06,4.21,28.36,0.92,17.15,21.61,27.50,6.61,1.26,1.33,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=POM
-PEP,PepsiCo,Consumer Staples,99.18,2.79,29.43,3.37,9.31,76.48,103.44,144.49,12.10,2.25,10.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEP
-PKI,PerkinElmer,Health Care,51.02,0.53,33.02,1.54,18.36,40.84,54.45,5.71,0.3552,2.60,2.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PKI
-PRGO,Perrigo,Health Care,145.23,0.33,143.37,1.01,73.31,140.40,215.73,21.26,1.45,4.33,2.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRGO
-PFE,Pfizer,Health Care,32.56,3.42,24.44,1.33,10.82,28.47,36.46,200.99,19.48,4.24,3.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE
-PCG,PG&E Corp,Utilities,52.06,3.45,28.75,1.81,33.80,47.33,60.21,25.53,4.13,1.51,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCG
-PM,Philip Morris International,Consumer Staples,87.39,4.67,18.80,4.65,-8.77,75.27,90.08,135.39,12.08,4.90,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PM
-PSX,Phillips 66,Energy,89.29,2.41,10.43,8.56,43.48,57.33,94.12,47.63,5.81,0.49,2.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSX
-PNW,Pinnacle West Capital,Utilities,61.51,3.95,17.07,3.60,41.98,56.01,73.31,6.82,1.36,1.97,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNW
-PXD,Pioneer Natural Resources,Energy,145.94,0.06,28.06,5.20,60.08,105.83,181.97,21.80,2.25,6.53,2.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PXD
-PBI,Pitney Bowes,Industrials,20.64,3.56,10.87,1.90,0.72,18.59,25.46,4.07,0.84065,1.13,29.05,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PBI
-PCL,Plum Creek Timber,Financials,49.44,3.45,37.54,1.32,8.68,36.95,51.63,8.58,0.52,5.35,5.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCL
-PNC,PNC Financial Services,Financials,94.61,2.14,12.84,7.37,81.37,81.84,100.52,48.04,0.00,3.21,1.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNC
-PPG,PPG Indus,Materials,104.87,1.36,24.65,4.26,18.98,82.93,118.95,28.24,2.50,1.85,5.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PPG
-PPL,PPL Corp,Utilities,33.029,4.490,22.779,1.450,15.216,29.180,38.140,22.22,4.81,1.944,2.181,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PPL
-PX,Praxair,Materials,108.68,2.51,22.16,4.90,14.97,98.55,132.95,30.96,3.63,2.80,7.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PX
-PCP,Precision Castparts,Industrials,231.665,0.050,24.575,9.427,83.408,186.170,245.050,31.87,2.68,3.300,2.779,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCP
-PCLN,Priceline Group (The),Consumer Discretionary,1280.81,,26.76,47.87,169.93,990.69,1476.52,63.76,3.44,7.01,7.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCLN
-PFG,Principal Financial Group,Financials,48.89,2.96,11.92,4.10,32.78,41.67,58.02,14.31,1.81,1.23,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFG
-PG,Procter & Gamble,Consumer Staples,75.4525,3.5000,28.3976,2.6570,22.5030,65.0200,93.8900,205.27,18.21,2.7851,3.3680,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG
-PGR,"Progressive Corp,Ohio",Financials,30.595,2.200,13.838,2.211,12.763,25.230,33.950,17.88,2.21,0.874,2.416,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PGR
-PLD,Prologis,Financials,41.55,3.67,18.79,2.21,27.76,36.26,47.56,21.79,1.34,10.25,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLD
-PRU,Prudential Financial,Financials,84.805,3.250,11.400,7.439,95.060,73.190,92.600,38.08,9.94,0.615,0.907,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRU
-PSA,Public Storage,Financials,240.30,2.82,40.32,5.96,29.49,178.42,244.19,41.61,1.71,17.09,8.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSA
-PEG,Public Svc Enterprises,Utilities,38.46,3.99,10.57,3.64,25.59,37.92,44.45,19.46,4.56,1.78,1.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEG
-PHM,PulteGroup,Consumer Discretionary,18.925,1.630,14.240,1.329,13.094,17.290,23.360,6.61,0.7542000000000001,1.160,1.457,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PHM
-QRVO,Qorvo,Information Technology,58.51,,76.89,0.76,40.52,42.24,88.35,8.27,0.67889,3.42,1.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QRVO
-QCOM,QUALCOMM,Information Technology,50.6401,3.9600,15.7267,3.2200,20.6170,47.5200,75.7200,76.12,8.67,3.0828,2.5149,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM
-PWR,Quanta Services,Industrials,23.035,,12.684,1.816,19.527,18.460,30.610,3.68,0.60592,0.463,1.157,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PWR
-DGX,Quest Diagnostics,Health Care,66.47,2.22,13.61,4.88,31.87,60.07,89.00,9.53,1.49,1.31,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DGX
-RL,Ralph Lauren Corp,Consumer Discretionary,122.23,1.61,19.04,6.42,44.99,103.29,187.49,10.35,1.23,1.42,2.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RL
-RRC,Range Resources,Energy,28.19,0.56,,-0.68,18.57,27.44,65.53,4.68,1.23,3.54,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RRC
-RTN,Raytheon Co,Industrials,122.67,2.11,18.06,6.79,33.71,95.32,128.20,36.94,3.29,1.62,3.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTN
-O,Realtyome,Financials,48.75,4.57,44.52,1.10,23.71,43.15,55.54,12.17,0.8998200000000001,12.29,2.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=O
-RHT,Red Hat,Information Technology,80.68,,77.50,1.04,7.48,57.87,83.00,14.75,0.36108999999999997,7.83,10.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RHT
-REGN,Regeneron Pharmaceuticals,Health Care,536.06,,105.88,5.06,31.90,383.87,605.93,55.40,1.32,14.84,17.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=REGN
-RF,Regions Financial,Financials,10.05,2.36,14.38,0.70,12.36,8.54,10.87,13.12,0.00,2.66,0.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RF
-RSG,Republic Services,Industrials,43.78,2.73,24.66,1.77,22.43,38.35,44.90,15.20,2.39,1.70,1.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RSG
-RAI,Reynolds American,Consumer Staples,45.69,3.11,17.23,2.65,12.93,31.35,49.56,65.30,3.50,6.78,3.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RAI
-RHI,Robert Half International,Industrials,49.925,1.560,19.128,2.610,7.666,49.150,63.270,6.55,0.6219199999999999,1.345,6.696,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RHI
-ROK,Rockwell Automation,Industrials,104.31,2.72,17.13,6.09,17.05,98.47,127.05,13.77,1.31,2.20,6.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ROK
-COL,Rockwell Collins,Industrials,90.28,1.41,17.60,5.13,14.22,78.15,99.37,11.87,1.20,2.30,6.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COL
-ROP,Roper Technologies,Industrials,187.24,0.51,28.20,6.64,50.88,144.62,195.93,18.87,1.24,5.29,3.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ROP
-ROST,Ross Stores,Consumer Discretionary,52.42,0.90,21.40,2.45,5.96,43.47,56.68,21.05,1.87,1.83,8.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ROST
-RCL,Royal Caribbean Cruises,Consumer Discretionary,92.68,1.62,35.96,2.58,37.53,65.91,100.39,20.39,1.97,2.54,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RCL
-R,Ryder System,Industrials,62.83,2.46,13.97,4.50,36.54,62.66,100.64,3.36,1.75,0.53,1.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=R
-CRM,salesforce.com inc,Information Technology,80.16,,,-0.13,7.15,53.44,82.90,53.23,0.39981,8.52,11.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM
-SNDK,SanDisk Corp,Information Technology,74.72,1.62,36.11,2.07,28.07,44.28,106.64,15.00,1.48,2.62,2.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNDK
-SCG,SCANA Corp,Utilities,58.02,3.69,11.01,5.27,37.92,49.89,65.57,8.29,1.53,1.80,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCG
-HSIC,Schein (Henry),Health Care,156.68,,27.47,5.70,35.25,126.17,160.00,12.99,0.9172,1.26,4.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSIC
-SLB,Schlumberger Ltd,Energy,74.89,2.59,28.37,2.64,30.09,66.57,95.13,94.44,11.21,2.37,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB
-SCHW,Schwab(Charles)Corp,Financials,33.26,0.71,33.60,0.99,8.92,25.43,35.72,43.79,0.00,7.14,3.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCHW
-SNI,Scripps Networks Interact,Consumer Discretionary,56.47,1.62,13.04,4.33,11.51,47.62,80.93,7.26,1.28,2.60,4.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNI
-STX,Seagate Technology Plc,Information Technology,33.888,7.010,7.870,4.306,6.428,32.380,69.400,10.13,1.98,0.802,5.373,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STX
-SEE,Sealed Air,Materials,45.18,1.00,34.23,1.32,2.24,38.42,55.84,8.92,1.11,1.22,20.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SEE
-SRE,Sempra Energy,Utilities,97.44,2.81,19.15,5.09,46.79,89.44,116.30,24.21,3.03,2.38,2.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRE
-SHW,Sherwin-Williams,Materials,266.80,0.97,25.69,10.39,10.59,218.27,294.35,24.60,1.68,2.23,25.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SHW
+NBL,Noble Energy,Energy,35.34,1.97,,-0.07,29.64,29.13,53.68,14.84,2.58,4.56,1.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NBL
+JWN,Nordstrom,Consumer Discretionary,56.24,2.63,16.11,3.49,7.59,50.43,83.16,10.43,1.78,0.73,7.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JWN
+NSC,Norfolk Southern,Industrials,92.87,2.48,16.77,5.54,40.62,72.10,112.22,27.73,4.16,2.53,2.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NSC
+NTRS,Northern Trust,Financials,72.70,1.91,18.28,3.98,36.31,61.10,79.25,16.81,0.00,3.65,2.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTRS
+NOC,Northrop Grumman,Industrials,182.47,1.72,17.62,10.36,31.16,139.10,193.99,33.28,3.62,1.41,5.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOC
+NRG,NRG Energy,Utilities,11.005,4.990,,-0.039,28.855,10.520,29.670,3.46,3.18,0.214,0.374,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NRG
+NUE,Nucor Corp,Materials,40.57,3.59,20.76,1.95,24.12,36.76,55.29,12.97,1.94,0.73,1.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NUE
+NVDA,NVIDIA Corp,Information Technology,32.375,1.450,30.257,1.070,8.299,18.940,33.140,17.42,1.08,3.598,3.916,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA
+ORLY,O'Reilly Automotive,Consumer Discretionary,253.66,,29.05,8.73,20.28,179.00,277.96,25.02,1.69,3.32,12.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORLY
+OXY,Occidental Petroleum,Energy,72.64,3.99,,-7.88,39.13,63.60,83.74,55.48,5.95,4.11,1.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OXY
+OMC,Omnicom Group,Consumer Discretionary,73.545,2.710,16.868,4.360,10.229,64.120,80.980,17.82,2.23,1.183,7.248,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OMC
+OKE,ONEOK,Energy,26.58,8.35,17.79,1.49,1.98,26.50,53.55,5.56,1.40,0.65,13.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OKE
+ORCL,Oracle Corp,Information Technology,37.89,1.53,17.76,2.13,11.00,35.14,46.71,161.74,15.79,4.34,3.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL
+OI,Owens-Illinois,Materials,18.85,,,-0.44,4.78,18.48,27.38,3.03,0.874,0.50,3.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OI
+PCAR,PACCAR,Industrials,48.40,1.85,10.43,4.64,20.77,48.27,71.15,17.11,2.86,0.91,2.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCAR
+PH,Parker-Hannifin,Industrials,100.75,2.43,15.43,6.53,35.68,93.47,132.08,13.70,1.77,1.13,2.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PH
+PDCO,PattersonCompanies,Health Care,44.29,1.93,23.90,1.85,13.84,42.62,53.07,4.36,0.45429,0.90,3.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PDCO
+PAYX,Paychex,Information Technology,52.56,3.10,26.82,1.96,4.97,41.59,54.78,18.95,1.19,6.95,10.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PAYX
+PYPL,PayPal Holdings,Information Technology,33.9399,,36.2606,0.9360,10.8220,30.0000,42.5500,41.46,1.90,4.8331,3.2480,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PYPL
+PNR,Pentair plc,Industrials,55.62,2.26,20.45,2.72,25.16,48.44,69.65,10.03,1.08,1.56,2.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNR
+PBCT,People's United Financial,Financials,16.485,4.010,19.532,0.844,15.645,13.970,16.950,4.98,0.00,4.081,1.064,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PBCT
+POM,Pepco Holdings,Utilities,26.05,4.21,28.35,0.92,17.15,21.61,27.50,6.61,1.26,1.33,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=POM
+PEP,PepsiCo,Consumer Staples,98.905,2.790,29.349,3.370,9.305,76.480,103.440,144.09,12.10,2.250,10.691,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEP
+PKI,PerkinElmer,Health Care,50.67,0.53,32.80,1.54,18.36,40.84,54.45,5.67,0.3552,2.60,2.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PKI
+PRGO,Perrigo,Health Care,144.42,0.33,142.57,1.01,73.31,140.40,215.73,21.14,1.45,4.33,2.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRGO
+PFE,Pfizer,Health Care,32.60,3.42,24.47,1.33,10.82,28.47,36.46,201.24,19.48,4.24,3.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE
+PCG,PG&E Corp,Utilities,51.96,3.45,28.69,1.81,33.80,47.33,60.21,25.48,4.13,1.51,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCG
+PM,Philip Morris International,Consumer Staples,87.36,4.67,18.80,4.65,-8.77,75.27,90.08,135.35,12.08,4.90,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PM
+PSX,Phillips 66,Energy,88.70,2.41,10.36,8.56,43.48,57.33,94.12,47.32,5.81,0.49,2.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSX
+PNW,Pinnacle West Capital,Utilities,61.46,3.95,17.05,3.60,41.98,56.01,73.31,6.81,1.36,1.97,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNW
+PXD,Pioneer Natural Resources,Energy,144.98,0.06,27.88,5.20,60.08,105.83,181.97,21.66,2.25,6.53,2.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PXD
+PBI,Pitney Bowes,Industrials,20.595,3.560,10.851,1.898,0.718,18.590,25.460,4.06,0.84065,1.134,29.053,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PBI
+PCL,Plum Creek Timber,Financials,49.24,3.45,37.39,1.32,8.68,36.95,51.63,8.55,0.52,5.35,5.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCL
+PNC,PNC Financial Services,Financials,94.12,2.14,12.77,7.37,81.37,81.84,100.52,47.79,0.00,3.21,1.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNC
+PPG,PPG Indus,Materials,104.20,1.36,24.49,4.26,18.98,82.93,118.95,28.06,2.50,1.85,5.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PPG
+PPL,PPL Corp,Utilities,32.99,4.49,22.75,1.45,15.22,29.18,38.14,22.20,4.81,1.94,2.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PPL
+PX,Praxair,Materials,108.05,2.51,22.03,4.90,14.97,98.55,132.95,30.78,3.63,2.80,7.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PX
+PCP,Precision Castparts,Industrials,231.64,0.05,24.57,9.43,83.41,186.17,245.05,31.87,2.68,3.30,2.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCP
+PCLN,Priceline Group (The),Consumer Discretionary,1273.36,,26.60,47.87,169.93,990.69,1476.52,63.39,3.44,7.01,7.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCLN
+PFG,Principal Financial Group,Financials,48.12,2.96,11.74,4.10,32.78,41.67,58.02,14.09,1.81,1.23,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFG
+PG,Procter & Gamble,Consumer Staples,75.31,3.50,28.34,2.66,22.50,65.02,93.89,204.89,18.21,2.79,3.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG
+PGR,"Progressive Corp,Ohio",Financials,30.363,2.200,13.733,2.211,12.763,25.230,33.950,17.75,2.21,0.874,2.416,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PGR
+PLD,Prologis,Financials,41.39,3.67,18.72,2.21,27.76,36.26,47.56,21.70,1.34,10.25,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLD
+PRU,Prudential Financial,Financials,84.35,3.25,11.34,7.44,95.06,73.19,92.60,37.87,9.94,0.61,0.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRU
+PSA,Public Storage,Financials,237.69,2.82,39.88,5.96,29.49,178.42,244.19,41.16,1.71,17.09,8.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSA
+PEG,Public Svc Enterprises,Utilities,38.28,3.99,10.52,3.64,25.59,37.92,44.45,19.37,4.56,1.78,1.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEG
+PHM,PulteGroup,Consumer Discretionary,18.81,1.63,14.15,1.33,13.09,17.29,23.36,6.57,0.7542000000000001,1.16,1.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PHM
+QRVO,Qorvo,Information Technology,58.30,,76.61,0.76,40.52,42.24,88.35,8.24,0.67889,3.42,1.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QRVO
+QCOM,QUALCOMM,Information Technology,50.49,3.96,15.68,3.22,20.62,47.52,75.72,75.89,8.67,3.08,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM
+PWR,Quanta Services,Industrials,22.84,,12.58,1.82,19.53,18.46,30.61,3.65,0.60592,0.46,1.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PWR
+DGX,Quest Diagnostics,Health Care,65.54,2.22,13.42,4.88,31.87,60.07,89.00,9.40,1.49,1.31,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DGX
+RL,Ralph Lauren Corp,Consumer Discretionary,121.38,1.61,18.90,6.42,44.99,103.29,187.49,10.28,1.23,1.42,2.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RL
+RRC,Range Resources,Energy,27.969,0.560,,-0.681,18.568,27.440,65.530,4.65,1.23,3.543,1.554,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RRC
+RTN,Raytheon Co,Industrials,122.66,2.11,18.06,6.79,33.71,95.32,128.20,36.93,3.29,1.62,3.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTN
+O,Realtyome,Financials,48.68,4.57,44.46,1.10,23.71,43.15,55.54,12.15,0.8998200000000001,12.29,2.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=O
+RHT,Red Hat,Information Technology,80.06,,76.91,1.04,7.48,57.87,83.00,14.64,0.36108999999999997,7.83,10.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RHT
+REGN,Regeneron Pharmaceuticals,Health Care,535.20,,105.71,5.06,31.90,383.87,605.93,55.31,1.32,14.84,17.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=REGN
+RF,Regions Financial,Financials,9.97,2.36,14.26,0.70,12.36,8.54,10.87,13.02,0.00,2.66,0.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RF
+RSG,Republic Services,Industrials,43.425,2.730,24.465,1.775,22.433,38.350,44.900,15.08,2.39,1.696,1.969,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RSG
+RAI,Reynolds American,Consumer Staples,45.33,3.11,17.09,2.65,12.93,31.35,49.56,64.78,3.50,6.78,3.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RAI
+RHI,Robert Half International,Industrials,49.685,1.560,19.036,2.610,7.666,49.150,63.270,6.52,0.6219199999999999,1.345,6.696,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RHI
+ROK,Rockwell Automation,Industrials,103.455,2.720,16.988,6.090,17.045,98.470,127.050,13.66,1.31,2.203,6.176,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ROK
+COL,Rockwell Collins,Industrials,89.88,1.41,17.52,5.13,14.22,78.15,99.37,11.81,1.20,2.30,6.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COL
+ROP,Roper Technologies,Industrials,186.35,0.51,28.07,6.64,50.88,144.62,195.93,18.79,1.24,5.29,3.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ROP
+ROST,Ross Stores,Consumer Discretionary,52.03,0.90,21.24,2.45,5.96,43.47,56.68,20.89,1.87,1.83,8.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ROST
+RCL,Royal Caribbean Cruises,Consumer Discretionary,90.74,1.62,35.21,2.58,37.53,65.91,100.39,19.96,1.97,2.54,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RCL
+R,Ryder System,Industrials,62.18,2.46,13.82,4.50,36.54,62.05,100.64,3.32,1.75,0.53,1.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=R
+CRM,salesforce.com inc,Information Technology,79.80,,,-0.13,7.15,53.44,82.90,52.99,0.39981,8.52,11.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM
+SNDK,SanDisk Corp,Information Technology,74.77,1.62,36.14,2.07,28.07,44.28,106.64,15.01,1.48,2.62,2.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNDK
+SCG,SCANA Corp,Utilities,57.79,3.69,10.97,5.27,37.92,49.89,65.57,8.26,1.53,1.80,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCG
+HSIC,Schein (Henry),Health Care,156.09,,27.37,5.70,35.25,126.17,160.00,12.94,0.9172,1.26,4.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSIC
+SLB,Schlumberger Ltd,Energy,74.263,2.590,28.130,2.640,30.086,66.570,95.130,93.65,11.21,2.368,2.520,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB
+SCHW,Schwab(Charles)Corp,Financials,33.00,0.71,33.33,0.99,8.92,25.43,35.72,43.45,0.00,7.14,3.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCHW
+SNI,Scripps Networks Interact,Consumer Discretionary,55.91,1.62,12.91,4.33,11.51,47.62,80.93,7.19,1.28,2.60,4.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNI
+STX,Seagate Technology Plc,Information Technology,33.575,7.010,7.797,4.306,6.428,32.380,69.400,10.04,1.98,0.802,5.373,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STX
+SEE,Sealed Air,Materials,44.96,1.00,34.06,1.32,2.24,38.42,55.84,8.88,1.11,1.22,20.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SEE
+SRE,Sempra Energy,Utilities,97.085,2.810,19.077,5.089,46.793,89.440,116.300,24.12,3.03,2.378,2.102,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRE
+SHW,Sherwin-Williams,Materials,265.59,0.97,25.57,10.39,10.59,218.27,294.35,24.49,1.68,2.23,25.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SHW
 SIAL,Sigma-Aldrich,Materials,139.76,0.66,,4.09,0.00,135.33,140.03,,0.00,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SIAL
-SIG,Signet Jewelers,Consumer Discretionary,128.70,0.66,24.30,5.30,35.79,116.42,152.27,10.23,0.8423999999999999,1.55,3.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SIG
-SPG,Simon Property Group,Financials,181.46,3.37,33.98,5.34,14.05,170.99,208.14,56.15,3.76,11.12,13.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPG
-SWKS,Skyworks Solutions,Information Technology,84.16,1.27,20.53,4.10,16.60,65.63,112.88,16.09,1.22,4.96,5.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWKS
-SLG,SL Green Realty,Financials,115.99,2.02,50.92,2.28,70.40,99.97,135.81,11.56,0.93349,7.15,1.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLG
-SJM,Smucker (J.M.),Consumer Staples,120.58,2.21,35.45,3.40,60.44,97.28,124.77,14.43,1.42,2.09,2.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SJM
-SNA,Snap-On,Industrials,172.10,1.42,21.95,7.84,40.66,129.14,173.87,9.99,0.8136,2.78,4.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNA
-SO,Southern Co,Utilities,44.42,4.87,16.99,2.61,22.73,41.40,53.16,40.38,6.56,2.24,1.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SO
-LUV,Southwest Airlines,Industrials,46.88,0.65,17.25,2.72,10.71,31.36,48.49,30.49,4.66,1.60,4.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LUV
-SWN,Southwestern Energy,Energy,8.325,0.000,,-5.944,11.609,8.300,31.490,3.18,1.75,0.992,0.762,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWN
-SE,Spectra Energy,Energy,24.88,5.56,21.63,1.15,10.75,24.67,38.47,16.70,2.68,3.08,2.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SE
-STJ,St. Jude Medical,Health Care,61.89,1.82,17.58,3.52,14.15,60.34,80.84,17.49,1.66,3.22,4.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STJ
-SWK,Stanley Black & Decker,Industrials,108.40,2.02,21.96,4.94,37.66,90.08,111.18,16.23,1.88,1.45,2.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWK
-SPLS,Staples,Consumer Discretionary,11.945,3.900,243.776,0.049,8.296,11.610,19.400,7.69,1.39,0.362,1.453,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPLS
-SBUX,Starbucks Corp,Consumer Discretionary,59.625,1.300,32.761,1.820,3.918,39.220,64.000,88.53,4.30,4.744,15.625,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SBUX
-HOT,Starwood Hotels&Res World,Consumer Discretionary,69.95,2.09,21.49,3.26,7.39,63.99,87.99,11.82,1.10,3.91,9.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOT
-STT,State Street Corp,Financials,72.01,1.87,16.82,4.28,46.55,71.94,72.94,29.06,0.00,2.79,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STT
-SRCL,Stericycle,Industrials,115.02,,36.87,3.12,31.98,110.56,151.57,9.77,0.7186699999999999,3.64,3.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRCL
-SYK,Stryker Corp,Health Care,93.06,1.41,30.32,3.07,22.59,89.81,105.34,34.95,2.64,3.67,4.26,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK
-STI,SunTrust Banks,Financials,43.095,2.210,12.724,3.387,43.572,36.520,45.840,22.09,0.00,2.858,0.995,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STI
-SYMC,Symantec Corp,Information Technology,19.6063,3.0800,20.1919,0.9710,8.6650,19.0700,27.3200,13.24,1.73,2.1584,2.2689,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
-SYY,Sysco Corp,Consumer Staples,40.77,2.98,37.34,1.09,8.90,35.45,42.03,23.02,2.34,0.47,4.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYY
-TROW,T.Rowe Price Group,Financials,75.34,2.74,16.27,4.63,18.57,65.88,88.64,18.92,2.05,4.55,4.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
-TGT,Target Corp,Consumer Discretionary,72.735,3.090,,-1.108,21.429,68.150,85.810,44.99,7.21,0.602,3.357,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
-TEL,TE Connectivity,Information Technology,66.255,1.960,11.256,5.886,24.328,54.320,73.730,25.59,2.61,2.105,2.740,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
-TE,TECO Energy,Utilities,26.32,3.42,46.26,0.57,10.89,17.60,27.23,6.19,0.8959,2.24,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE
-TGNA,TEGNA,Consumer Discretionary,27.61,1.99,6.43,4.29,9.62,21.30,38.48,6.12,1.57,0.96,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGNA
-THC,Tenet Healthcare,Health Care,33.01,0.00,187.56,0.18,8.05,26.62,60.93,3.29,2.27,0.19,4.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=THC
-TDC,Teradata Corp,Information Technology,29.71,,,-0.32,7.44,24.00,47.03,3.95,0.442,1.55,4.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TDC
-TSO,Tesoro Petroleum Co,Energy,110.25,1.71,8.54,12.91,43.84,64.16,119.67,13.51,3.58,0.46,2.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSO
-TXN,Texas Instruments,Information Technology,57.53,2.62,20.65,2.79,9.78,43.49,59.99,58.36,5.34,4.46,5.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN
-TXT,Textron,Industrials,41.26,0.19,16.90,2.44,17.15,32.20,46.93,11.29,1.58,0.84,2.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXT
-TMO,Thermo Fisher Scientific,Health Care,133.23,0.43,27.13,4.91,52.24,117.10,141.25,53.17,4.06,3.25,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMO
-TIF,Tiffany & Co,Consumer Discretionary,76.46,2.01,19.95,3.83,22.25,73.09,109.00,9.80,1.01,2.39,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TIF
-TWX,Time Warner,Consumer Discretionary,69.505,2.010,15.815,4.395,29.450,65.250,91.340,55.57,8.02,1.960,2.378,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TWX
-TWC,Time Warner Cable,Consumer Discretionary,182.16,1.62,27.24,6.69,30.88,134.21,194.22,51.59,7.83,2.23,5.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TWC
-TJX,TJX Companies,Consumer Discretionary,69.84,1.19,21.27,3.28,6.39,63.53,76.93,47.55,4.27,1.59,11.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TJX
-TMK,Torchmark Corp,Financials,60.10,0.89,14.26,4.21,34.62,49.77,63.26,7.41,0.86021,1.86,1.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMK
-TSS,Total System Services,Information Technology,55.24,0.72,28.33,1.95,10.19,32.06,56.48,10.16,0.65396,3.82,5.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSS
-TSCO,Tractor Supply,Consumer Discretionary,86.30,0.90,28.83,2.99,9.93,74.52,96.28,11.59,0.77578,1.95,9.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSCO
+SIG,Signet Jewelers,Consumer Discretionary,127.45,0.66,24.07,5.30,35.79,116.42,152.27,10.13,0.8423999999999999,1.55,3.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SIG
+SPG,Simon Property Group,Financials,181.52,3.37,33.99,5.34,14.05,170.99,208.14,56.17,3.76,11.12,13.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPG
+SWKS,Skyworks Solutions,Information Technology,83.51,1.27,20.37,4.10,16.60,65.63,112.88,15.96,1.22,4.96,5.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWKS
+SLG,SL Green Realty,Financials,116.03,2.02,50.94,2.28,70.40,99.97,135.81,11.57,0.93349,7.15,1.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLG
+SJM,Smucker (J.M.),Consumer Staples,120.20,2.21,35.34,3.40,60.44,97.28,124.77,14.38,1.42,2.09,2.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SJM
+SNA,Snap-On,Industrials,170.67,1.42,21.77,7.84,40.66,129.14,173.87,9.91,0.8136,2.78,4.23,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNA
+SO,Southern Co,Utilities,44.3145,4.8700,16.9528,2.6140,22.7340,41.4000,53.1600,40.28,6.56,2.2402,1.9447,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SO
+LUV,Southwest Airlines,Industrials,46.95,0.65,17.27,2.72,10.71,31.36,48.49,30.53,4.66,1.60,4.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LUV
+SWN,Southwestern Energy,Energy,8.22,0.00,,-5.94,11.61,8.15,31.49,3.14,1.75,0.99,0.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWN
+SE,Spectra Energy,Energy,24.49,5.56,21.30,1.15,10.75,24.44,38.47,16.44,2.68,3.08,2.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SE
+STJ,St. Jude Medical,Health Care,61.63,1.82,17.51,3.52,14.15,60.34,80.84,17.42,1.66,3.22,4.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STJ
+SWK,Stanley Black & Decker,Industrials,107.90,2.02,21.86,4.94,37.66,90.08,111.18,16.16,1.88,1.45,2.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWK
+SPLS,Staples,Consumer Discretionary,11.89,3.90,242.65,0.05,8.30,11.61,19.40,7.65,1.39,0.36,1.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPLS
+SBUX,Starbucks Corp,Consumer Discretionary,59.285,1.300,32.574,1.820,3.918,39.220,64.000,88.03,4.30,4.744,15.625,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SBUX
+HOT,Starwood Hotels&Res World,Consumer Discretionary,69.29,2.09,21.29,3.26,7.39,63.99,87.99,11.71,1.10,3.91,9.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOT
+STT,State Street Corp,Financials,71.43,1.87,16.69,4.28,46.55,71.33,72.94,28.82,0.00,2.79,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STT
+SRCL,Stericycle,Industrials,113.7599,,36.4615,3.1200,31.9760,110.5600,151.5700,9.67,0.7186699999999999,3.6379,3.7143,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRCL
+SYK,Stryker Corp,Health Care,92.50,1.41,30.14,3.07,22.59,89.81,105.34,34.74,2.64,3.67,4.26,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK
+STI,SunTrust Banks,Financials,42.82,2.21,12.64,3.39,43.57,36.52,45.84,21.95,0.00,2.86,1.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STI
+SYMC,Symantec Corp,Information Technology,19.63,3.08,20.22,0.97,8.66,19.07,27.32,13.26,1.73,2.16,2.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
+SYY,Sysco Corp,Consumer Staples,40.575,2.980,37.157,1.092,8.900,35.450,42.030,22.91,2.34,0.474,4.608,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYY
+TROW,T.Rowe Price Group,Financials,74.81,2.74,16.15,4.63,18.57,65.88,88.64,18.78,2.05,4.55,4.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
+TGT,Target Corp,Consumer Discretionary,72.64,3.09,,-1.11,21.43,68.15,85.81,44.94,7.21,0.60,3.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
+TEL,TE Connectivity,Information Technology,65.88,1.96,11.19,5.89,24.33,54.32,73.73,25.45,2.61,2.11,2.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
+TE,TECO Energy,Utilities,26.23,3.42,46.10,0.57,10.89,17.60,27.23,6.17,0.8959,2.24,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE
+TGNA,TEGNA,Consumer Discretionary,27.4367,1.9900,6.3895,4.2940,9.6210,21.3000,38.4800,6.08,1.57,0.9584,2.8937,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGNA
+THC,Tenet Healthcare,Health Care,32.73,0.00,185.97,0.18,8.05,26.62,60.93,3.26,2.27,0.19,4.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=THC
+TDC,Teradata Corp,Information Technology,29.44,,,-0.32,7.44,24.00,47.03,3.92,0.442,1.55,4.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TDC
+TSO,Tesoro Petroleum Co,Energy,110.23,1.71,8.54,12.91,43.84,64.16,119.67,13.50,3.58,0.46,2.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSO
+TXN,Texas Instruments,Information Technology,57.25,2.62,20.55,2.79,9.78,43.49,59.99,58.08,5.34,4.46,5.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN
+TXT,Textron,Industrials,41.03,0.19,16.80,2.44,17.15,32.20,46.93,11.23,1.58,0.84,2.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXT
+TMO,Thermo Fisher Scientific,Health Care,132.06,0.43,26.90,4.91,52.24,117.10,141.25,52.70,4.06,3.25,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMO
+TIF,Tiffany & Co,Consumer Discretionary,75.94,2.01,19.82,3.83,22.25,73.09,109.00,9.74,1.01,2.39,3.50,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TIF
+TWX,Time Warner,Consumer Discretionary,69.195,2.010,15.744,4.395,29.450,65.250,91.340,55.32,8.02,1.960,2.378,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TWX
+TWC,Time Warner Cable,Consumer Discretionary,181.10,1.62,27.08,6.69,30.88,134.21,194.22,51.29,7.83,2.23,5.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TWC
+TJX,TJX Companies,Consumer Discretionary,69.43,1.19,21.14,3.28,6.39,63.53,76.93,47.27,4.27,1.59,11.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TJX
+TMK,Torchmark Corp,Financials,59.84,0.89,14.20,4.21,34.62,49.77,63.26,7.38,0.86021,1.86,1.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMK
+TSS,Total System Services,Information Technology,55.03,0.72,28.22,1.95,10.19,32.06,56.48,10.12,0.65396,3.82,5.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSS
+TSCO,Tractor Supply,Consumer Discretionary,85.695,0.900,28.632,2.993,9.932,74.520,96.280,11.51,0.77578,1.948,9.001,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSCO
 RIG,Transocean Ltd,Energy,14.07,0.00,,-1.55,37.72,11.26,21.90,5.12,3.21,0.66,0.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RIG
-TRV,TravelersCompanies,Financials,112.22,2.12,10.04,11.17,79.00,95.21,116.48,34.14,6.19,1.30,1.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRV
-TRIP,TripAdvisor,Consumer Discretionary,83.71,,52.65,1.59,9.20,62.24,94.00,12.07,0.366,8.13,9.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRIP
-FOXA,Twenty-First Century Fox,Consumer Discretionary,29.03,1.02,7.62,3.81,7.73,22.81,39.27,57.17,6.13,2.12,3.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FOXA
-TYC,Tyco International,Industrials,33.89,2.33,26.37,1.28,9.58,33.06,44.84,14.33,1.53,1.46,3.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TYC
-TSN,Tyson Foods,Consumer Staples,51.485,1.190,17.453,2.950,24.182,37.100,51.835,20.63,3.10,0.490,2.092,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSN
-USB,U.S. Bancorp,Financials,43.495,2.320,13.808,3.150,22.987,38.810,46.260,76.08,0.00,4.144,1.904,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=USB
-UA,Under Armour,Consumer Discretionary,84.37,,86.27,0.98,7.11,63.77,105.89,18.21,0.47548,5.09,12.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UA
-UNP,Union Pacific,Industrials,79.38,2.60,13.70,5.80,24.07,79.09,124.52,67.80,10.49,3.08,3.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNP
-UAL,United Continental Holdin,Industrials,56.8399,0.0000,3.2937,17.2570,22.8910,49.2000,74.5200,21.19,6.78,0.5660,2.5298,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UAL
-UPS,United Parcel Service,Industrials,102.35,2.80,23.47,4.36,2.16,93.64,114.40,91.13,8.39,1.58,47.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UPS
-URI,United Rentals,Industrials,75.98,,12.33,6.16,16.13,56.66,116.29,7.05,1.82,1.21,4.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=URI
-UTX,United Technologies,Industrials,94.98,2.67,14.68,6.47,34.41,85.50,124.45,84.25,11.57,1.32,2.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UTX
-UNH,UnitedHealth Group,Health Care,115.79,1.75,18.37,6.30,34.75,95.00,126.21,110.36,12.49,0.76,3.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNH
-UHS,Univl Health Services,Health Care,118.21,0.32,17.57,6.73,41.97,101.20,148.57,11.64,1.65,1.38,2.93,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UHS
-UNM,Unum Group,Financials,36.205,2.020,24.613,1.471,35.252,29.810,38.150,8.81,0.7006,0.842,1.043,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNM
-URBN,Urban Outfitters,Consumer Discretionary,21.175,,11.869,1.784,9.640,19.260,47.250,2.57,0.49656,0.793,2.329,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=URBN
-VLO,Valero Energy,Energy,70.63,2.74,7.43,9.51,44.14,43.45,73.88,34.01,9.28,0.36,1.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VLO
-VAR,Varian Medical Systems,Health Care,80.01,0.00,19.56,4.09,17.36,71.07,96.67,7.89,0.6156699999999999,2.58,4.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VAR
-VTR,Ventas,Financials,51.99,5.44,42.10,1.24,28.86,49.31,81.93,17.31,1.88,5.08,1.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VTR
-VRSN,VeriSign,Information Technology,91.79,0.00,36.14,2.54,-9.22,53.48,93.25,10.24,0.6522,9.57,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRSN
-VZ,Verizon Communications,Telecommunication Services,44.70,5.00,17.94,2.49,3.23,38.06,50.86,181.88,37.23,1.40,13.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VZ
-VRTX,Vertex Pharmaceuticals,Health Care,122.57,,,-2.74,3.75,97.45,143.45,30.12,-0.50022,42.22,34.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRTX
-VFC,VF Corp,Consumer Discretionary,63.705,2.270,26.500,2.404,12.578,61.170,77.830,27.16,2.11,2.225,5.205,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VFC
-VIAB,Viacom,Consumer Discretionary,46.52,3.21,9.84,4.73,8.89,36.32,78.00,18.45,4.12,1.42,5.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VIAB
-V,Visa,Information Technology,78.76,0.71,30.36,2.59,12.26,60.00,81.01,191.42,9.32,13.84,6.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=V
-VNO,Vornado Realty Trust,Financials,96.39,2.58,18.98,5.08,28.67,84.60,115.73,18.17,1.35,6.57,3.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VNO
-VMC,Vulcan Materials,Materials,99.59,0.39,78.67,1.27,32.73,61.45,106.84,13.28,0.74622,4.14,3.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VMC
-WMT,Wal-Mart Stores,Consumer Staples,58.865,3.270,12.602,4.671,24.788,56.300,90.970,188.96,34.73,0.387,2.354,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMT
-WBA,Walgreens Boots Alliance,Consumer Staples,82.53,1.71,20.63,4.00,28.32,66.76,97.30,89.86,6.87,0.88,2.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBA
-DIS,Walt Disney Co,Consumer Discretionary,112.03,1.15,22.86,4.90,26.19,90.00,122.08,190.45,15.58,3.69,4.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS
-WM,Waste Management,Industrials,52.475,2.860,22.492,2.333,11.725,45.860,55.930,23.43,3.43,1.817,4.564,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WM
-WAT,Waters Corp,Health Care,128.32,0.00,22.88,5.61,24.11,110.85,137.39,10.48,0.6649299999999999,5.24,5.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WAT
-WEC,WEC Energy Group,Utilities,48.28,3.71,20.77,2.33,27.34,44.93,58.01,15.24,1.68,2.90,1.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WEC
-WFC,Wells Fargo,Financials,54.47,2.72,13.16,4.14,33.71,47.75,58.77,278.22,0.00,3.36,1.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
-HCN,Welltower,Financials,62.5905,5.2200,24.5261,2.5520,38.6370,58.1900,84.8800,22.15,1.83,6.1901,1.6422,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCN
-WDC,Western Digital,Information Technology,63.1412,3.2400,11.2191,5.6280,40.4160,60.1200,114.6900,14.63,2.71,1.0336,1.5439,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
-WU,Western Union,Information Technology,18.795,3.290,11.595,1.621,2.662,16.730,22.840,9.50,1.40,1.735,7.111,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WU
-WRK,WestRock Co ,Materials,50.35,2.98,17.21,2.93,44.12,46.29,66.40,13.30,1.78,1.17,1.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WRK
-WY,Weyerhaeuser Co,Financials,31.455,3.850,28.911,1.088,9.518,26.730,37.040,16.06,1.52,2.272,3.337,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
-WHR,Whirlpool Corp,Consumer Discretionary,157.66,2.16,18.43,8.56,62.35,140.50,217.11,12.33,2.05,0.59,2.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WHR
-WFM,Whole Foods Market,Consumer Staples,29.96,1.85,20.24,1.48,10.80,28.73,57.57,10.22,1.40,0.66,2.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFM
-WMB,WilliamsCompanies,Energy,34.32,7.08,77.12,0.44,9.86,33.48,61.38,25.73,2.97,3.54,3.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMB
-WYN,Wyndham Worldwide,Consumer Discretionary,75.10,2.21,16.43,4.57,8.76,69.77,94.35,8.71,1.24,1.62,8.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYN
-WYNN,Wynn Resorts,Consumer Discretionary,65.15,3.19,33.95,1.92,-1.75,50.96,168.86,6.59,1.07,1.62,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYNN
-XEL,Xcel Energy,Utilities,34.69,3.59,18.11,1.92,20.79,31.76,38.35,17.61,3.16,1.58,1.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEL
-XRX,Xerox Corp,Information Technology,10.34,2.63,33.68,0.31,9.00,9.17,14.36,10.47,1.69,0.57,1.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRX
-XLNX,Xilinx,Information Technology,48.52,2.50,22.67,2.14,10.13,37.20,50.72,12.47,0.77639,5.63,4.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XLNX
-XL,XL Group Plc,Financials,38.50,2.10,9.70,3.97,39.88,25.56,40.41,11.46,1.47,1.37,0.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XL
-XYL,Xylem,Industrials,36.77,1.50,20.88,1.76,11.39,29.90,39.23,6.60,0.598,1.79,3.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
-YHOO,Yahoo,Information Technology,34.435,,137.740,0.250,29.937,27.200,51.680,32.52,0.47708,6.804,1.191,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YHOO
-YUM,Yum Brands,Consumer Discretionary,73.56,2.52,35.15,2.09,4.23,66.35,95.90,31.72,2.79,2.46,17.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
-ZBH,Zimmer Biomet Holdings,Health Care,99.81,0.87,104.29,0.96,49.05,88.77,121.84,20.34,2.09,3.94,2.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
-ZION,Zions Bancorp,Financials,29.66,0.80,27.11,1.09,32.47,23.72,33.03,6.06,0.00,2.98,0.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZION
-ZTS,Zoetis,Health Care,45.08,0.71,51.23,0.88,2.47,37.73,55.38,22.45,1.43,4.80,18.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
+TRV,TravelersCompanies,Financials,111.26,2.12,9.96,11.17,79.00,95.21,116.48,33.85,6.19,1.30,1.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRV
+TRIP,TripAdvisor,Consumer Discretionary,83.14,,52.29,1.59,9.20,62.24,94.00,11.99,0.366,8.13,9.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRIP
+FOXA,Twenty-First Century Fox,Consumer Discretionary,28.865,1.020,7.578,3.809,7.733,22.810,39.270,56.84,6.13,2.124,3.790,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FOXA
+TYC,Tyco International,Industrials,33.61,2.33,26.16,1.28,9.58,33.06,44.84,14.21,1.53,1.46,3.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TYC
+TSN,Tyson Foods,Consumer Staples,51.08,1.20,17.32,2.95,24.18,37.10,51.83,20.47,3.10,0.49,2.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSN
+USB,U.S. Bancorp,Financials,43.2239,2.3200,13.7219,3.1500,22.9870,38.8100,46.2600,75.61,0.00,4.1443,1.9041,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=USB
+UA,Under Armour,Consumer Discretionary,83.205,,85.077,0.978,7.114,63.770,105.890,17.96,0.47548,5.087,12.218,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UA
+UNP,Union Pacific,Industrials,79.285,2.620,13.679,5.796,24.072,78.970,124.520,67.72,10.49,3.081,3.410,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNP
+UAL,United Continental Holdin,Industrials,56.78,0.00,3.29,17.26,22.89,49.20,74.52,21.17,6.78,0.57,2.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UAL
+UPS,United Parcel Service,Industrials,102.00,2.80,23.39,4.36,2.16,93.64,114.40,90.82,8.39,1.58,47.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UPS
+URI,United Rentals,Industrials,74.74,,12.13,6.16,16.13,56.66,116.29,6.94,1.82,1.21,4.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=URI
+UTX,United Technologies,Industrials,94.61,2.67,14.62,6.47,34.41,85.50,124.45,83.92,11.57,1.32,2.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UTX
+UNH,UnitedHealth Group,Health Care,114.6825,1.7700,18.1978,6.3020,34.7470,95.0000,126.2100,109.30,12.49,0.7631,3.3856,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNH
+UHS,Univl Health Services,Health Care,117.03,0.33,17.39,6.73,41.97,101.20,148.57,11.52,1.65,1.38,2.93,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UHS
+UNM,Unum Group,Financials,36.05,2.02,24.51,1.47,35.25,29.81,38.15,8.78,0.7006,0.84,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNM
+URBN,Urban Outfitters,Consumer Discretionary,20.87,,11.70,1.78,9.64,19.26,47.25,2.54,0.49656,0.79,2.33,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=URBN
+VLO,Valero Energy,Energy,70.235,2.780,7.386,9.509,44.141,43.450,73.880,33.82,9.28,0.356,1.624,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VLO
+VAR,Varian Medical Systems,Health Care,79.45,0.00,19.43,4.09,17.36,71.07,96.67,7.83,0.6156699999999999,2.58,4.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VAR
+VTR,Ventas,Financials,51.84,5.47,41.98,1.24,28.86,49.31,81.93,17.26,1.88,5.08,1.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VTR
+VRSN,VeriSign,Information Technology,91.525,0.000,36.033,2.540,-9.218,53.480,93.250,10.21,0.6522,9.573,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRSN
+VZ,Verizon Communications,Telecommunication Services,44.475,4.970,17.847,2.492,3.229,38.060,50.860,180.96,37.23,1.400,13.911,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VZ
+VRTX,Vertex Pharmaceuticals,Health Care,121.03,,,-2.74,3.75,97.45,143.45,29.74,-0.50022,42.22,34.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRTX
+VFC,VF Corp,Consumer Discretionary,63.66,2.29,26.48,2.40,12.58,61.17,77.83,27.14,2.11,2.23,5.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VFC
+VIAB,Viacom,Consumer Discretionary,46.045,3.210,9.735,4.730,8.887,36.320,78.000,18.26,4.12,1.424,5.362,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VIAB
+V,Visa,Information Technology,78.23,0.71,30.16,2.59,12.26,60.00,81.01,190.13,9.32,13.84,6.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=V
+VNO,Vornado Realty Trust,Financials,96.22,2.58,18.94,5.08,28.67,84.60,115.73,18.14,1.35,6.57,3.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VNO
+VMC,Vulcan Materials,Materials,98.06,0.39,77.46,1.27,32.73,61.45,106.84,13.07,0.74622,4.14,3.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VMC
+WMT,Wal-Mart Stores,Consumer Staples,58.68,3.27,12.56,4.67,24.79,56.30,90.97,188.36,34.73,0.39,2.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMT
+WBA,Walgreens Boots Alliance,Consumer Staples,81.98,1.71,20.50,4.00,28.32,66.76,97.30,89.26,6.87,0.88,2.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBA
+DIS,Walt Disney Co,Consumer Discretionary,111.7362,1.1500,22.8033,4.9000,26.1910,90.0000,122.0800,189.95,15.58,3.6939,4.3526,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS
+WM,Waste Management,Industrials,51.915,2.860,22.252,2.333,11.725,45.860,55.930,23.18,3.43,1.817,4.564,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WM
+WAT,Waters Corp,Health Care,127.31,0.00,22.70,5.61,24.11,110.85,137.39,10.40,0.6649299999999999,5.24,5.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WAT
+WEC,WEC Energy Group,Utilities,48.175,3.710,20.720,2.325,27.337,44.930,58.010,15.21,1.68,2.899,1.781,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WEC
+WFC,Wells Fargo,Financials,54.2262,2.7200,13.0981,4.1400,33.7120,47.7500,58.7700,276.98,0.00,3.3565,1.6338,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
+HCN,Welltower,Financials,62.604,5.220,24.531,2.552,38.637,58.190,84.880,22.15,1.83,6.190,1.642,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCN
+WDC,Western Digital,Information Technology,63.09,3.24,11.21,5.63,40.42,60.12,114.69,14.62,2.71,1.03,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
+WU,Western Union,Information Technology,18.625,3.290,11.490,1.621,2.662,16.730,22.840,9.41,1.40,1.735,7.111,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WU
+WRK,WestRock Co ,Materials,50.16,2.98,17.14,2.93,44.12,46.29,66.40,13.25,1.78,1.17,1.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WRK
+WY,Weyerhaeuser Co,Financials,31.335,3.850,28.801,1.088,9.518,26.730,37.040,16.00,1.52,2.272,3.337,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
+WHR,Whirlpool Corp,Consumer Discretionary,155.335,2.160,18.155,8.556,62.346,140.500,217.110,12.15,2.05,0.592,2.589,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WHR
+WFM,Whole Foods Market,Consumer Staples,29.915,1.850,20.213,1.480,10.803,28.730,57.570,10.21,1.40,0.665,2.775,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFM
+WMB,WilliamsCompanies,Energy,33.78,7.08,75.91,0.44,9.86,33.48,61.38,25.33,2.97,3.54,3.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMB
+WYN,Wyndham Worldwide,Consumer Discretionary,74.18,2.21,16.22,4.57,8.76,69.77,94.35,8.60,1.24,1.62,8.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYN
+WYNN,Wynn Resorts,Consumer Discretionary,64.02,3.19,33.36,1.92,-1.75,50.96,168.86,6.48,1.07,1.62,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYNN
+XEL,Xcel Energy,Utilities,34.54,3.59,18.03,1.92,20.79,31.76,38.35,17.53,3.16,1.58,1.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEL
+XRX,Xerox Corp,Information Technology,10.33,2.63,33.65,0.31,9.00,9.17,14.36,10.46,1.69,0.57,1.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRX
+XLNX,Xilinx,Information Technology,48.25,2.50,22.55,2.14,10.13,37.20,50.72,12.40,0.77639,5.63,4.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XLNX
+XL,XL Group Plc,Financials,38.20,2.10,9.62,3.97,39.88,25.56,40.41,11.37,1.47,1.37,0.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XL
+XYL,Xylem,Industrials,36.56,1.50,20.76,1.76,11.39,29.90,39.23,6.56,0.598,1.79,3.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
+YHOO,Yahoo,Information Technology,34.16,,136.64,0.25,29.94,27.20,51.68,32.26,0.47708,6.80,1.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YHOO
+YUM,Yum Brands,Consumer Discretionary,73.16,2.52,34.95,2.09,4.23,66.35,95.90,31.55,2.79,2.46,17.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
+ZBH,Zimmer Biomet Holdings,Health Care,99.31,0.87,103.77,0.96,49.05,88.77,121.84,20.24,2.09,3.94,2.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
+ZION,Zions Bancorp,Financials,29.46,0.80,26.93,1.09,32.47,23.72,33.03,6.02,0.00,2.98,0.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZION
+ZTS,Zoetis,Health Care,45.05,0.71,51.19,0.88,2.47,37.73,55.38,22.43,1.43,4.80,18.80,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
