@@ -1,5 +1,4 @@
 Symbol,Name,Sector
-MMM,3M Co,Industrials
 ABT,Abbott Laboratories,Health Care
 ABBV,AbbVie,Health Care
 ACN,Accenture Plc,Information Technology
@@ -52,6 +51,7 @@ ADSK,Autodesk,Information Technology
 ADP,Automatic Data Processing,Information Technology
 AN,AutoNation,Consumer Discretionary
 AZO,AutoZone,Consumer Discretionary
+AVGO,Avago Technologies,Information Technology
 AVB,AvalonBay Communities,Financials
 AVY,Avery Dennison Corp,Materials
 BHI,Baker Hughes,Energy
@@ -74,6 +74,7 @@ BXP,Boston Properties,Financials
 BSX,Boston Scientific,Health Care
 BMY,Bristol-Myers Squibb,Health Care
 BRCM,Broadcom Corp,Information Technology
+BF-B,Brown-Forman,Consumer Staples
 CHRW,C.H. Robinson Worldwide,Industrials
 CA,CA,Information Technology
 CVC,Cablevision Systems,Consumer Discretionary
@@ -130,6 +131,7 @@ DHI,D.R.Horton,Consumer Discretionary
 DHR,Danaher Corp,Industrials
 DRI,Darden Restaurants,Consumer Discretionary
 DVA,DaVita HealthCare Partner,Health Care
+DE,Deere & Co,Industrials
 DLPH,Delphi Automotive Plc,Consumer Discretionary
 DAL,Delta Air Lines,Industrials
 XRAY,DENTSPLY International,Health Care
@@ -137,6 +139,7 @@ DVN,Devon Energy,Energy
 DO,Diamond Offshore Drilling,Energy
 DFS,Discover Financial Services,Financials
 DISCA,Discovery Communications,Consumer Discretionary
+DG,Dollar General,Consumer Discretionary
 DLTR,Dollar Tree,Consumer Discretionary
 D,Dominion Resources,Utilities
 DOV,Dover Corp,Industrials
@@ -253,6 +256,7 @@ KMI,Kinder Morgan,Energy
 KLAC,KLA-Tencor Corp,Information Technology
 KSS,Kohl's Corp,Consumer Discretionary
 KHC,Kraft Heinz,Consumer Staples
+KR,Kroger Co,Consumer Staples
 LB,L Brands,Consumer Discretionary
 LLL,L-3 Communications Holdings,Industrials
 LH,Laboratory Corp American Holdings,Health Care
@@ -286,6 +290,7 @@ MCD,McDonald's Corp,Consumer Discretionary
 MHFI,McGraw Hill Financial,Financials
 MCK,McKesson Corp,Health Care
 MJN,Mead Johnson Nutrition,Consumer Staples
+MDT,Medtronic Plc,Health Care
 MRK,Merck & Co,Health Care
 MET,MetLife,Financials
 KORS,Michael Kors Holdings,Consumer Discretionary
@@ -363,6 +368,7 @@ PRU,Prudential Financial,Financials
 PSA,Public Storage,Financials
 PEG,Public Svc Enterprises,Utilities
 PHM,PulteGroup,Consumer Discretionary
+PVH,PVH Corp,Consumer Discretionary
 QRVO,Qorvo,Information Technology
 QCOM,QUALCOMM,Information Technology
 PWR,Quanta Services,Industrials
