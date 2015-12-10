@@ -256,7 +256,7 @@ KMI,Kinder Morgan,Energy,16.81,12.42,31.90,0.53,15.94,15.06,44.71,37.51,6.43,2.3
 KLAC,KLA-Tencor Corp,Information Technology,67.58,3.08,27.34,2.47,1.89,44.95,73.12,10.54,0.83499,3.81,36.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC
 KSS,Kohl's Corp,Consumer Discretionary,47.13,3.79,12.52,3.76,28.66,41.86,79.60,8.95,2.58,0.47,1.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KSS
 KHC,Kraft Heinz,Consumer Staples,70.90,3.22,,-0.55,48.48,61.42,81.20,86.03,3.15,6.19,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KHC
-KR,Kroger Co,Consumer Staples,41.25,1.01,20.41,2.02,6.47,27.32,41.68,39.85,5.69,0.37,6.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR
+KR,Kroger Co,Consumer Staples,41.25,1.01,20.41,1.94,6.47,27.32,41.68,39.85,5.69,0.37,6.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR
 LB,L Brands,Consumer Discretionary,97.64,2.04,24.51,3.98,-2.26,75.11,101.11,28.26,2.52,2.40,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LB
 LLL,L-3 Communications Holdings,Industrials,120.61,2.07,77.22,1.56,58.02,101.11,132.92,9.45,1.22,0.84,2.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLL
 LH,Laboratory Corp American Holdings,Health Care,122.88,0.00,26.78,4.59,48.55,99.89,131.19,12.44,1.57,1.63,2.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LH
@@ -272,7 +272,7 @@ LLTC,Linear Technology Corp,Information Technology,43.74,2.67,21.34,2.05,6.63,36
 LMT,Lockheed Martin,Industrials,217.54,3.01,19.30,11.27,9.15,181.91,227.91,66.85,5.95,1.47,23.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LMT
 L,Loews Corp,Financials,37.20,0.65,20.60,1.81,52.52,34.40,42.89,13.18,3.19,0.99,0.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=L
 LOW,Lowe'sCompanies,Consumer Discretionary,76.12,1.47,24.15,3.15,9.14,64.07,78.13,69.66,6.95,1.21,8.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LOW
-LYB,LyondellBasell Industries,Materials,88.83,3.24,9.53,9.32,16.18,70.06,107.32,39.92,7.13,1.09,5.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LYB
+LYB,LyondellBasell Industries,Materials,88.83,3.45,9.53,9.32,16.18,70.06,107.32,39.92,7.13,1.09,5.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LYB
 MTB,M&T Bank,Financials,120.98,2.23,16.18,7.48,87.69,111.50,134.00,16.13,0.00,3.74,1.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MTB
 MAC,Macerich Co,Financials,78.24,3.44,8.17,9.58,34.24,71.98,95.93,12.39,0.80068,9.38,2.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAC
 M,Macy's,Consumer Discretionary,38.15,3.74,9.88,3.86,12.63,37.75,73.61,11.99,3.71,0.44,3.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=M
@@ -290,7 +290,7 @@ MCD,McDonald's Corp,Consumer Discretionary,116.58,3.06,25.24,4.62,9.05,87.50,117
 MHFI,McGraw Hill Financial,Financials,94.45,1.36,408.87,0.23,2.43,84.64,109.13,25.53,2.17,4.96,39.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHFI
 MCK,McKesson Corp,Health Care,187.06,0.59,24.47,7.64,38.19,160.10,243.61,43.04,4.21,0.23,4.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCK
 MJN,Mead Johnson Nutrition,Consumer Staples,79.05,2.06,23.53,3.36,1.78,69.20,105.45,15.58,1.07,3.72,44.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MJN
-MDT,Medtronic Plc,Health Care,77.56,1.95,44.32,2.15,36.99,55.54,79.50,109.58,7.83,4.27,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDT
+MDT,Medtronic Plc,Health Care,77.56,1.95,44.32,1.75,36.99,55.54,79.50,109.58,7.83,4.27,2.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDT
 MRK,Merck & Co,Health Care,52.82,3.43,14.01,3.77,16.27,45.69,63.62,147.55,14.57,3.76,3.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK
 MET,MetLife,Financials,48.59,2.99,9.42,5.16,63.24,44.49,58.23,54.01,10.07,0.76,0.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MET
 KORS,Michael Kors Holdings,Consumer Discretionary,41.94,,9.81,4.27,10.27,36.63,78.55,7.69,1.36,1.71,4.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KORS
