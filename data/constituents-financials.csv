@@ -99,7 +99,7 @@ CMG,Chipotle Mexican Grill,Consumer Discretionary,548.01,,32.70,16.76,76.99,515.
 CB,Chubb Corp,Financials,130.83,1.72,15.07,8.68,72.10,94.35,132.57,29.71,3.03,2.14,1.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CB
 CI,Cigna Corp,Health Care,137.12,0.03,16.78,8.17,45.73,99.88,170.68,35.32,3.99,0.95,3.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CI
 XEC,Cimarex Energy,Energy,104.18,0.60,,-18.72,36.31,91.74,132.18,9.85,0.9786,5.91,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEC
-CINF,Cincinnati Financial,Financials,60.22,2.99,15.44,3.90,38.77,49.68,61.59,9.87,1.01,1.95,1.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CINF
+CINF,Cincinnati Financial,Financials,60.22,3.00,15.44,3.90,38.77,49.68,61.59,9.87,1.01,1.95,1.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CINF
 CTAS,Cintas Corp,Industrials,91.23,1.14,25.46,3.58,16.80,70.61,94.35,9.85,0.87362,2.18,5.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTAS
 CSCO,Cisco Systems,Information Technology,26.73,3.06,14.22,1.88,11.80,23.03,30.31,135.68,13.67,2.78,2.30,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSCO
 C,Citigroup,Financials,52.81,0.37,11.92,4.43,69.03,46.60,60.95,157.32,0.00,2.31,0.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C
@@ -256,7 +256,7 @@ KMI,Kinder Morgan,Energy,16.81,12.42,31.90,0.53,15.94,15.06,44.71,37.51,6.43,2.3
 KLAC,KLA-Tencor Corp,Information Technology,67.58,3.08,27.34,2.47,1.89,44.95,73.12,10.54,0.83499,3.81,36.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC
 KSS,Kohl's Corp,Consumer Discretionary,47.13,3.79,12.52,3.76,28.66,41.86,79.60,8.95,2.58,0.47,1.65,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KSS
 KHC,Kraft Heinz,Consumer Staples,70.90,3.22,,-0.55,48.48,61.42,81.20,86.03,3.15,6.19,1.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KHC
-KR,Kroger Co,Consumer Staples,41.25,1.01,20.41,1.94,6.47,27.32,41.68,39.85,5.69,0.37,6.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR
+KR,Kroger Co,Consumer Staples,41.25,1.01,20.41,2.02,6.47,27.32,41.68,39.85,5.69,0.37,6.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR
 LB,L Brands,Consumer Discretionary,97.64,2.04,24.51,3.98,-2.26,75.11,101.11,28.26,2.52,2.40,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LB
 LLL,L-3 Communications Holdings,Industrials,120.61,2.07,77.22,1.56,58.02,101.11,132.92,9.45,1.22,0.84,2.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLL
 LH,Laboratory Corp American Holdings,Health Care,122.88,0.00,26.78,4.59,48.55,99.89,131.19,12.44,1.57,1.63,2.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LH
