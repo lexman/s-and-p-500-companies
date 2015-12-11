@@ -92,7 +92,7 @@ CELG,Celgene Corp,Health Care,112.42,,56.44,1.99,6.83,92.98,140.72,88.32,2.87,9.
 CNP,CenterPoint Energy,Utilities,16.14,6.06,,-0.02,9.43,16.07,24.38,6.94,1.88,0.89,1.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CNP
 CTL,CenturyLink,Telecommunication Services,25.99,8.14,19.99,1.30,25.72,24.11,40.85,14.27,6.66,0.81,1.03,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTL
 CERN,Cerner Corp,Health Care,60.11,,40.61,1.48,11.22,55.82,75.72,20.56,1.13,5.00,5.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CERN
-CF,CF Industries Holdings,Materials,42.24,2.77,11.10,3.81,17.64,41.83,70.32,9.85,1.90,2.28,2.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CF
+CF,CF Industries Holdings,Materials,42.24,2.85,11.10,3.81,17.64,41.83,70.32,9.85,1.90,2.28,2.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CF
 CHK,Chesapeake Energy,Energy,4.56,0.00,,-33.88,1.84,4.03,21.49,3.03,3.63,0.22,2.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CHK
 CVX,Chevron Corp,Energy,89.30,4.95,19.39,4.61,82.31,69.58,114.45,168.07,21.64,1.21,1.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVX
 CMG,Chipotle Mexican Grill,Consumer Discretionary,575.43,,34.33,16.76,76.99,515.00,758.61,17.95,0.98378,3.74,7.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMG
@@ -136,7 +136,7 @@ DLPH,Delphi Automotive Plc,Consumer Discretionary,84.42,1.16,15.31,5.51,8.25,66.
 DAL,Delta Air Lines,Industrials,51.28,1.07,14.76,3.47,13.13,34.61,52.00,40.41,7.81,0.96,3.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DAL
 XRAY,DENTSPLY International,Health Care,60.87,0.47,31.36,1.94,16.31,49.42,63.45,8.51,0.56698,3.13,3.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRAY
 DVN,Devon Energy,Energy,35.51,2.73,,-25.41,28.10,33.52,70.48,14.59,-8.71,1.05,1.26,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVN
-DO,Diamond Offshore Drilling,Energy,20.49,2.39,40.18,0.51,31.91,16.51,40.00,2.81,1.09,1.11,0.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
+DO,Diamond Offshore Drilling,Energy,20.49,2.47,40.18,0.51,31.91,16.51,40.00,2.81,1.09,1.11,0.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
 DFS,Discover Financial Services,Financials,54.27,2.04,11.21,4.84,25.01,50.20,66.72,23.20,0.00,3.26,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DFS
 DISCA,Discovery Communications,Consumer Discretionary,28.39,,17.55,1.62,8.73,25.02,35.78,12.73,2.48,1.99,3.26,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DISCA
 DG,Dollar General,Consumer Discretionary,71.14,1.24,18.59,3.83,18.37,59.75,81.42,20.70,2.26,1.03,3.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DG
@@ -178,7 +178,7 @@ XOM,Exxon Mobil,Energy,75.69,3.80,15.99,4.73,41.01,66.55,95.18,315.09,37.45,1.19
 FFIV,F5 Networks,Information Technology,99.06,,19.69,5.03,18.77,98.85,136.11,6.97,0.59488,3.68,5.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FFIV
 FB,Facebook Cl,Information Technology,105.42,,105.84,1.00,14.72,72.00,110.65,298.13,6.66,18.56,7.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FB
 FAST,Fastenal Co,Industrials,40.15,2.79,22.57,1.78,6.16,34.45,48.43,11.63,0.91743,3.01,6.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FAST
-FDX,FedEx Corp,Industrials,148.49,0.67,39.12,3.80,54.12,130.13,185.19,41.93,7.22,0.86,2.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FDX
+FDX,FedEx Corp,Industrials,148.49,0.66,39.12,3.80,54.12,130.13,185.19,41.93,7.22,0.86,2.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FDX
 FIS,Fidelity National Information Services,Information Technology,62.88,1.64,24.93,2.52,23.14,59.71,73.60,17.74,1.66,2.79,2.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FIS
 FITB,Fifth Third Bancorp,Financials,20.065,2.600,12.153,1.651,18.223,17.140,21.930,15.94,0.00,2.727,1.084,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
 FSLR,First Solar,Information Technology,54.35,,9.59,5.67,53.40,39.18,65.50,5.49,0.84235,1.63,1.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FSLR
