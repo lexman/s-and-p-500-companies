@@ -222,7 +222,7 @@ HCA,HCA Holdings,Health Care,65.46,0.00,13.69,4.78,-17.68,43.91,95.49,26.69,7.69
 HCP,HCP,Financials,35.88,6.35,71.90,0.50,21.89,32.71,49.61,16.69,1.79,6.67,1.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCP
 HP,Helmerich & Payne,Energy,51.96,5.35,13.43,3.87,45.44,46.16,79.90,5.60,1.31,1.75,1.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HP
 HSY,Hershey Co,Consumer Staples,89.91,2.67,39.73,2.26,4.10,82.41,111.35,19.49,1.70,2.53,21.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSY
-HES,Hess Corp,Energy,50.12,1.98,,-4.36,75.24,47.84,79.00,14.21,3.13,1.86,0.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HES
+HES,Hess Corp,Energy,49.87,1.98,,-4.36,75.24,47.84,79.00,14.14,3.13,1.86,0.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HES
 HPQ,Hewlett-Packard,Information Technology,12.16,4.06,4.90,2.48,15.41,11.04,18.66,21.91,12.20,0.21,0.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HPQ
 HD,Home Depot,Consumer Discretionary,132.01,1.81,24.77,5.33,6.01,92.17,135.47,167.37,13.14,1.91,21.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HD
 HON,Honeywell International,Industrials,98.98,2.42,17.34,5.71,23.04,87.00,107.41,76.28,7.22,1.95,4.26,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON
@@ -440,7 +440,7 @@ TWX,Time Warner,Consumer Discretionary,64.26,2.14,14.62,4.39,29.45,63.54,91.34,5
 TWC,Time Warner Cable,Consumer Discretionary,178.81,1.66,26.74,6.69,30.88,134.21,194.22,50.64,7.83,2.18,5.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TWC
 TJX,TJX Companies,Consumer Discretionary,70.93,1.19,21.60,3.28,6.50,63.53,76.93,47.49,4.27,1.56,10.86,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TJX
 TMK,Torchmark Corp,Financials,57.28,0.92,13.59,4.21,34.62,49.77,63.26,7.06,0.86021,1.79,1.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMK
-TSS,Total System Services,Information Technology,54.89,0.74,28.15,1.95,10.19,32.15,56.69,10.10,0.65396,3.67,5.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSS
+TSS,Total System Services,Information Technology,54.79,0.74,28.10,1.95,10.19,32.15,56.69,10.08,0.65396,3.67,5.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSS
 TSCO,Tractor Supply,Consumer Discretionary,88.22,0.91,29.48,2.99,9.93,74.52,96.28,11.85,0.77578,1.92,8.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSCO
 RIG,Transocean Ltd,Energy,12.64,0.00,,-1.55,37.72,11.26,21.90,4.60,3.21,0.60,0.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RIG
 TRV,TravelersCompanies,Financials,111.03,2.22,9.94,11.17,79.00,95.21,116.48,33.78,6.19,1.24,1.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRV
@@ -479,7 +479,7 @@ WEC,WEC Energy Group,Utilities,49.54,4.08,21.31,2.33,27.34,44.93,58.01,15.64,1.6
 WFC,Wells Fargo,Financials,53.20,2.81,12.85,4.14,33.71,47.75,58.77,271.74,0.00,3.25,1.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
 HCN,Welltower,Financials,63.54,5.22,24.90,2.55,38.64,58.19,84.88,22.49,1.83,6.17,1.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCN
 WDC,Western Digital,Information Technology,59.375,3.220,10.550,5.628,40.416,59.060,114.690,13.76,2.71,1.028,1.536,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
-WU,Western Union,Information Technology,18.14,3.39,11.19,1.62,2.66,16.73,22.84,9.17,1.40,1.68,6.87,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WU
+WU,Western Union,Information Technology,17.985,3.390,11.095,1.621,2.662,16.730,22.840,9.09,1.40,1.675,6.867,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WU
 WRK,WestRock Co ,Materials,44.15,3.28,15.07,2.93,45.75,43.90,66.40,11.24,1.84,1.02,1.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WRK
 WY,Weyerhaeuser Co,Financials,30.01,4.07,27.58,1.09,9.52,26.73,37.04,15.32,1.52,2.18,3.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
 WHR,Whirlpool Corp,Consumer Discretionary,144.03,2.46,16.83,8.56,62.35,140.50,217.11,11.26,2.05,0.54,2.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WHR
