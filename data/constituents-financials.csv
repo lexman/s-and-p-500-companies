@@ -137,7 +137,7 @@ DLPH,Delphi Automotive Plc,Consumer Discretionary,83.46,1.20,15.14,5.51,8.25,66.
 DAL,Delta Air Lines,Industrials,51.03,1.06,14.69,3.47,13.13,34.61,52.77,40.21,7.81,1.01,3.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DAL
 XRAY,DENTSPLY International,Health Care,60.26,0.48,31.05,1.94,16.31,49.42,63.45,8.43,0.56698,3.11,3.71,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XRAY
 DVN,Devon Energy,Energy,28.98,3.01,,-25.41,28.10,28.00,70.48,11.91,-8.71,0.91,1.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DVN
-DO,Diamond Offshore Drilling,Energy,21.17,2.29,41.51,0.51,31.91,16.51,40.00,2.90,1.09,1.21,0.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
+DO,Diamond Offshore Drilling,Energy,21.17,2.40,41.51,0.51,31.91,16.51,40.00,2.90,1.09,1.21,0.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
 DFS,Discover Financial Services,Financials,53.88,2.08,11.13,4.84,25.01,50.20,66.72,23.03,0.00,3.31,2.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DFS
 DISCA,Discovery Communications,Consumer Discretionary,26.48,,16.37,1.62,8.73,25.02,35.78,11.87,2.48,1.90,3.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DISCA
 DG,Dollar General,Consumer Discretionary,71.54,1.24,18.69,3.83,18.37,59.75,81.42,20.81,2.26,1.04,3.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DG
@@ -395,7 +395,7 @@ CRM,salesforce.com inc,Information Technology,78.43,,,-0.13,7.15,54.95,82.90,52.
 SNDK,SanDisk Corp,Information Technology,74.83,1.59,36.17,2.07,28.07,44.28,101.87,15.02,1.48,2.64,2.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNDK
 SCG,SCANA Corp,Utilities,61.43,3.67,11.66,5.27,37.92,49.89,65.57,8.78,1.53,1.88,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCG
 HSIC,Schein (Henry),Health Care,155.20,,27.21,5.70,35.25,126.17,160.00,12.87,0.9172,1.23,4.39,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HSIC
-SLB,Schlumberger Ltd,Energy,69.20,2.78,26.21,2.64,30.09,66.57,95.13,87.27,11.21,2.22,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB
+SLB,Schlumberger Ltd,Energy,69.20,2.86,26.21,2.64,30.09,66.57,95.13,87.27,11.21,2.22,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB
 SCHW,Schwab(Charles)Corp,Financials,33.21,0.72,33.55,0.99,8.92,25.43,35.72,43.72,0.00,7.19,3.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCHW
 SNI,Scripps Networks Interact,Consumer Discretionary,54.28,1.72,12.53,4.33,11.51,47.62,79.64,6.98,1.28,2.50,4.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNI
 STX,Seagate Technology Plc,Information Technology,33.92,7.36,7.88,4.31,6.43,32.38,69.40,10.14,1.98,0.81,5.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STX
@@ -481,7 +481,7 @@ HCN,Welltower,Financials,66.01,5.11,25.87,2.55,38.64,58.19,84.88,23.36,1.83,6.46
 WDC,Western Digital,Information Technology,59.40,3.29,10.55,5.63,40.42,59.06,114.69,13.76,2.71,1.01,1.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
 WU,Western Union,Information Technology,18.13,3.43,11.18,1.62,2.66,16.73,22.84,9.16,1.40,1.70,6.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WU
 WRK,WestRock Co ,Materials,44.87,3.44,15.31,2.93,45.75,42.75,66.40,11.43,1.84,1.01,0.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WRK
-WY,Weyerhaeuser Co,Financials,30.64,4.12,28.16,1.09,9.52,26.73,37.04,15.64,1.52,2.21,3.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
+WY,Weyerhaeuser Co,Financials,30.64,4.13,28.16,1.09,9.52,26.73,37.04,15.64,1.52,2.21,3.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
 WHR,Whirlpool Corp,Consumer Discretionary,147.03,2.48,17.18,8.56,62.35,140.50,217.11,11.50,2.05,0.56,2.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WHR
 WFM,Whole Foods Market,Consumer Staples,33.38,1.64,22.55,1.48,10.80,28.73,57.57,11.39,1.40,0.75,3.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFM
 WMB,WilliamsCompanies,Energy,23.70,9.91,53.26,0.44,9.86,23.57,61.38,17.77,2.97,2.58,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMB
