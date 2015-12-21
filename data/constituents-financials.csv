@@ -140,7 +140,7 @@ DVN,Devon Energy,Energy,28.67,3.35,,-25.41,28.10,28.00,70.48,11.78,-8.71,0.86,1.
 DO,Diamond Offshore Drilling,Energy,20.47,2.44,40.14,0.51,31.91,16.51,40.00,2.81,1.09,1.17,0.66,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DO
 DFS,Discover Financial Services,Financials,52.44,2.14,10.83,4.84,25.01,50.20,66.72,22.42,0.00,3.25,2.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DFS
 DISCA,Discovery Communications,Consumer Discretionary,26.22,,16.21,1.62,8.73,25.02,35.74,11.75,2.48,1.85,3.03,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DISCA
-DG,Dollar General,Consumer Discretionary,71.54,1.23,18.69,3.83,18.37,59.75,81.42,20.81,2.26,1.04,3.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DG
+DG,Dollar General,Consumer Discretionary,71.32,1.23,18.64,3.83,18.37,59.75,81.42,20.75,2.26,1.04,3.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DG
 DLTR,Dollar Tree,Consumer Discretionary,76.09,,63.41,1.20,17.64,60.31,84.22,17.87,1.50,1.43,4.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLTR
 D,Dominion Resources,Utilities,66.90,3.87,22.20,3.01,21.15,64.54,80.89,39.83,5.30,3.33,3.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=D
 DOV,Dover Corp,Industrials,58.50,2.87,10.53,5.56,23.01,55.50,78.21,9.07,1.38,1.27,2.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOV
@@ -186,7 +186,7 @@ FSLR,First Solar,Information Technology,63.41,,11.18,5.67,53.40,39.18,66.65,6.40
 FE,FirstEnergy Corp,Utilities,31.01,4.64,26.37,1.18,29.85,28.89,41.68,13.12,3.23,0.92,1.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FE
 FISV,Fiserv,Information Technology,91.46,,31.32,2.92,12.50,69.13,97.76,20.90,1.60,4.08,7.43,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FISV
 FLIR,FLIR Systems,Information Technology,27.98,1.57,16.34,1.71,11.76,25.12,34.46,3.86,0.35118,2.53,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLIR
-FLS,Flowserve Corp,Industrials,40.66,1.77,15.45,2.63,12.96,39.47,64.41,5.32,0.82068,1.15,3.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLS
+FLS,Flowserve Corp,Industrials,40.48,1.77,15.39,2.63,12.96,39.47,64.41,5.30,0.82068,1.15,3.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLS
 FLR,Fluor Corp,Industrials,45.74,1.84,10.11,4.52,21.53,40.61,62.26,6.48,1.22,0.34,2.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FLR
 FMC,FMC Corp,Materials,37.93,1.76,6.59,5.76,15.82,32.58,64.72,5.07,0.7664,1.24,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FMC
 FTI,FMC Technologies,Energy,28.35,,13.11,2.16,10.98,27.94,48.75,6.46,1.13,0.93,2.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTI
@@ -351,7 +351,7 @@ PKI,PerkinElmer,Health Care,50.87,0.55,32.93,1.54,18.36,41.70,54.45,5.69,0.3552,
 PRGO,Perrigo,Health Care,144.33,0.35,142.48,1.01,73.31,140.40,215.73,21.13,1.45,4.29,2.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRGO
 PFE,Pfizer,Health Care,31.99,3.75,24.02,1.33,10.82,28.47,36.46,197.47,19.48,4.16,2.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE
 PCG,PG&E Corp,Utilities,53.11,3.43,29.33,1.81,33.80,47.33,60.21,26.05,4.13,1.56,1.59,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCG
-PM,Philip Morris International,Consumer Staples,86.92,4.69,18.70,4.65,-8.77,75.27,90.27,134.66,12.08,5.00,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PM
+PM,Philip Morris International,Consumer Staples,85.90,4.69,18.48,4.65,-8.77,75.27,90.27,133.08,12.08,5.00,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PM
 PSX,Phillips 66,Energy,80.56,2.78,9.41,8.56,43.48,57.33,94.12,42.97,5.81,0.44,1.88,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSX
 PNW,Pinnacle West Capital,Utilities,62.85,3.98,17.44,3.60,41.98,56.01,73.31,6.97,1.36,2.02,1.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNW
 PXD,Pioneer Natural Resources,Energy,121.28,0.07,23.32,5.20,60.08,105.83,181.97,18.12,2.25,5.93,2.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PXD
