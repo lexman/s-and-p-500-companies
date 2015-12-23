@@ -167,7 +167,7 @@ EOG,EOG Resources,Energy,69.81,0.94,,-6.96,24.17,68.15,101.36,38.38,4.98,3.72,2.
 EQT,EQT Corp,Energy,48.69,0.25,36.12,1.35,33.90,47.10,92.79,7.43,1.66,3.44,1.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQT
 EFX,Equifax,Industrials,111.64,1.06,32.63,3.42,18.83,79.62,113.82,13.23,0.9122,5.02,5.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EFX
 EQIX,Equinix,Financials,296.93,2.34,,-3.23,25.99,213.89,304.73,17.01,1.10,6.43,11.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX
-EQR,Equity Residential,Financials,80.03,2.77,33.30,2.40,28.67,61.90,82.53,29.15,1.75,10.78,2.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQR
+EQR,Equity Residential,Financials,79.4775,2.7700,33.0743,2.4030,28.6660,61.9000,82.5300,28.95,1.75,10.7780,2.7936,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQR
 ESS,Essex Property Trust,Financials,234.38,2.45,80.74,2.90,94.23,205.72,243.17,15.48,0.7810900000000001,13.10,2.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESS
 EL,Estee Lauder Co,Consumer Staples,88.65,1.37,29.07,3.05,9.42,70.38,91.68,32.73,2.10,2.97,9.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EL
 ES,Eversource Energy,Utilities,50.69,3.31,17.60,2.88,32.46,44.64,56.83,16.08,2.48,1.95,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ES
@@ -236,7 +236,7 @@ IR,Ingersoll-Rand Plc,Industrials,54.23,2.20,21.23,2.55,21.96,49.74,70.93,14.16,
 INTC,Intel Corp,Information Technology,34.73,2.83,14.93,2.33,12.07,24.87,37.74,163.89,23.32,2.93,2.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
 ICE,Intercontinental Exchange,Financials,250.09,1.23,23.53,10.63,112.18,202.24,266.74,28.77,2.12,8.72,2.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ICE
 IBM,International Bus. Machines,Information Technology,137.93,3.85,9.60,14.37,13.70,131.65,176.30,133.81,21.41,1.57,9.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM
-IFF,International Flavors/Fragr,Materials,119.51,1.93,22.60,5.29,19.81,97.59,123.08,9.59,0.6742100000000001,3.07,5.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IFF
+IFF,International Flavors/Fragr,Materials,118.95,1.93,22.49,5.29,19.81,97.59,123.08,9.55,0.6742100000000001,3.07,5.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IFF
 IP,International Paper,Materials,37.65,4.78,17.88,2.11,10.49,36.76,57.90,15.61,3.78,0.68,3.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IP
 IPG,Interpublic GroupCompanies,Consumer Discretionary,23.29,2.12,19.23,1.21,4.59,18.16,23.67,9.46,1.01,1.22,5.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IPG
 INTU,Intuit,Information Technology,97.21,1.26,65.42,1.49,3.98,79.63,109.21,25.66,1.17,5.88,24.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTU
@@ -401,7 +401,7 @@ SCHW,Schwab(Charles)Corp,Financials,32.90,0.75,33.23,0.99,8.92,25.43,35.72,43.31
 SNI,Scripps Networks Interact,Consumer Discretionary,54.71,1.71,12.63,4.33,11.51,47.62,79.54,7.03,1.28,2.44,4.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNI
 STX,Seagate Technology Plc,Information Technology,35.45,7.39,8.23,4.31,6.43,32.38,69.25,10.60,1.98,0.81,5.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STX
 SEE,Sealed Air,Materials,42.91,1.22,32.51,1.32,2.24,38.42,55.84,8.47,1.11,1.16,19.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SEE
-SRE,Sempra Energy,Utilities,93.92,2.97,18.46,5.09,46.79,89.44,116.30,23.33,3.03,2.28,2.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRE
+SRE,Sempra Energy,Utilities,93.22,2.97,18.32,5.09,46.79,89.44,116.30,23.16,3.03,2.28,2.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRE
 SHW,Sherwin-Williams,Materials,261.85,1.05,25.21,10.39,10.59,218.27,294.35,24.14,1.68,2.13,24.66,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SHW
 SIAL,Sigma-Aldrich,Materials,139.76,0.66,,4.09,0.00,135.33,140.03,,0.00,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SIAL
 SIG,Signet Jewelers,Consumer Discretionary,120.72,0.77,22.79,5.30,35.79,114.77,152.27,9.60,0.8872000000000001,1.40,3.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SIG
