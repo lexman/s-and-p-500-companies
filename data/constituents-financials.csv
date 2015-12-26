@@ -194,10 +194,10 @@ F,Ford Motor,Consumer Discretionary,14.31,4.23,11.97,1.20,6.92,10.44,16.74,56.79
 FOSL,Fossil Group,Consumer Discretionary,37.54,,6.12,6.13,18.08,30.65,112.74,1.81,0.54798,0.56,2.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FOSL
 BEN,Franklin Resources,Financials,36.97,2.01,11.24,3.29,19.62,34.62,57.44,22.24,3.10,2.81,1.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BEN
 FCX,Freeport-McMoRan,Materials,7.57,0.00,,-10.51,9.62,6.08,23.97,8.75,5.40,0.50,0.77,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FCX
-FTR,Frontier Communications,Telecommunication Services,4.86,9.03,,-0.14,5.01,4.19,8.46,5.68,2.28,1.03,0.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTR
+FTR,Frontier Communications,Telecommunication Services,4.86,8.66,,-0.14,5.01,4.19,8.46,5.68,2.28,1.03,0.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FTR
 GME,GameStop Corp,Consumer Discretionary,28.37,5.03,7.66,3.71,18.51,27.90,47.83,2.97,0.8222,0.32,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GME
 GPS,Gap,Consumer Discretionary,25.36,3.60,10.37,2.44,6.46,24.55,43.90,10.19,2.37,0.64,3.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GPS
-GRMN,Garmin Ltd,Consumer Discretionary,36.98,5.63,13.26,2.79,16.99,31.32,57.16,7.04,0.65965,2.47,2.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRMN
+GRMN,Garmin Ltd,Consumer Discretionary,36.98,5.53,13.26,2.79,16.99,31.32,57.16,7.04,0.65965,2.47,2.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GRMN
 GM,General Motors,Consumer Discretionary,34.60,4.20,12.69,2.73,21.65,24.62,38.99,53.84,13.45,0.36,1.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GM
 GD,Genl Dynamics,Industrials,139.84,1.97,15.95,8.77,33.90,130.91,153.76,44.28,4.66,1.38,4.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GD
 GE,Genl Electric,Industrials,30.83,3.02,,-0.73,11.00,19.37,31.23,311.67,28.42,2.13,2.81,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GE
@@ -423,9 +423,9 @@ STT,State Street Corp,Financials,67.14,2.05,15.68,4.28,46.55,63.97,81.26,27.09,0
 SRCL,Stericycle,Industrials,120.99,,38.78,3.12,31.98,110.56,151.57,10.28,0.7186699999999999,3.71,3.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRCL
 SYK,Stryker Corp,Health Care,94.36,1.64,30.75,3.07,22.59,89.81,105.34,35.43,2.64,3.59,4.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK
 STI,SunTrust Banks,Financials,43.36,2.24,12.80,3.39,43.57,36.52,45.84,22.22,0.00,2.82,0.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STI
-SYMC,Symantec Corp,Information Technology,20.86,2.92,21.48,0.97,8.66,19.07,27.32,14.09,1.73,2.29,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
+SYMC,Symantec Corp,Information Technology,20.86,2.88,21.48,0.97,8.66,19.07,27.32,14.09,1.73,2.29,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
 SYY,Sysco Corp,Consumer Staples,41.30,3.00,37.82,1.09,8.90,35.45,42.03,23.31,2.34,0.48,4.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYY
-TROW,T.Rowe Price Group,Financials,72.45,2.93,15.64,4.63,18.57,65.88,88.64,18.19,2.05,4.38,3.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
+TROW,T.Rowe Price Group,Financials,72.45,2.86,15.64,4.63,18.57,65.88,88.64,18.19,2.05,4.38,3.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
 TGT,Target Corp,Consumer Discretionary,73.17,3.08,,-1.11,21.43,68.15,85.81,45.08,7.41,0.61,3.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
 TEL,TE Connectivity,Information Technology,65.29,2.05,11.09,5.89,24.33,54.32,73.73,25.22,2.61,2.06,2.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
 TE,TECO Energy,Utilities,26.72,3.39,46.96,0.57,10.89,17.60,27.23,6.29,0.8959,2.27,2.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE
