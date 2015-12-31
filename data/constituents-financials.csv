@@ -12,7 +12,7 @@ AES,AES Corp,Utilities,9.50,4.74,11.28,0.84,5.29,8.76,14.02,6.39,3.86,0.41,1.82,
 AET,Aetna,Health Care,108.93,0.92,16.70,6.52,45.51,87.25,134.40,37.98,5.22,0.64,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AET
 AMG,Affiliated Managers Group,Financials,160.74,,16.89,9.52,49.24,141.68,230.63,8.69,0.9829,3.47,3.30,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMG
 AFL,AFLAC,Financials,60.52,2.77,10.59,5.71,40.36,51.41,66.53,25.83,4.34,1.24,1.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AFL
-A,Agilent Technologies,Health Care,42.17,1.12,35.14,1.20,12.57,33.12,43.59,14.01,0.781,3.48,3.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=A
+A,Agilent Technologies,Health Care,42.055,1.120,35.046,1.200,12.572,33.120,43.590,13.97,0.781,3.485,3.369,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=A
 GAS,AGL Resources,Utilities,63.82,3.25,19.41,3.29,32.17,46.36,63.99,7.67,1.26,1.73,1.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GAS
 APD,Air Products & Chemicals,Materials,132.26,2.46,22.49,5.88,33.66,123.66,158.20,28.49,2.83,2.88,3.93,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APD
 ARG,Airgas,Materials,138.54,1.74,28.62,4.84,26.64,86.09,139.22,9.98,0.97741,1.87,5.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARG
@@ -116,7 +116,7 @@ CL,Colgate-Palmolive,Consumer Staples,67.53,2.28,25.00,2.70,0.28,50.84,71.56,60.
 CPGX,Columbia Pipeline Group,Energy,19.49,2.58,23.31,0.84,8.17,16.95,33.00,6.19,0.5502,4.77,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CPGX
 CMCSA,Comcast Corp,Consumer Discretionary,56.71,1.75,17.79,3.19,21.05,50.00,64.99,139.35,24.54,1.94,2.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMCSA
 CMA,Comerica,Financials,41.98,2.04,13.95,3.01,43.01,39.52,53.45,7.42,0.00,2.89,0.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMA
-CSC,Computer Sciences,Information Technology,33.12,1.74,217.89,0.15,21.79,24.77,33.66,4.60,0.964,0.41,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSC
+CSC,Computer Sciences,Information Technology,32.98,1.74,216.97,0.15,21.79,24.77,33.66,4.58,0.964,0.41,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSC
 CAG,ConAgra Foods,Consumer Staples,42.59,2.41,,-4.06,8.10,33.45,45.49,18.48,2.14,1.17,5.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAG
 COP,ConocoPhillips,Energy,46.60,6.40,,-0.83,35.81,41.10,70.11,57.53,8.80,1.65,1.33,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COP
 CNX,CONSOL Energy,Energy,7.78,0.50,,-1.45,20.66,6.30,34.56,1.78,0.9874400000000001,0.64,0.40,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CNX
