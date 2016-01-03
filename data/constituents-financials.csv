@@ -123,7 +123,7 @@ CNX,CONSOL Energy,Energy,7.90,0.49,,-1.45,20.66,6.30,34.56,1.81,0.98744000000000
 ED,Consolidated Edison,Utilities,64.27,3.99,17.23,3.73,44.49,56.86,72.25,18.84,3.39,1.51,1.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ED
 STZ,Constellation Brands,Consumer Staples,142.44,0.86,,4.83,0.00,142.27,144.31,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STZ
 GLW,Corning,Information Technology,18.28,2.60,11.95,1.53,14.95,15.42,25.16,21.62,2.90,2.36,1.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLW
-COST,Costco Wholesale,Consumer Staples,161.50,0.99,30.24,5.34,24.67,117.03,169.73,71.02,4.77,0.61,6.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COST
+COST,Costco Wholesale,Consumer Staples,161.50,0.98,30.24,5.34,24.67,117.03,169.73,71.02,4.77,0.61,6.60,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COST
 CCI,Crown Castle International,Financials,86.45,4.02,19.43,4.45,21.74,75.78,89.44,28.79,2.10,7.64,4.00,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CCI
 CSX,CSX Corp,Industrials,25.95,2.77,12.91,2.01,11.94,24.47,37.67,25.30,4.89,2.07,2.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSX
 CMI,Cummins,Industrials,88.01,4.34,9.42,9.34,43.88,84.99,148.04,15.54,2.66,0.81,2.03,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMI
@@ -230,10 +230,10 @@ HRL,Hormel Foods,Consumer Staples,79.08,1.44,31.13,2.54,15.13,50.13,80.78,20.90,
 HST,Host Hotels & Resorts,Financials,15.34,5.02,17.80,0.86,9.43,15.10,24.19,11.53,1.39,2.20,1.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HST
 HUM,Humana,Health Care,178.51,0.65,20.51,8.70,69.85,137.45,219.79,26.46,2.70,0.50,2.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUM
 JBHT,Hunt(J.B.)Transport,Industrials,73.36,1.15,20.49,3.58,10.90,69.69,93.50,8.41,1.04,1.36,6.70,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
-HBAN,Huntington Bancshares,Financials,11.06,2.53,14.00,0.79,7.78,9.63,11.90,8.81,0.00,3.10,1.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBAN
+HBAN,Huntington Bancshares,Financials,11.06,2.51,14.00,0.79,7.78,9.63,11.90,8.81,0.00,3.10,1.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBAN
 ITW,Illinois Tool Works,Industrials,92.68,2.33,18.36,5.05,13.99,78.79,100.14,33.69,3.35,2.48,6.66,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ITW
 IR,Ingersoll-Rand Plc,Industrials,55.29,2.06,21.65,2.55,21.96,49.74,70.93,14.43,1.77,1.10,2.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IR
-INTC,Intel Corp,Information Technology,34.45,2.79,14.81,2.33,12.07,24.87,37.49,162.57,23.32,2.99,2.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
+INTC,Intel Corp,Information Technology,34.45,2.74,14.81,2.33,12.07,24.87,37.49,162.57,23.32,2.99,2.90,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
 ICE,Intercontinental Exchange,Financials,256.26,1.16,24.11,10.63,112.18,202.24,266.74,29.48,2.12,9.06,2.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ICE
 IBM,International Bus. Machines,Information Technology,137.62,3.72,9.58,14.37,13.70,131.65,176.30,133.51,21.41,1.61,10.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM
 IFF,International Flavors/Fragr,Materials,119.64,1.85,22.62,5.29,19.81,97.59,123.08,9.60,0.6742100000000001,3.16,6.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IFF
@@ -302,7 +302,7 @@ MU,Micron Technology,Information Technology,14.16,0.00,7.71,1.84,11.89,13.50,35.
 MSFT,Microsoft Corp,Information Technology,55.48,2.60,36.89,1.50,9.70,39.72,56.85,443.17,32.44,4.96,5.81,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT
 MHK,Mohawk Industries,Consumer Discretionary,189.39,,,49.90,64.25,151.15,212.16,14.00,1.33,1.75,2.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHK
 TAP,Molson Coors Brewing,Consumer Staples,93.92,1.73,41.56,2.26,39.17,63.91,95.74,17.33,0.6727000000000001,4.72,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TAP
-MDLZ,Mondelez International,Consumer Staples,44.84,1.52,8.74,5.13,18.77,33.97,48.58,71.26,4.83,2.33,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
+MDLZ,Mondelez International,Consumer Staples,44.84,1.49,8.74,5.13,18.77,33.97,48.58,71.26,4.83,2.33,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
 MON,Monsanto Co,Materials,98.52,2.18,20.49,4.81,14.94,81.22,126.00,43.33,4.73,2.90,6.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MON
 MNST,Monster Beverage,Consumer Staples,148.96,,51.70,2.88,22.96,106.77,160.50,30.20,0.9583200000000001,11.35,6.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNST
 MCO,Moody's Corp,Financials,100.34,1.46,21.50,4.67,-2.38,85.50,113.87,19.84,1.60,5.72,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCO
