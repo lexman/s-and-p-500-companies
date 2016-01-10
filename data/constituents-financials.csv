@@ -38,7 +38,7 @@ AME,AMETEK,Industrials,49.07,0.67,19.71,2.49,13.94,47.85,57.67,11.67,1.07,2.96,3
 AMGN,Amgen,Health Care,150.705,2.610,17.990,8.377,37.047,130.090,181.810,113.68,10.36,5.378,4.129,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMGN
 APH,Amphenol Corp A,Information Technology,46.63,1.07,19.50,2.39,10.20,46.50,60.54,14.37,1.29,2.62,4.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APH
 APC,Anadarko Petroleum,Energy,40.56,2.22,,-11.51,27.71,39.80,95.94,20.61,4.15,1.87,1.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APC
-ADI,Analog Devices,Information Technology,49.98,3.17,22.72,2.20,16.26,49.98,68.97,15.60,1.29,4.58,3.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
+ADI,Analog Devices,Information Technology,49.98,2.96,22.72,2.20,16.26,49.98,68.97,15.60,1.29,4.58,3.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
 ANTM,Anthem,Health Care,132.13,1.79,12.65,10.44,89.02,126.25,173.59,34.50,6.32,0.45,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
 AON,Aon Plc,Financials,87.02,1.30,19.91,4.37,21.48,86.38,107.08,23.84,2.51,2.08,4.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
 APA,Apache Corp,Energy,36.65,2.25,,-54.96,25.95,35.07,71.87,13.85,5.78,1.60,1.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
@@ -229,11 +229,11 @@ HON,Honeywell International,Industrials,98.43,2.30,17.24,5.71,23.04,87.00,107.41
 HRL,Hormel Foods,Consumer Staples,78.17,1.47,30.78,2.54,15.13,50.13,80.78,20.65,1.22,2.24,5.20,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRL
 HST,Host Hotels & Resorts,Financials,14.51,5.22,16.83,0.86,9.43,14.49,24.19,10.91,1.39,2.03,1.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HST
 HUM,Humana,Health Care,172.91,0.65,19.87,8.70,69.85,143.44,219.79,25.63,2.70,0.49,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUM
-JBHT,Hunt(J.B.)Transport,Industrials,68.19,1.17,19.04,3.58,10.90,68.05,93.50,7.81,1.04,1.28,6.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
+JBHT,Hunt(J.B.)Transport,Industrials,68.19,1.22,19.04,3.58,10.90,68.05,93.50,7.81,1.04,1.28,6.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
 HBAN,Huntington Bancshares,Financials,10.05,2.74,12.72,0.79,7.78,9.63,11.90,8.01,0.00,2.84,1.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBAN
 ITW,Illinois Tool Works,Industrials,84.02,2.37,16.65,5.05,13.99,78.79,100.14,30.54,3.35,2.26,6.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ITW
 IR,Ingersoll-Rand Plc,Industrials,51.31,2.10,20.09,2.55,21.96,49.74,70.93,13.39,1.77,1.02,2.36,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IR
-INTC,Intel Corp,Information Technology,31.51,2.84,13.55,2.33,12.07,24.87,37.49,148.70,23.32,2.72,2.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
+INTC,Intel Corp,Information Technology,31.51,3.02,13.55,2.33,12.07,24.87,37.49,148.70,23.32,2.72,2.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC
 ICE,Intercontinental Exchange,Financials,250.27,1.17,23.55,10.63,112.18,202.24,266.74,28.79,2.12,8.96,2.27,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ICE
 IBM,International Bus. Machines,Information Technology,131.63,3.78,9.16,14.37,13.70,131.32,176.30,127.70,21.41,1.54,9.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM
 IFF,International Flavors/Fragr,Materials,116.34,1.87,22.00,5.29,19.81,100.02,123.08,9.34,0.6742100000000001,3.05,5.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IFF
