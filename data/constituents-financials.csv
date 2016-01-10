@@ -287,7 +287,7 @@ MMC,Marsh & McLennan,Financials,52.95,2.24,18.85,2.81,11.97,50.90,59.99,27.62,2.
 MLM,Martin Marietta Materials,Materials,126.13,1.17,31.75,3.97,64.27,104.53,178.67,8.34,0.76551,2.62,2.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MLM
 MAS,Masco Corp,Industrials,25.53,1.34,23.64,1.08,-0.48,20.41,30.61,8.47,1.09,1.01,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAS
 MA,MasterCard,Information Technology,89.89,0.78,27.60,3.26,5.57,74.61,101.76,100.93,5.49,10.73,16.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MA
-MAT,Mattel,Consumer Discretionary,26.93,5.58,30.43,0.88,7.58,19.45,30.44,9.14,0.83413,1.61,3.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAT
+MAT,Mattel,Consumer Discretionary,26.93,5.62,30.43,0.88,7.58,19.45,30.44,9.14,0.83413,1.61,3.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAT
 MKC,McCormick & Co,Consumer Staples,83.63,2.01,27.11,3.09,13.63,70.70,87.46,10.71,0.6871,2.51,6.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MKC
 MCD,McDonald's Corp,Consumer Discretionary,115.48,3.01,25.01,4.62,9.05,87.50,120.23,106.04,8.91,4.14,12.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCD
 MHFI,McGraw Hill Financial,Financials,88.51,1.34,383.16,0.23,2.43,84.64,109.13,23.92,2.17,4.71,37.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHFI
@@ -302,7 +302,7 @@ MU,Micron Technology,Information Technology,13.33,0.00,7.26,1.84,11.89,13.29,32.
 MSFT,Microsoft Corp,Information Technology,52.33,2.76,34.79,1.50,9.70,39.72,56.85,418.01,32.44,4.59,5.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT
 MHK,Mohawk Industries,Consumer Discretionary,176.82,,,49.90,64.25,155.81,212.16,13.07,1.33,1.63,2.75,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MHK
 TAP,Molson Coors Brewing,Consumer Staples,89.22,1.75,39.48,2.26,39.17,63.91,95.74,16.46,0.6727000000000001,4.51,2.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TAP
-MDLZ,Mondelez International,Consumer Staples,40.99,1.64,7.99,5.13,18.77,33.97,48.58,65.14,4.83,2.13,2.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
+MDLZ,Mondelez International,Consumer Staples,40.99,1.54,7.99,5.13,18.77,33.97,48.58,65.14,4.83,2.13,2.22,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ
 MON,Monsanto Co,Materials,92.79,2.19,24.13,3.85,7.84,81.22,126.00,42.14,4.36,2.96,11.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MON
 MNST,Monster Beverage,Consumer Staples,144.25,,50.07,2.88,22.96,111.92,160.50,29.24,0.9583200000000001,10.97,6.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MNST
 MCO,Moody's Corp,Financials,90.08,1.47,19.30,4.67,-2.38,85.50,113.87,17.81,1.60,5.24,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCO
@@ -423,9 +423,9 @@ STT,State Street Corp,Financials,58.65,2.05,13.70,4.28,46.55,58.53,81.26,23.66,0
 SRCL,Stericycle,Industrials,118.24,,37.90,3.12,31.98,110.56,151.57,10.05,0.7186699999999999,3.66,3.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRCL
 SYK,Stryker Corp,Health Care,87.89,1.64,28.64,3.07,22.59,87.68,105.34,33.00,2.64,3.37,3.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK
 STI,SunTrust Banks,Financials,38.91,2.24,11.49,3.39,43.57,36.52,45.84,19.94,0.00,2.57,0.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STI
-SYMC,Symantec Corp,Information Technology,20.49,2.87,21.10,0.97,8.66,19.07,27.32,13.84,1.73,2.25,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
+SYMC,Symantec Corp,Information Technology,20.49,2.93,21.10,0.97,8.66,19.07,27.32,13.84,1.73,2.25,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
 SYY,Sysco Corp,Consumer Staples,39.80,3.02,36.45,1.09,8.90,35.45,42.03,22.47,2.34,0.46,4.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYY
-TROW,T.Rowe Price Group,Financials,65.36,2.95,14.11,4.63,18.57,65.28,85.22,16.41,2.05,4.04,3.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
+TROW,T.Rowe Price Group,Financials,65.36,3.10,14.11,4.63,18.57,65.28,85.22,16.41,2.05,4.04,3.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
 TGT,Target Corp,Consumer Discretionary,71.38,3.08,,-1.11,21.43,68.15,85.81,43.97,7.41,0.62,3.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
 TEL,TE Connectivity,Information Technology,58.15,2.04,9.88,5.89,24.33,54.32,73.73,22.46,2.61,1.86,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
 TE,TECO Energy,Utilities,26.68,3.38,46.89,0.57,10.89,17.60,27.23,6.28,0.8959,2.29,2.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE
