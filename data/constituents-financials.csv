@@ -38,7 +38,7 @@ AME,AMETEK,Industrials,49.07,0.67,19.71,2.49,13.94,47.85,57.67,11.67,1.07,2.96,3
 AMGN,Amgen,Health Care,150.705,2.610,17.990,8.377,37.047,130.090,181.810,113.68,10.36,5.378,4.129,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMGN
 APH,Amphenol Corp A,Information Technology,46.63,1.07,19.50,2.39,10.20,46.50,60.54,14.37,1.29,2.62,4.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APH
 APC,Anadarko Petroleum,Energy,40.56,2.22,,-11.51,27.71,39.80,95.94,20.61,4.15,1.87,1.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APC
-ADI,Analog Devices,Information Technology,49.98,3.17,22.72,2.20,16.26,49.98,68.97,15.60,1.29,4.58,3.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
+ADI,Analog Devices,Information Technology,49.98,2.96,22.72,2.20,16.26,49.98,68.97,15.60,1.29,4.58,3.10,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
 ANTM,Anthem,Health Care,132.13,1.79,12.65,10.44,89.02,126.25,173.59,34.50,6.32,0.45,1.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
 AON,Aon Plc,Financials,87.02,1.30,19.91,4.37,21.48,86.38,107.08,23.84,2.51,2.08,4.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
 APA,Apache Corp,Energy,36.65,2.25,,-54.96,25.95,35.07,71.87,13.85,5.78,1.60,1.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
@@ -52,7 +52,7 @@ ADSK,Autodesk,Information Technology,55.06,0.00,,-1.24,7.69,42.06,65.78,12.41,0.
 ADP,Automatic Data Processing,Information Technology,78.13,2.69,24.77,3.15,9.99,64.29,90.67,36.03,2.31,3.28,7.88,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADP
 AN,AutoNation,Consumer Discretionary,48.82,,12.12,4.03,20.41,47.91,67.50,5.40,1.01,0.26,2.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AN
 AZO,AutoZone,Consumer Discretionary,712.06,,19.18,37.12,-58.74,569.54,803.25,21.51,2.26,2.16,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
-AVGO,Avago Technologies,Information Technology,128.20,1.36,26.41,4.85,17.06,99.16,150.50,35.45,2.84,5.23,7.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
+AVGO,Avago Technologies,Information Technology,128.20,1.28,26.41,4.85,17.06,99.16,150.50,35.45,2.84,5.23,7.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
 AVB,AvalonBay Communities,Financials,179.42,2.72,32.83,5.47,71.81,158.72,186.89,24.56,1.19,13.39,2.54,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
 AVY,Avery Dennison Corp,Materials,59.69,2.36,19.03,3.14,11.56,50.63,66.65,5.44,0.6918,0.88,5.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVY
 BHI,Baker Hughes,Energy,41.58,1.47,,-0.62,39.93,41.38,70.45,18.13,2.84,0.98,1.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BHI
@@ -423,9 +423,9 @@ STT,State Street Corp,Financials,58.65,2.05,13.70,4.28,46.55,58.53,81.26,23.66,0
 SRCL,Stericycle,Industrials,118.24,,37.90,3.12,31.98,110.56,151.57,10.05,0.7186699999999999,3.66,3.74,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRCL
 SYK,Stryker Corp,Health Care,87.89,1.64,28.64,3.07,22.59,87.68,105.34,33.00,2.64,3.37,3.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK
 STI,SunTrust Banks,Financials,38.91,2.24,11.49,3.39,43.57,36.52,45.84,19.94,0.00,2.57,0.91,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STI
-SYMC,Symantec Corp,Information Technology,20.49,2.93,21.10,0.97,8.66,19.07,27.32,13.84,1.73,2.25,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
+SYMC,Symantec Corp,Information Technology,20.49,2.87,21.10,0.97,8.66,19.07,27.32,13.84,1.73,2.25,2.37,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMC
 SYY,Sysco Corp,Consumer Staples,39.80,3.02,36.45,1.09,8.90,35.45,42.03,22.47,2.34,0.46,4.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYY
-TROW,T.Rowe Price Group,Financials,65.36,3.10,14.11,4.63,18.57,65.28,85.22,16.41,2.05,4.04,3.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
+TROW,T.Rowe Price Group,Financials,65.36,2.95,14.11,4.63,18.57,65.28,85.22,16.41,2.05,4.04,3.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
 TGT,Target Corp,Consumer Discretionary,71.38,3.08,,-1.11,21.43,68.15,85.81,43.97,7.41,0.62,3.45,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
 TEL,TE Connectivity,Information Technology,58.15,2.04,9.88,5.89,24.33,54.32,73.73,22.46,2.61,1.86,2.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
 TE,TECO Energy,Utilities,26.68,3.38,46.89,0.57,10.89,17.60,27.23,6.28,0.8959,2.29,2.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE
