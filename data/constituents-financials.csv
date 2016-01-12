@@ -142,7 +142,7 @@ DFS,Discover Financial Services,Financials,50.49,2.24,10.43,4.84,25.01,49.88,64.
 DISCA,Discovery Communications,Consumer Discretionary,25.83,,15.96,1.62,8.73,25.02,34.94,11.58,2.48,1.82,2.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DISCA
 DG,Dollar General,Consumer Discretionary,69.64,1.23,18.20,3.83,18.37,59.75,81.42,20.26,2.26,1.04,3.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DG
 DLTR,Dollar Tree,Consumer Discretionary,77.36,,64.47,1.20,17.64,60.31,84.22,18.16,1.50,1.45,4.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DLTR
-D,Dominion Resources,Utilities,69.41,3.83,23.03,3.01,21.15,64.54,79.89,41.32,5.30,3.43,3.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=D
+D,Dominion Resources,Utilities,69.41,3.73,23.03,3.01,21.15,64.54,79.89,41.32,5.30,3.43,3.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=D
 DOV,Dover Corp,Industrials,56.97,2.90,10.25,5.56,23.01,55.50,78.21,8.83,1.38,1.24,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOV
 DOW,Dow Chemical,Materials,45.40,3.98,11.66,3.89,17.55,35.11,57.10,52.60,8.64,1.04,2.64,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOW
 DPS,Dr. Pepper Snapple Group,Consumer Staples,92.60,2.08,24.59,3.77,11.62,72.00,95.26,17.49,1.44,2.80,7.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DPS
@@ -286,7 +286,7 @@ MAR,Marriott International,Consumer Discretionary,63.16,1.60,20.65,3.06,-13.94,6
 MMC,Marsh & McLennan,Financials,52.18,2.34,18.58,2.81,11.97,50.90,59.99,27.22,2.77,2.16,4.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMC
 MLM,Martin Marietta Materials,Materials,124.73,1.27,31.40,3.97,64.27,104.53,178.67,8.25,0.76551,2.55,1.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MLM
 MAS,Masco Corp,Industrials,25.15,1.49,23.29,1.08,-0.48,20.41,30.61,8.35,1.09,0.98,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAS
-MA,MasterCard,Information Technology,90.58,0.85,27.81,3.26,5.57,74.61,101.76,101.70,5.49,10.52,16.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MA
+MA,MasterCard,Information Technology,90.58,0.78,27.81,3.26,5.57,74.61,101.76,101.70,5.49,10.52,16.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MA
 MAT,Mattel,Consumer Discretionary,26.70,5.64,30.17,0.88,7.58,19.45,30.44,9.06,0.83413,1.60,3.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAT
 MKC,McCormick & Co,Consumer Staples,84.10,2.06,27.26,3.09,13.63,70.70,87.46,10.77,0.6871,2.51,6.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MKC
 MCD,McDonald's Corp,Consumer Discretionary,116.69,3.08,25.27,4.62,9.05,87.50,120.23,107.15,8.91,4.13,12.76,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCD
@@ -294,7 +294,7 @@ MHFI,McGraw Hill Financial,Financials,88.47,1.49,382.99,0.23,2.43,84.64,109.13,2
 MCK,McKesson Corp,Health Care,163.55,0.61,21.40,7.64,38.19,160.10,243.61,37.63,4.21,0.22,4.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCK
 MJN,Mead Johnson Nutrition,Consumer Staples,70.55,2.26,21.00,3.36,1.78,69.20,105.45,13.91,1.07,3.43,40.99,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MJN
 MDT,Medtronic Plc,Health Care,73.00,2.06,41.71,1.75,37.17,55.54,79.50,102.65,7.71,4.02,1.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDT
-MRK,Merck & Co,Health Care,51.25,3.60,13.60,3.77,16.27,45.69,63.62,143.17,14.57,3.59,3.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK
+MRK,Merck & Co,Health Care,51.25,3.48,13.60,3.77,16.27,45.69,63.62,143.17,14.57,3.59,3.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRK
 MET,MetLife,Financials,41.71,3.57,8.08,5.16,63.24,40.97,58.23,46.37,10.07,0.65,0.66,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MET
 KORS,Michael Kors Holdings,Consumer Discretionary,37.14,,8.69,4.27,10.27,36.58,73.47,6.81,1.36,1.54,3.68,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KORS
 MCHP,Microchip Technology,Information Technology,41.50,3.45,24.00,1.73,10.49,37.77,52.44,8.43,0.73476,3.93,3.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCHP
