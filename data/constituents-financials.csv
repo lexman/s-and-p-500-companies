@@ -314,7 +314,7 @@ MYL,Mylan NV,Health Care,50.09,0.00,27.91,1.79,19.96,37.59,76.69,24.63,2.64,2.70
 NDAQ,Nasdaq,Financials,57.58,1.79,27.03,2.13,33.80,44.82,60.11,9.46,1.05,2.72,1.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDAQ
 NOV,Natl Oilwell Varco,Energy,30.43,4.76,9.05,3.36,48.24,29.55,59.82,11.43,3.08,0.63,0.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOV
 NAVI,Navient Corp,Financials,10.01,6.29,4.04,2.47,10.72,9.80,22.41,3.63,0.00,1.52,0.93,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NAVI
-NTAP,NetApp,Information Technology,22.60,3.13,17.53,1.29,10.23,22.30,40.42,6.61,0.6635,1.14,2.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTAP
+NTAP,NetApp,Information Technology,22.60,3.13,17.53,1.29,10.23,22.30,39.90,6.61,0.6635,1.14,2.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTAP
 NFLX,NetFlix,Consumer Discretionary,116.58,,310.05,0.38,5.07,45.68,133.27,49.82,0.37209,7.63,22.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX
 NWL,Newell Rubbermaid,Consumer Discretionary,39.97,1.93,28.01,1.43,6.68,36.33,50.90,10.68,0.9914,1.79,5.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NWL
 NFX,Newfield Exploration,Energy,29.31,,,-15.39,12.56,22.31,41.34,4.74,1.67,2.77,2.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFX
@@ -467,7 +467,7 @@ VRSN,VeriSign,Information Technology,79.29,0.00,31.22,2.54,-9.22,53.48,93.94,8.8
 VZ,Verizon Communications,Telecommunication Services,44.93,5.04,18.03,2.49,3.23,38.06,50.86,182.81,37.23,1.41,13.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VZ
 VRTX,Vertex Pharmaceuticals,Health Care,103.64,,,-2.74,3.75,97.45,143.45,25.47,-0.50022,33.65,27.69,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRTX
 VFC,VF Corp,Consumer Discretionary,57.72,2.54,24.01,2.40,12.58,55.84,77.83,24.61,2.11,1.92,4.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VFC
-VIAB,Viacom,Consumer Discretionary,41.69,3.90,8.81,4.73,8.89,36.32,74.17,16.54,4.12,1.22,4.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VIAB
+VIAB,Viacom,Consumer Discretionary,41.69,3.90,8.81,4.73,8.89,36.32,73.52,16.54,4.12,1.22,4.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VIAB
 V,Visa,Information Technology,74.76,0.77,28.82,2.59,12.26,60.00,81.01,181.70,9.32,12.94,6.03,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=V
 VNO,Vornado Realty Trust,Financials,94.28,2.62,18.56,5.08,28.67,84.60,115.73,17.78,1.35,6.48,3.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VNO
 VMC,Vulcan Materials,Materials,86.71,0.46,68.49,1.27,32.73,65.37,106.84,11.56,0.74622,3.45,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VMC
