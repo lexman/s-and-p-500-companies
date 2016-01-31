@@ -1,6 +1,6 @@
 file://List_of_S%26P_500_companies.html <- https://en.wikipedia.org/wiki/List_of_S%26P_500_companies ! download
 
-file://../data/constituents.csv <- file://List_of_S%26P_500_companies.html ! python
+file://data/constituents.csv <- file://List_of_S%26P_500_companies.html ! python
     from bs4 import BeautifulSoup
     import csv
     source_page = open('List_of_S%26P_500_companies.html').read()
@@ -31,7 +31,7 @@ file://../data/constituents.csv <- file://List_of_S%26P_500_companies.html ! pyt
     writer.writerows(records)    
 
     
-file://../data/constituents-financials.csv <- https://www.flickr.com/, file://../data/constituents.csv ! python
+file://data/constituents-financials.csv <- https://www.flickr.com/, file://data/constituents.csv ! python
     # NB : adding https://www.flickr.com/ to the input resources is a brutal way to force invalidation 
     # of constituents-financials.csv, in order to follow the regular change of the yahoo API results
 	
@@ -99,4 +99,3 @@ http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/consti
     git commit -m "[data] automatic update $TODAY" || exit 0
     git pull --rebase
     git push
-
