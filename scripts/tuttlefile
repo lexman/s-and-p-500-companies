@@ -88,9 +88,8 @@ file://../data/constituents-financials.csv <- https://www.flickr.com/, file://..
     
 http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/constituents-financials.csv, http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/constituents.csv <- file://../data/constituents-financials.csv, file://../data/constituents.csv
     git add ../data/constituents-financials.csv ../data/constituents.csv
-    TODAY=`date +%Y%m%d-%H:%M`
+    set TODAY=`date +%Y%m%d-%H:%M`
     git commit -m "[data] automatic update $TODAY" || exit 0
-    # In case someone has pushed some changes during the processing
     git pull --rebase
     git push
 
