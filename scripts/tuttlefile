@@ -37,7 +37,14 @@ file://../data/constituents-financials.csv <- https://www.flickr.com/, file://..
 	
     import urllib
     import csv
-    from fixers import correctToBillions
+
+    def correctToBillions(item):
+        if item.endswith('M'):
+            return float(item[:-1]) / 1000
+        elif item.endswith('B'):
+            return item[:-1]
+        else:
+            return item
 
     items = [
         ['l1', 'Price'], # strictly this is ask price
