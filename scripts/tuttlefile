@@ -31,7 +31,7 @@ file://../data/constituents.csv <- file://List_of_S%26P_500_companies.html ! pyt
     writer.writerows(records)    
 
     
-file://../data/constituents-financials.csv <- https://www.flickr.com/, file://../data/constituents.csv, file://fixers.py ! python
+file://../data/constituents-financials.csv <- https://www.flickr.com/, file://../data/constituents.csv ! python
     # NB : adding https://www.flickr.com/ to the input resources is a brutal way to force invalidation 
     # of constituents-financials.csv, in order to follow the regular change of the yahoo API results
 	
