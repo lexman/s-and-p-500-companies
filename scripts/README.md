@@ -27,12 +27,9 @@ The scripts work with some python code and are glued together with [tuttle](gith
 
 Install all dependencies :
 
-    pip install jinja2
     pip install -r requirements.txt
 
 You can also work on a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/) .
-
-NB : under debian-based distributions you might need to be able to compile and install the messytables dependencies : ``sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev``
 
 	
 ## Run the scripts
