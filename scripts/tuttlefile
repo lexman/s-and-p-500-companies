@@ -1,6 +1,6 @@
 file://List_of_S%26P_500_companies.html <- https://en.wikipedia.org/wiki/List_of_S%26P_500_companies ! download
 
-file://data/constituents.csv <- file://List_of_S%26P_500_companies.html ! python
+file://../data/constituents.csv <- file://List_of_S%26P_500_companies.html ! python
     from bs4 import BeautifulSoup
     import csv
     source_page = open('List_of_S%26P_500_companies.html').read()
@@ -24,14 +24,14 @@ file://data/constituents.csv <- file://List_of_S%26P_500_companies.html ! python
             records.append([symbol, name, sector])
    
     header = ['Symbol', 'Name', 'Sector']
-    writer = csv.writer(open('data/constituents.csv', 'w'), lineterminator='\n')
+    writer = csv.writer(open('../data/constituents.csv', 'w'), lineterminator='\n')
     writer.writerow(header)
     # Sorting ensure easy tracking of modifications
     records.sort(key=lambda s: s[1].lower())
     writer.writerows(records)    
 
     
-file://data/constituents-financials.csv <- https://www.flickr.com/, file://data/constituents.csv ! python
+file://../data/constituents-financials.csv <- https://www.flickr.com/, file://../data/constituents.csv ! python
     # NB : adding https://www.flickr.com/ to the input resources is a brutal way to force invalidation 
     # of constituents-financials.csv, in order to follow the regular change of the yahoo API results
 	
@@ -65,7 +65,7 @@ file://data/constituents-financials.csv <- https://www.flickr.com/, file://data/
     edgar = 'http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK='
 
 
-    reader = csv.reader(open('data/constituents.csv'))
+    reader = csv.reader(open('../data/constituents.csv'))
     outrows = [ row for row in reader ]
     symbols = [ row[0] for row in outrows[1:] ]
 
@@ -88,13 +88,13 @@ file://data/constituents-financials.csv <- https://www.flickr.com/, file://data/
             outrows[realidx] = outrows[realidx] + row
         print('Processed: %s rows' % (idx + 20))
 
-    fo = open('data/constituents-financials.csv', 'w')
+    fo = open('../data/constituents-financials.csv', 'w')
     writer = csv.writer(fo, lineterminator='\n')
     writer.writerows(outrows)
     fo.close()
     
 http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/constituents-financials.csv, http://raw.githubusercontent.com/lexman/s-and-p-500-companies/master/data/constituents.csv <- file://data/constituents-financials.csv, file://data/constituents.csv
-    git add data/constituents-financials.csv data/constituents.csv
+    git add ../data/constituents-financials.csv data/constituents.csv
     set TODAY=`date +%Y%m%d-%H:%M`
     git commit -m "[data] automatic update $TODAY" || exit 0
     git pull --rebase
