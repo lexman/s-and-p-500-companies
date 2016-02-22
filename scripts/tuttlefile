@@ -76,7 +76,7 @@ file://../data/constituents-financials.csv <- https://www.flickr.com/, file://..
 
     outrows[0] += [ item[1] for item in items ] + ['SEC Filings']
     
-    for idx in range(0,500,20):
+    for idx in range(0,len(symbols),20):
         query = url + 's=' + '+'.join(symbols[idx:idx+20]) + '&f=' + params
         fo = urllib.urlopen(query)
         tmpcsv  = csv.reader(fo)
