@@ -3,6 +3,11 @@ file://List_of_S%26P_500_companies.html <- https://en.wikipedia.org/wiki/List_of
 file://../data/constituents.csv <- file://List_of_S%26P_500_companies.html ! python
     from bs4 import BeautifulSoup
     import csv
+    from os import mkdir
+    from os.path import exists, join
+    datadir = join('..', 'data')
+    if not exists(datadir):
+        mkdir(datadir)
     source_page = open('List_of_S%26P_500_companies.html').read()
     soup = BeautifulSoup(source_page)
     table = soup.find("table", { "class" : "wikitable sortable" })
