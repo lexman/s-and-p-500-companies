@@ -35,6 +35,6 @@ You can also work on a [virtualenv](http://docs.python-guide.org/en/latest/dev/v
 ## Run the scripts
 
     cd scripts
-	tuttle run
+	make
 	
 Now you have updated the datapackage on your github repository !
